@@ -16,6 +16,7 @@ wordpress_id: 162
 
 
 Labelled sequent calculi provide, through an internalization of possible worlds' semantics, a versatile formalism for the proof theory of large families of philosophical logics  (Negri 2005). Recently, the method has been extended to cover any modal logic characterized by first-order frame conditions  (Dyckhoff and Negri 2015). The semantics of important intensional connectives, such as the counterfactual conditional or the modalities of non-normal systems, however, escapes such analysis and requires the more general neighbourhood semantics.
+
 In the first part of the talk we'll show how the formalism of labelled calculi can be extended to encompass neighbourhood semantics so as to obtain calculi with invertible rules and admissible structural rules (Negri 2016).
 In the second part, we shall present for the logic of conditional beliefs the development of a calculus that starts from a conversion of plausibility models to neighbourhood models (Girlando, Negri, Olivetti, Risch 2016).
 
@@ -23,17 +24,10 @@ In the second part, we shall present for the logic of conditional beliefs the de
 
 
 
-	
   * Dyckhoff, R. and S. Negri (2015) _Geometrization of first-order logic,_ The Bulletin of Symbolic Logic, vol. 21, pp. 123-163.
-
-	
   * Negri, S.  (2005) _Proof analysis in modal logic._ Journal of Philosophical Logic, vol. 34, pp. 507-544.
-
-	
   * Negri, S. (2016) _Proof theory for non-normal modal logics: The neighbourhood  formalism and basic results_,
 IfCoLog JJournal of Logic and its Applications, to appear.
-
-	
   * Girlando, M., S. Negri, N. Olivetti, V. Risch (2016) _The logic of conditional beliefs: neighbourhood semantics and sequent calculus_, AiML'16, to appear.
 
 

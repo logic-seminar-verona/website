@@ -22,11 +22,13 @@ helps--by a one-step argument--to the desired contradiction. Crucially
 though, this one step does not depend on maximality, and in fact a more
 general method is hovering in the background, which hitherto has been
 applied to hypothetical counterexamples only.
+
 As a consequence, this and related proof patterns can sometimes be turned
 into direct proofs with Open Induction (OI) as an equivalent of ZL. We now
 bring this approach to a somewhat unexpected type of application: to
 extension theorems such as the ones going back to Helly, Hahn, Banach and
 Riesz as well as to Baer's Criterion for whether a module is injective.
+
 To this end, we distill a General Extension Theorem (GET) for complete
 partial orders, the intended meaning being that the poset under
 consideration consists of partial extensions of which one is to be proved
@@ -35,6 +37,7 @@ before: that there be a function extending each partial extension by any
 potential element of its domain. As compared with the typical indirect proof
 with ZL of an extension theorem, GET already postulates the existence of a
 total extension rather than a maximal one.
+
 In ZF set theory, say, GET is an immediate consequence of OI, and both ZL
 and the Well-Ordering Theorem follow from GET in a straightforward way;
 whence GET is a ZF equivalent of the Axiom of Choice (AC). Attempting to

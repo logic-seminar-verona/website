@@ -80,9 +80,6 @@ Elimination theorem for the theory of binary choice sequences _[abstract](http:/
 Real projections of non-standard functions _[abstract](http://www.logicseminarverona.wordpress.com/emanuele-bottazzi)_
 
 
-##### 
-
-
 
 
 ##### 2015
