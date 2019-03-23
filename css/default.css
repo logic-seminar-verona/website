@@ -142,7 +142,7 @@ header {
   letter-spacing: 4px;
   font-weight: bold;
   font-family: Raleway, sans-serif;
-  font-size: 30px;
+  font-size: xx-large;
 }
 
 .logo a { color: white; }
@@ -155,7 +155,7 @@ nav {
   padding: 1em;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 13px;
+  font-size: smaller;
   text-align: center;
 }
 nav a { color: #aaa; padding-left: 0.5em; padding-right: 0.5em; }
@@ -166,7 +166,14 @@ nav a { color: #aaa; padding-left: 0.5em; padding-right: 0.5em; }
 
 .header { color: #6d6d6d; }
 
-main { margin: 1em; }
+main { margin: 1em; max-width: 40em; line-height: 1.6em; margin-top: 3em; font-size: larger; }
+@media (min-width: 40em) {
+  main { margin-left: 10%; }
+}
+main hr { margin-left: 0; text-align: left; width: 10%; height: 1px; color: #aaa; border: none; background-color: #aaa; }
+
+h1 { margin-top: 3em; font-size: 200%; }
+h1 a { color: black; }
 
 /*
 body {
