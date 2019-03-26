@@ -15,4 +15,4 @@ Constructive description logics define interpretations of description logics und
 
 In this seminar we provide a brief introduction on constructive semantics for description logics, mostly concentrating on information terms semantics. We then discuss a solution to address the highlighted applicative aspect: from the theoretical point of view, we first introduce an information terms semantics for the minimal description logic EL and we establish formal results linking this constructive semantics to answer set semantics. Using these results, on the practical side, we then present a prototype managing one aspect of such semantics (the generation of information terms of a knowledge base) using OWL-EL ontologies and "off the shelf" tools.
 
-[slides](https://logicseminarverona.files.wordpress.com/2016/07/seminarioconstrdlii17_slides.pdf)
+[slides](/files/seminarioconstrdlii17_slides.pdf)

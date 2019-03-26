@@ -4,7 +4,7 @@ date: 2017-09-15 14:17:19+00:00
 title: Workshop
 ---
 
-![PaC](https://logicseminarverona.files.wordpress.com/2017/08/pac2.jpg)
+![PaC](/images/pac2.jpg)
 
 Workshop\
 Friday, October 6th\

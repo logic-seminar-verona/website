@@ -16,4 +16,4 @@ This has been first spotted in the groupoid model of M. Hofmann and myself in 19
 
 We will explain the basic concepts and will sketch the construction of the simplicial set model. The latter is well known and in common use in modern homotopy theory where spaces are studied in terms of their associated weak higher dimensional groupoids.
 
-Slides are available [here](https://logicseminarverona.files.wordpress.com/2016/03/hotttalk.pdf).
+Slides are available [here](/files/hotttalk.pdf).

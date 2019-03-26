@@ -6,4 +6,4 @@ title: Workshop
 
 ![Plakat2](https://logicseminarverona.files.wordpress.com/2017/11/plakat21.jpg)
 
-Programme and abstracts can be found [here](https://logicseminarverona.files.wordpress.com/2017/11/programm6.pdf).
+Programme and abstracts can be found [here](/files/programm6.pdf).

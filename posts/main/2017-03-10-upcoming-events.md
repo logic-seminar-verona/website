@@ -13,10 +13,10 @@ The truth predicate is commonly thought to be symmetric, at least in the sense t
 
 (Joint work with **[Carlo Nicolai](http://www.mcmp.philosophie.uni-muenchen.de/people/faculty/nicolai_carlo/index.html), **LMU Munich)
 
-[slides](https://logicseminarverona.files.wordpress.com/2017/03/truth_implication.pdf)
+[slides](/files/truth_implication.pdf)
 
 **8. May 2017**
 
-[**Categories, Constructions, Sets and Types**](https://logicseminarverona.wordpress.com/minisymposium/)
+[**Categories, Constructions, Sets and Types**](/minisymposium/)
 Minisymposium
 

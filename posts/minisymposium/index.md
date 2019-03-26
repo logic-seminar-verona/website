@@ -9,7 +9,7 @@ title: Minisymposium
 
 
 
-## ![MiniSymp](https://logicseminarverona.files.wordpress.com/2017/04/minisymp5.jpg)
+## ![MiniSymp](/images/minisymp5.jpg)
 
 
 **Categories, Constructions, Sets and Types**\
