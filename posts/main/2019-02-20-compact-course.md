@@ -29,7 +29,7 @@ Wed 20 Mar 09:30-12:30
 
 ___
 
-The lecture on Wednesday will comprise a [research seminar](http://www.di.univr.it/?ent=seminario&id=4712&idC=70&lang=it):
+The lecture on Wednesday will comprise a [research seminar](https://www.di.univr.it/?ent=seminario&id=4712&idC=70&lang=it):
 
 **A new application of proof mining in the fixed point theory of uniformly convex Banach spaces**
 
@@ -55,4 +55,4 @@ Cà Vignal 2, 2nd floor, sala riunioni
 
 
 
-For further information, please see the [course webpage](http://www.di.univr.it/?ent=seminario&id=4675&idC=70).
+For further information, please see the [course webpage](https://www.di.univr.it/?ent=seminario&id=4675&idC=70).

@@ -19,10 +19,10 @@ Minisymposium
 
 March 09, 2017
 
-[**MATTEO CRISTANI**](http://www.di.univr.it/?ent=persona&id=62&lang=it) (University of Verona)
+[**MATTEO CRISTANI**](https://www.di.univr.it/?ent=persona&id=62&lang=it) (University of Verona)
 Multivalued Logics and Alternative Negation Operators _[abstract](/matteo-cristani/)_
 
-[**STEFAN NEUWIRTH**](http://lmb.univ-fcomte.fr/stefan-neuwirth?lang=fr) (University of Franche-Comté)
+[**STEFAN NEUWIRTH**](https://lmb.univ-fcomte.fr/stefan-neuwirth?lang=fr) (University of Franche-Comté)
 Paul Lorenzen: logic and algebra _[abstract](/stefan-neuwirth/)_
 
 Feb 02, 2017
@@ -54,25 +54,25 @@ Morse Set Theory as a Foundation for Constructive Mathematics _[abstract](/dougl
 
 April 12, 2016
 
-[**THOMAS STREICHER**](http://www3.mathematik.tu-darmstadt.de/en/ags/ag-logik/arbeitsgruppe-logik/streicher.html) (TU Darmstadt)
+[**THOMAS STREICHER**](https://www3.mathematik.tu-darmstadt.de/en/ags/ag-logik/arbeitsgruppe-logik/streicher.html) (TU Darmstadt)
 Isomorphic Types are Equal? _[abstract](/thomas-streicher/), [slides](https://logicseminarverona.files.wordpress.com/2016/03/hotttalk.pdf)_
 
 March 15, 2016
 
-**[HAJIME ISHIHARA](http://www.jaist.ac.jp/profiles/info_e.php?profile_id=48&syozoku=12)** (JAIST)
+**[HAJIME ISHIHARA](https://www.jaist.ac.jp/profiles/info_e.php?profile_id=48&syozoku=12)** (JAIST)
 Constructive reverse mathematics: an introduction and recent results _[abstract](/hajime-ishihara/)_
 
-**[HELMUT SCHWICHTENBERG](http://www.mathematik.uni-muenchen.de/~schwicht/)** (LMU Munich)
+**[HELMUT SCHWICHTENBERG](https://www.mathematik.uni-muenchen.de/~schwicht/)** (LMU Munich)
 Linear two-sorted constructive arithmetic _[abstract
-](/helmut-schwichtenberg/)_Decorating natural deduction (mini course)_ _[lecture notes](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ss16/deco.pdf), [slides](http://www.mathematik.uni-muenchen.de/~schwicht/slides/veronaa16.pdf)__
+](/helmut-schwichtenberg/)_Decorating natural deduction (mini course)_ _[lecture notes](https://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ss16/deco.pdf), [slides](https://www.mathematik.uni-muenchen.de/~schwicht/slides/veronaa16.pdf)__
 
 Feb 04, 2016
 
 **TATSUJI KAWAI** (JAIST)
-Elimination theorem for the theory of binary choice sequences _[abstract](http://www.logicseminarverona.wordpress.com/tatsuji-kawai)_
+Elimination theorem for the theory of binary choice sequences _[abstract](/tatsuji-kawai)_
 
-**[EMANUELE BOTTAZZI](http://www.science.unitn.it/~bottazzi/)** (University of Trento)
-Real projections of non-standard functions _[abstract](http://www.logicseminarverona.wordpress.com/emanuele-bottazzi)_
+**[EMANUELE BOTTAZZI](https://www.science.unitn.it/~bottazzi/)** (University of Trento)
+Real projections of non-standard functions _[abstract](/emanuele-bottazzi)_
 
 
 
@@ -82,7 +82,7 @@ Real projections of non-standard functions _[abstract](http://www.logicseminarve
 
 Dec 09, 2015
 
-**[DIRK PATTINSON](http://users.cecs.anu.edu.au/~dpattinson/)** (Australian National University)
+**[DIRK PATTINSON](https://users.cecs.anu.edu.au/~dpattinson/)** (Australian National University)
 Vote counting as mathematical proof _[abstract](logicseminarverona.wordpress.com/dirk-pattinson)_
 
 **[MARGHERITA ZORZI](http://profs.sci.univr.it/~zorzim/)** (University of Verona)
@@ -90,10 +90,10 @@ On quantum lambda calculi: a foundational perspective _[abstract](logicseminarve
 
 Nov 16, 2015
 
-**[GIUSEPPE ROSOLINI](http://www.disi.unige.it/person/RosoliniG/)** (University of Genoa)
+**[GIUSEPPE ROSOLINI](https://www.disi.unige.it/person/RosoliniG/)** (University of Genoa)
 Exact completions, homotopical quotients, and type theory _[abstract](/giuseppe-rosolini)_
 
-**[MATTEO CRISTANI](http://www.di.univr.it/?ent=persona&id=62&lang=it)** (University of Verona)
+**[MATTEO CRISTANI](https://www.di.univr.it/?ent=persona&id=62&lang=it)** (University of Verona)
 Defeasible logic. A non monotonic approach to plausible conclusions _[abstract](/matteo-cristani)_
 
 Oct 14, 2015
@@ -101,7 +101,7 @@ Oct 14, 2015
 **[SARA NEGRI](http://www.helsinki.fi/~negri/) **(University of Helsinki)
 Glivenko sequent classes in the light of structural proof theory [_abstract_](/sara-negri/)
 
-**[SAMUELE MASCHIO](http://www.math.unipd.it/en/department/people/user.php?usertype=7&user=656) **(University of Padua)
+**[SAMUELE MASCHIO](https://www.math.unipd.it/en/department/people/user.php?usertype=7&user=656) **(University of Padua)
 Realizability for the Minimalist Foundation [_abstract_](/samuele-maschio/)
 
 April 14, 2015

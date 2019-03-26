@@ -4,7 +4,7 @@ date: 2015-11-05 17:40:33+00:00
 title: VENUE
 ---
 
-[Department of Computer Science](http://www.di.univr.it/)
+[Department of Computer Science](https://www.di.univr.it/)
 University of Verona
 Strada le Grazie 15
 37134 Verona

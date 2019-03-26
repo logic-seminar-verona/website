@@ -22,14 +22,14 @@ _12:40   **Takako Nemoto**_ - Finite sets and infinite sets in weak intuitioni
 
 Abstracts:
 
-[Hajime Ishihara](http://www.jaist.ac.jp/profiles/info_e.php?profile_id=48&syozoku=12)
+[Hajime Ishihara](https://www.jaist.ac.jp/profiles/info_e.php?profile_id=48&syozoku=12)
 _The Hahn-Banach theorem, constructively revisited_
 
 We review known constructive versions, such as the separation theorem and continuous extension theorem, of the Hahn-Banach theorem and their proofs, and consider new versions including the dominated extension theorem and their proofs.
 
 ___
 
-[Takako Nemoto](http://www.jaist.ac.jp/~t-nemoto/)
+[Takako Nemoto](https://www.jaist.ac.jp/~t-nemoto/)
 _Finite sets and infinite sets in weak intuitionistic arithmetic_
 
 We consider, for a set A of natural numbers, the following notions of finiteness
@@ -52,7 +52,7 @@ We systematically compare them in the method of constructive reverse mathematics
 
 ___
 
-[Fabio Pasquali](http://www.math.unipd.it/en/department/people/user.php?usertype=7&user=897)
+[Fabio Pasquali](https://www.math.unipd.it/en/department/people/user.php?usertype=7&user=897)
 _Choice principles and the tripos-to-topos construction_
 
 In this talk we study the connections between choice principles expressed in categorical logic and the Tripos-to-Topos construction [HJP80].
@@ -65,7 +65,7 @@ This is a joint work with M. E. Maietti and G. Rosolini based on [MPR, MR16, Pas
 
 ___
 
-[Chuangjie Xu](http://cj-xu.github.io/)
+[Chuangjie Xu](https://cj-xu.github.io/)
 _Unifying (Herbrand) functional interpretations of (nonstandard) arithmetic_
 
 We extend Oliva’s method [3] to obtain a parametrised functional interpretation for nonstandard arithmetic. By instantiating the parametrised relations, we obtain the Herbrand functional interpretations introduced in [2,4] for nonstandard arithmetic as well as the usual, well-known ones for Berger’s uniform Heyting arithmetic [1].
@@ -83,5 +83,5 @@ Organised by Peter Schuster and Daniel Wessel.
 
 
 Please note further that on Thursday, October 5th, 4pm,
-there will be a [departmental seminar](http://www.di.univr.it/?ent=seminario&id=4085) with [Olivia Caramello](http://www.oliviacaramello.com/):
+there will be a [departmental seminar](https://www.di.univr.it/?ent=seminario&id=4085) with [Olivia Caramello](https://www.oliviacaramello.com/):
 _The proof-theoretic relevance of Grothendieck topologies_

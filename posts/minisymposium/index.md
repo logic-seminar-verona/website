@@ -29,7 +29,7 @@ Schedule:
 
 ___
 
-[Iosif Petrakis](http://www.mathematik.uni-muenchen.de/~petrakis/) (LMU Munich)\
+[Iosif Petrakis](https://www.mathematik.uni-muenchen.de/~petrakis/) (LMU Munich)\
 _**Univalent types**_
 
 Bishop's notion of set is interpreted in Martin-Löf's type theory as a type A equipped with an equivalence relation R on A such that R(x, y) is a mere proposition, for every x, y : A. We define the notion of a concrete Bishop type as a generalization of a Bishop set, and through it we study the notion of a univalent type, a concept which generalizes the behavior of the universe and the function type in homotopy type theory.
@@ -54,7 +54,7 @@ References: [I](https://arxiv.org/pdf/1606.05916.pdf), [II](https://homotopytype
 
 ___
 
-[Chuangjie Xu](http://www.mathematik.uni-muenchen.de/~xu/) (LMU Munich)\
+[Chuangjie Xu](https://cj-xu.github.io/) (LMU Munich)\
 _**Extracting computer programs from nonstandard proofs**_
 
 A nonstandard variant of the Dialectica interpretation has been introduced by van den Berg et al. to obtain computational content from proofs in system H, a constructive fragment of Nelson’s Internal Set Theory. We reformulate it in a way that is suitable for a type-theoretic development, and then formalise (parts of) its soundness theorem in the Agda proof assistant to extract Agda programs from nonstandard proofs.
@@ -92,14 +92,14 @@ ___
 
 
 
-[Fabio Pasquali](http://www.math.unipd.it/en/department/people/user.php?usertype=7&user=897) (University of Padova)\
+[Fabio Pasquali](https://www.math.unipd.it/en/department/people/user.php?usertype=7&user=897) (University of Padova)\
 _**Elementary quotient completion of an elementary doctrine**_
 
 Maietti and Rosolini generalized the notion of exact completion of a weakly lex category to that of elementary quotient completion of a Lawvere’s elementary doctrine, namely a doctrine that validates many sorted conjunctive logic with equality.
 An important application of the construction is the quotient model used by Maietti to make possible the extraction of programs from constructive proofs in Maietti-Sambin's Minimalist Foundation.
 We analyze some properties of this construction and we discuss some relevant applications of it to the theory of triposes and to equilogical spaces.
 
-(Joint work with [M. Maietti](http://www.math.unipd.it/~maietti/) and [G. Rosolini](http://www.dima.unige.it/~rosolini/))
+(Joint work with [M. Maietti](https://www.math.unipd.it/~maietti/) and [G. Rosolini](http://www.dima.unige.it/~rosolini/))
 
 ___
 
