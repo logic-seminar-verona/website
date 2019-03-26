@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-06 12:45:15+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/daniel-wessel/
-slug: daniel-wessel
 title: Daniel Wessel
-wordpress_id: 178
 ---
 
 14. April 2015

@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-17 11:18:01+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/matteo-cristani/
-slug: matteo-cristani
 title: Matteo Cristani
-wordpress_id: 244
 ---
 
 9. March 2017

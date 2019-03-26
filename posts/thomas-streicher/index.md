@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2016-04-16 10:50:20+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/thomas-streicher/
-slug: thomas-streicher
 title: Thomas Streicher
-wordpress_id: 515
 ---
 
 12. April 2016

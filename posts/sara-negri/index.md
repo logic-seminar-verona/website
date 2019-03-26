@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-06 12:31:06+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/sara-negri/
-slug: sara-negri
 title: Sara Negri
-wordpress_id: 162
 ---
 
 4. July 2016

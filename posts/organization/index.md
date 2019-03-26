@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-05 15:51:48+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/organization/
-slug: organization
 title: ORGANISATION
-wordpress_id: 24
 ---
 
 The seminar is hosted by the [Logic Group](http://www.di.univr.it/?ent=grupporic&id=231&lang=en) at the University of Verona.

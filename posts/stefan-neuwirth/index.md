@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2017-03-10 08:28:56+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/stefan-neuwirth/
-slug: stefan-neuwirth
 title: Stefan Neuwirth
-wordpress_id: 693
 ---
 
 9. March 2017

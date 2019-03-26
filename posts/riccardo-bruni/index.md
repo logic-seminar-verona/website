@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2016-07-06 08:25:20+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/riccardo-bruni/
-slug: riccardo-bruni
 title: Riccardo Bruni
-wordpress_id: 595
 ---
 
 4. July 2016

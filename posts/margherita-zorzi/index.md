@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-12-09 17:44:02+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/margherita-zorzi/
-slug: margherita-zorzi
 title: Margherita Zorzi
-wordpress_id: 277
 ---
 
 09. December 2015

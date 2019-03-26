@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2016-03-17 15:33:58+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/helmut-schwichtenberg/
-slug: helmut-schwichtenberg
 title: Helmut Schwichtenberg
-wordpress_id: 470
 ---
 
 15. March 2016 (Departmental Seminar)

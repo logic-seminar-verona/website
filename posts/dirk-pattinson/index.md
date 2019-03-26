@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-12-09 17:43:02+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/dirk-pattinson/
-slug: dirk-pattinson
 title: Dirk Pattinson
-wordpress_id: 273
 ---
 
 09. December 2015

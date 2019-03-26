@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2016-02-05 09:04:33+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/emanuele-bottazzi/
-slug: emanuele-bottazzi
 title: Emanuele Bottazzi
-wordpress_id: 357
 ---
 
 04. February 2016

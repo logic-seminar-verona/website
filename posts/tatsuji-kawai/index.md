@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2016-02-05 09:02:39+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/tatsuji-kawai/
-slug: tatsuji-kawai
 title: Tatsuji Kawai
-wordpress_id: 348
 ---
 
 04. February 2016

@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-05 16:10:24+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/archive/
-slug: archive
 title: ARCHIVE
-wordpress_id: 28
 ---
 
 ##### 2017

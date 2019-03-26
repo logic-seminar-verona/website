@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-17 11:15:12+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/giuseppe-rosolini/
-slug: giuseppe-rosolini
 title: Giuseppe Rosolini
-wordpress_id: 237
 ---
 
 16. November 2015

@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2017-05-12 07:46:45+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/lorenzo-rossi/
-slug: lorenzo-rossi
 title: Lorenzo Rossi
-wordpress_id: 829
 ---
 
 11. May 2017

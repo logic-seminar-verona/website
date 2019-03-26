@@ -1,14 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2017-03-10 07:00:17+00:00
-layout: post
-link: https://logicseminarverona.wordpress.com/2017/03/10/upcoming-events/
-slug: upcoming-events
 title: Past events
-wordpress_id: 367
-categories:
-- Allgemein
 ---
 
 **11. May 2017**

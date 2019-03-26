@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-06 12:42:28+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/matteo-pascucci/
-slug: matteo-pascucci
 title: Matteo Pascucci
-wordpress_id: 176
 ---
 
 14. April 2015

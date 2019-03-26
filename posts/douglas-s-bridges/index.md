@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2016-05-03 10:55:05+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/douglas-s-bridges/
-slug: douglas-s-bridges
 title: Douglas S. Bridges
-wordpress_id: 564
 ---
 
 2. May 2016

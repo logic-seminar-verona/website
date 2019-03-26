@@ -1,14 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2017-09-15 14:17:19+00:00
-layout: post
-link: https://logicseminarverona.wordpress.com/2017/09/15/save-the-date/
-slug: save-the-date
 title: Workshop
-wordpress_id: 855
-categories:
-- Allgemein
 ---
 
 ![PaC](https://logicseminarverona.files.wordpress.com/2017/08/pac2.jpg)

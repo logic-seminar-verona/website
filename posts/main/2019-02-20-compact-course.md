@@ -1,14 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2019-02-20 15:38:55+00:00
-layout: post
-link: https://logicseminarverona.wordpress.com/2019/02/20/compact-course/
-slug: compact-course
 title: Compact Course & Research Seminar
-wordpress_id: 923
-categories:
-- Allgemein
 ---
 
 **Proof interpretations: A modern perspective**\

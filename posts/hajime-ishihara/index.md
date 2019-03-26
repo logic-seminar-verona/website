@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2016-03-17 15:34:12+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/hajime-ishihara/
-slug: hajime-ishihara
 title: Hajime Ishihara
-wordpress_id: 475
 ---
 
 15. March 2016

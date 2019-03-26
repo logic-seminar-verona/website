@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2017-02-03 11:32:00+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/loris-bozzato/
-slug: loris-bozzato
 title: Loris Bozzato
-wordpress_id: 654
 ---
 
 2. Feburary 2017

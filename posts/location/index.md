@@ -1,12 +1,7 @@
 ---
 author: vlsdaniel
-comments: false
 date: 2015-11-05 17:40:33+00:00
-layout: page
-link: https://logicseminarverona.wordpress.com/location/
-slug: location
 title: VENUE
-wordpress_id: 70
 ---
 
 [Department of Computer Science](http://www.di.univr.it/)
