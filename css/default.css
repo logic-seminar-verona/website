@@ -121,11 +121,8 @@ body {
 
 a { text-decoration: none; color: #8b681c; }
 
-header {
-}
-
 .logo-wrapper {
-  background-image: url(https://logicseminarverona.files.wordpress.com/2015/10/cropped-dscf98543.jpg);
+  background-image: url(/images/banner.jpeg);
   background-size: cover;
   width: 100%;
   text-align: center;

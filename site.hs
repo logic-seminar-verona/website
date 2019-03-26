@@ -1,13 +1,14 @@
---------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
 
-
---------------------------------------------------------------------------------
 main :: IO ()
 main = hakyll $ do
     match "images/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
+    match "files/*" $ do
         route   idRoute
         compile copyFileCompiler
 
@@ -45,7 +46,6 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
 
-
     match "index.html" $ do
         route idRoute
         compile $ do
@@ -62,8 +62,6 @@ main = hakyll $ do
 
     match "templates/*" $ compile templateBodyCompiler
 
-
---------------------------------------------------------------------------------
 postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
