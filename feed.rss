@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Logic Seminar Verona</title>
+        <link>XXX</link>
+        <description><![CDATA[Announcements of talks and workshops]]></description>
+        <atom:link href="XXX/feed.rss" rel="self"
+                   type="application/rss+xml" />
+        <lastBuildDate>Wed, 20 Feb 2019 15:38:55 UT</lastBuildDate>
+        <item>
+    <title>Compact Course & Research Seminar</title>
+    <link>XXX/2019-02-20-compact-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-02-20-compact-course.html>Compact Course & Research Seminar</a></h1>
+    <section class="header">
+        February 20, 2019
+    </section>
+    <section>
+        <p><strong>Proof interpretations: A modern perspective</strong><br />
+<a href="https://www2.mathematik.tu-darmstadt.de/~powell/">Thomas Powell</a> (Technische Universität Darmstadt)</p>
+<p>The aim of this course is to provide an introduction to proof interpretations and program extraction, up to the point where some of their applications in modern mathematics and computer science can be understood. I begin in the first lecture with a broad historical overview, tracing the origins of Gödel’s functional interpretation in Hilbert’s program and the early days of proof theory. The second and third lectures comprise an introduction to the extraction of computational content from proofs, both in the intuitionistic and classical setting. I conclude with a high level overview of the proof mining program, and present some recent applications of program extraction in functional analysis.</p>
+<p>Fri 15 Mar 14:30-16:30<br />
+Mon 18 Mar 09:30-12:30<br />
+Tue 19 Mar 15:30-18:30<br />
+Wed 20 Mar 09:30-12:30</p>
+<hr />
+<p>The lecture on Wednesday will comprise a <a href="https://www.di.univr.it/?ent=seminario&amp;id=4712&amp;idC=70&amp;lang=it">research seminar</a>:</p>
+<p><strong>A new application of proof mining in the fixed point theory of uniformly convex Banach spaces</strong></p>
+<p>Proof mining is a branch of proof theory which makes use of proof theoretic techniques to extract quantitative information from seemingly nonconstructive proofs. In this talk, I present a new application of proof mining in functional analysis, which focuses on the convergence of Picard iterates for generalisations of nonexpansive mappings in uniformly convex Banach spaces.</p>
+<hr />
+<p>Venue:<br />
+Dipartimento di Informatica, Università di Verona<br />
+37134 Verona, Strada Le Grazie 15,<br />
+Cà Vignal 2, 2nd floor, sala riunioni</p>
+<p>For further information, please see the <a href="https://www.di.univr.it/?ent=seminario&amp;id=4675&amp;idC=70">course webpage</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 20 Feb 2019 15:38:55 UT</pubDate>
+    <guid>XXX/2019-02-20-compact-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Seminar</title>
+    <link>XXX/2019-02-04-seminar-3.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-02-04-seminar-3.html>Seminar</a></h1>
+    <section class="header">
+        February  4, 2019
+    </section>
+    <section>
+        <p>Monday, 11 February 2019,<a href="https://www.di.univr.it/?ent=luogo&amp;id=220&amp;lang=it"> Sala Verde</a>.</p>
+<p>Both talks have been <a href="https://www.youtube.com/channel/UCri699KHvTqn8QwnSlgVRZQ/featured">recorded</a>.</p>
+<hr />
+<p>15:30</p>
+<p><a href="https://www.jaist.ac.jp/~t-nemoto/">Takako Nemoto</a> (Japan Advanced Institute of Science and Technology)</p>
+<p><em><a href="https://www.youtube.com/watch?v=bxUXqHgXzsU">Systems for constructive reverse mathematics</a> </em><a href="/files/nemoto.pdf">abstract</a></p>
+<hr />
+<p>17:00</p>
+<p><a href="http://reh.math.uni-duesseldorf.de/~arndt/">Peter Arndt</a> (Heinrich-Heine-Universität Düsseldorf)</p>
+<p><em><a href="https://www.youtube.com/watch?v=R0RlNEI2Owk">Ranges of functors and elementary classes via topos theory</a></em></p>
+<p>Given first order theories S,T and a functor F:Mod(S) –&gt;Mod(T) between their categories of models, one can ask whether objects in the range of F satisfy first-order sentences other than those of T, and whether the essential image of F is an elementary class. Under certain conditions on F we can give criteria for this for so-called k-geometric first-order sentences and k-geometric elementary classes.</p>
+<p>These criteria are obtained by considering classifying toposes associated to S and T, such that F is induced by a geometric morphism between them, and then factorizing this geometric morphism appropriately. The involved notions will be explained and examples will be given.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Mon, 04 Feb 2019 12:55:41 UT</pubDate>
+    <guid>XXX/2019-02-04-seminar-3.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Seminar</title>
+    <link>XXX/2019-01-17-seminar-2.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-01-17-seminar-2.html>Seminar</a></h1>
+    <section class="header">
+        January 17, 2019
+    </section>
+    <section>
+        <p>Thursday, 31 January 2018, 15:30,<a href="https://www.di.univr.it/?ent=luogo&amp;id=220&amp;lang=it"> Sala Verde</a>.</p>
+<p><a href="https://physicalsciences.leeds.ac.uk/pgr/1131/david-natingga-toth">Dávid Natingga</a> (University of Leeds) <em>Introduction to α-Computability Theory</em></p>
+<p>An ordinal α is admissible iff the α-th level Lα of Gödel’s constructible hierarchy satisfies the axioms of Kripke-Platek set theory (roughly predicative part of ZFC).</p>
+<p>α-computability theory is the study of the first-order definability theory over Gödel’s Lα for an admissible ordinal α.</p>
+<p>Equivalently, α-computability theory studies the computability on a Turing machine with a transfinite tape and time of an order type α for an admissible ordinal α.</p>
+<p>The field of α-computability theory is the source of deep connections between computability theory, set theory, model theory, definability theory and other areas of mathematics.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 17 Jan 2019 13:48:20 UT</pubDate>
+    <guid>XXX/2019-01-17-seminar-2.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Seminar</title>
+    <link>XXX/2018-11-26-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2018-11-26-seminar.html>Seminar</a></h1>
+    <section class="header">
+        November 26, 2018
+    </section>
+    <section>
+        <p>Monday, 3 Dec 2018,<a href="https://www.di.univr.it/?ent=luogo&amp;id=220&amp;lang=it"> Sala Verde</a>.</p>
+<hr />
+<p>15:00</p>
+<p><a href="http://profs.sci.univr.it/~zorzim/">Margherita Zorzi</a> (Università di Verona)<br />
+<em>A logic for quantum register measurements</em><br />
+(joint work with Andrea Masini)</p>
+<p>We know that quantum logics are the most prominent logical systems associated to the lattices of closed Hilbert subspaces. But what happens if, following a quantum computing perspective, we want to associate a logic to the process of quantum registers measurements? This paper gives an answer to that question, and, quite surprisingly, shows that such a logic is nothing else but the standard propositional intuitionistic logic.</p>
+<hr />
+<p>16:45</p>
+<p><a href="https://www.ingo-blechschmidt.eu/">Ingo Blechschmidt</a> (Università di Verona)<br />
+<em>New reduction techniques in commutative algebra driven by logical methods</em></p>
+<p>We present a new reduction technique which proposes the following trade-off: If we agree to restrict to constructive reasoning, then we may assume without loss of generality that a given reduced ring is Noetherian and in fact a field, thereby reducing to one of the easiest situations in commutative algebra.</p>
+<p>This technique is implemented by constructing a suitable sheaf model and cannot be mimicked by classical reduction techniques. It has applications both in constructive algebra, for mining classical proofs for constructive content, and in classical algebra, where it has been used to substantially simplify the 50-year-old proof of Grothendieck’s generic freeness lemma.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Mon, 26 Nov 2018 10:06:10 UT</pubDate>
+    <guid>XXX/2018-11-26-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Workshop</title>
+    <link>XXX/2017-11-29-save-the-date-2.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2017-11-29-save-the-date-2.html>Workshop</a></h1>
+    <section class="header">
+        November 29, 2017
+    </section>
+    <section>
+        <figure>
+<img src="/images/plakat21.jpg" alt="Plakat2" /><figcaption>Plakat2</figcaption>
+</figure>
+<p>Programme and abstracts can be found <a href="/files/programm6.pdf">here</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 29 Nov 2017 22:20:52 UT</pubDate>
+    <guid>XXX/2017-11-29-save-the-date-2.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Workshop</title>
+    <link>XXX/2017-09-15-save-the-date.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2017-09-15-save-the-date.html>Workshop</a></h1>
+    <section class="header">
+        September 15, 2017
+    </section>
+    <section>
+        <figure>
+<img src="/images/pac2.jpg" alt="PaC" /><figcaption>PaC</figcaption>
+</figure>
+<p>Workshop<br />
+Friday, October 6th<br />
+Sala riunioni (2° piano)<br />
+Department of Computer Science</p>
+<p>09:30   <strong>Thomas Streicher</strong> - <em>An Effective Version of the Spectral Theorem</em><br />
+10:20   <strong>Hajime Ishihara</strong> - <em>The Hahn-Banach theorem, constructively revisited</em><br />
+11:10   Coffee break<br />
+11:50   <strong>Ihsen Yengui</strong> - <em>Algorithms for computing syzygies over V</em>[<em>X1,…,Xn</em>]<em>, V a valuation ring<br />
+<em>12:40   <strong>Takako Nemoto</strong></em> - Finite sets and infinite sets in weak intuitionistic arithmetic</em><br />
+13:30   Lunch break<br />
+15:30   <strong>Fabio Pasquali</strong> - <em>Choice principles and the tripos-to-topos construction</em><br />
+16:40   <strong>Chuangjie Xu</strong> - <em>Unifying (Herbrand) functional interpretations of (nonstandard) arithmetic</em></p>
+<p>Abstracts:</p>
+<p><a href="https://www.jaist.ac.jp/profiles/info_e.php?profile_id=48&amp;syozoku=12">Hajime Ishihara</a> <em>The Hahn-Banach theorem, constructively revisited</em></p>
+<p>We review known constructive versions, such as the separation theorem and continuous extension theorem, of the Hahn-Banach theorem and their proofs, and consider new versions including the dominated extension theorem and their proofs.</p>
+<hr />
+<p><a href="https://www.jaist.ac.jp/~t-nemoto/">Takako Nemoto</a> <em>Finite sets and infinite sets in weak intuitionistic arithmetic</em></p>
+<p>We consider, for a set A of natural numbers, the following notions of finiteness</p>
+<p>FIN1: There are k and m0,…,mk-1 such that A={m0,…,mk-1} ;<br />
+FIN2: There is an upper bound for A;<br />
+FIN3: There is m such that for all B ⊆ A (|B|&lt;m);<br />
+FIN4: It is not the case that, for all x, there is y such that y∈ A;<br />
+FIN5: It is not the case that, for all m, there is B ⊆ A such that |B|=m,</p>
+<p>and infiniteness</p>
+<p>INF1: There are no k and m0,…,mk-1 such that A={m0,…,mk-1};<br />
+INF2: There is no upper bound for A;<br />
+INF3: There is no m such that for all B ⊆ A (|B|&lt;m);<br />
+INF4: For all y, there is x&gt;y such that x∈ A;<br />
+INF5: For all m, there is B ⊆ A such that |B|=m.</p>
+<p>We systematically compare them in the method of constructive reverse mathematics. We show that the equivalence among them can be characterized by various combinations of induction axioms and non-constructive principles, including the axiom called bounded comprehension.</p>
+<hr />
+<p><a href="https://www.math.unipd.it/en/department/people/user.php?usertype=7&amp;user=897">Fabio Pasquali</a> <em>Choice principles and the tripos-to-topos construction</em></p>
+<p>In this talk we study the connections between choice principles expressed in categorical logic and the Tripos-to-Topos construction [HJP80]. This is a joint work with M. E. Maietti and G. Rosolini based on [MPR, MR16, Pas17].</p>
+<p>[HJP80] J.M.E. Hyland, P.T. Johnstone and A.M. Pitts. Tripos Theory. Math. Proc. Camb. Phil. Soc., 88:205-232, 1980.<br />
+[MR16] M.E. Maietti and G. Rosolini. Relating quotient completions via categorical logic. In Dieter Probst and Peter Schuster (eds), editors, Concepts of Proof in Mathematics, Philosophy and Computer Science, pages 229 - 250. De Gruyter, 2016.<br />
+[Pas17] F. Pasquali. Hilbert’s epsilon-operator in Doctrines. IfCoLog Journal of Logics and their Applications. Vol 4, Num 2: 381-400, 2017<br />
+[MPR] M.E. Maietti, F. Pasquali and G. Rosolini. Triposes, exact completions and Hilbert’s epsilon operator. In preparation.</p>
+<hr />
+<p><a href="https://cj-xu.github.io/">Chuangjie Xu</a> <em>Unifying (Herbrand) functional interpretations of (nonstandard) arithmetic</em></p>
+<p>We extend Oliva’s method [3] to obtain a parametrised functional interpretation for nonstandard arithmetic. By instantiating the parametrised relations, we obtain the Herbrand functional interpretations introduced in [2,4] for nonstandard arithmetic as well as the usual, well-known ones for Berger’s uniform Heyting arithmetic [1].</p>
+<p>[1] U. Berger, Uniform Heyting arithmetic, Annals of Pure and Applied Logic 133 (2005), no. 1, 125-148.<br />
+[2] F. Ferreira and J. Gaspar, Nonstandardness and the bounded functional interpretation, Annals of<br />
+Pure and Applied Logic 166 (2015), no. 6, 701-712.<br />
+[3] P. Oliva, Unifying functional interpretations, Notre Dame J. Formal Logic 47 (2006), no. 2, 263-290.<br />
+[4] B. van den Berg, E. Briseid, and P. Safarik, A functional interpretation for nonstandard arithmetic, Annals of Pure and Applied Logic 163 (2012), no. 12, 1962-1994.</p>
+<hr />
+<p>Organised by Peter Schuster and Daniel Wessel.</p>
+<p>Please note further that on Thursday, October 5th, 4pm, there will be a <a href="https://www.di.univr.it/?ent=seminario&amp;id=4085">departmental seminar</a> with <a href="https://www.oliviacaramello.com/">Olivia Caramello</a>: <em>The proof-theoretic relevance of Grothendieck topologies</em></p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 15 Sep 2017 14:17:19 UT</pubDate>
+    <guid>XXX/2017-09-15-save-the-date.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Past events</title>
+    <link>XXX/2017-03-10-upcoming-events.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2017-03-10-upcoming-events.html>Past events</a></h1>
+    <section class="header">
+        March 10, 2017
+    </section>
+    <section>
+        <p><strong>11. May 2017</strong></p>
+<p><strong><a href="https://www.uni-salzburg.at/index.php?id=205666">Lorenzo Rossi</a></strong> (Paris Lodron University of Salzburg) <strong><em>A unified approach to truth and implication </em></strong></p>
+<p>The truth predicate is commonly thought to be symmetric, at least in the sense that for every sentence <em>A</em>, <em>A</em> and “<em>A</em> is true” should be inter-substitutable <em>salva veritate</em>. In this paper, we study an object-linguistic predicate for <em>implication</em> obeying similar symmetry requirements. While several non-classical logics are compatible with symmetric truth, theories of symmetric implication can only be formulated in a small class of substructural logics. We present an axiomatic theory of symmetric implication and truth over Peano Arithmetic, called <strong>SyIT</strong>, formulated in a non-reflexive logic, and we study its semantics and proof-theory. First, we show that <strong>SyIT</strong> axiomatizes a class of fixed-point models that generalize Saul Kripke’s (1975) fixed points for symmetric truth. Second, we compare <strong>SyIT</strong> with the theory <strong>PKF</strong>_ _(Halbach and Horsten 2006), an axiomatization of Kripke’s fixed points for truth in strong Kleene logic, and we show that <strong>SyIT</strong> and <strong>PKF</strong> are proof-theoretically equivalent. The latter result shows that going substructural and adding a symmetric implication predicate to a theory of symmetric truth comes at no proof-theoretical costs.</p>
+<p>(Joint work with <strong><a href="https://www.mcmp.philosophie.uni-muenchen.de/people/external_members/nicolai_carlo/index.html">Carlo Nicolai</a>, </strong>LMU Munich)</p>
+<p><a href="/files/truth_implication.pdf">slides</a></p>
+<p><strong>8. May 2017</strong></p>
+<p><a href="/minisymposium/"><strong>Categories, Constructions, Sets and Types</strong></a> Minisymposium</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 10 Mar 2017 07:00:17 UT</pubDate>
+    <guid>XXX/2017-03-10-upcoming-events.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+
+    </channel>
+</rss>
