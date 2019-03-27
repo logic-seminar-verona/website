@@ -12,10 +12,6 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
-    match "css/*" $ do
-        route   idRoute
-        compile compressCssCompiler
-
     create ["feed.rss"] $ do
         route idRoute
         compile $ do
