@@ -2,6 +2,7 @@
 author: vlsdaniel
 date: 2015-11-05 17:40:33+00:00
 title: Venue
+on-location: true
 ---
 
 [Department of Computer Science](https://www.di.univr.it/)\

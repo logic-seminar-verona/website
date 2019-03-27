@@ -1,7 +1,8 @@
 ---
 author: vlsdaniel
 date: 2015-11-05 15:51:48+00:00
-title: ORGANISATION
+title: Organisation
+on-organization: true
 ---
 
 The seminar is hosted by the [Logic Group](https://www.di.univr.it/?ent=grupporic&id=231&lang=en) at the University of Verona.
