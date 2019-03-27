@@ -1,3 +1,8 @@
+# Choose a lightweight base image; we provide our own build tools.
+language: c
+
+dist: xenial
+
 sudo: required
 
 before_script:
