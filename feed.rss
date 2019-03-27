@@ -7,8 +7,49 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://logic-seminar-verona.github.io/website//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 20 Feb 2019 15:38:55 UT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2019 13:07:00 UT</lastBuildDate>
         <item>
+    <title>Departmental Seminar</title>
+    <link>https://logic-seminar-verona.github.io/website//2019-03-27-departmental-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-03-27-departmental-seminar.html>Departmental Seminar</a></h1>
+    <section class="header">
+        March 27, 2019
+    </section>
+    <section>
+        <p>Wednesday, 10. April 2019, 15:00, Aula M.</p>
+<p><a href="https://www1.maths.leeds.ac.uk/~rathjen/">Michael Rathjen</a> (University of Leeds)<br />
+<em>Graph Theory and the Transfinite</em></p>
+<p>A bit more than a 100 years ago, as a response to the foundational crisis in mathematics, Hermann Weyl published his “Das Kontinuum” in which he tried to rebuild mathematics from a stance that assumes the existence of the set of natural numbers as an actual completed infinity but no higher infinities. Much later in the 1970s, logicians began to systematically scour various chunks of ordinary mathematics to determine the existential commitments to the infinite that they required. This is known as “Reverse Mathematics”. To put it roughly, it turned out that most of “ordinary” mathematics didn’t need more than what Weyl had assumed. However, there are some notable exceptions. In particular graph theory sports some very nice theorems that require more of the transfinite. The talk will discuss some famous theorems and their relationships with the infinite world.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 27 Mar 2019 13:07:00 UT</pubDate>
+    <guid>https://logic-seminar-verona.github.io/website//2019-03-27-departmental-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Seminar</title>
+    <link>https://logic-seminar-verona.github.io/website//2019-03-27-seminar-4.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-03-27-seminar-4.html>Seminar</a></h1>
+    <section class="header">
+        March 27, 2019
+    </section>
+    <section>
+        <p>Wednesday, 3. April 2019, 10:30, Sala Riunioni (2nd floor).</p>
+<p>Satoru Niki (Japan Advanced Institute of Science and Technology)<br />
+<em>Empirical Negation and Beth Semantics</em></p>
+<p>The negation in intuitionistic logic has a ‘future-oriented’ character, as elucidated by the valuation in Kripke models. Its application in mathematical contexts has been validated by the success of constructive mathematics. Its applicability in non-mathematical contexts, in contrast, is argued to have some problems. The existence of a different, ‘empirical’ notion of negation within the framework of intuitionistic logic has been discussed by Heyting, Dummett and others. De (2013) proposed empirical negation as falsity at the bottom root of a Kripke model, and De and Omori (2014) gave the axiomatisation of this logic.</p>
+<p>In this talk, I will discuss how the choice of semantics in formulating empirical negation affects the logic one obtains, with Beth semantics as a particular example. This is followed by an examination of arithmetic with empirical negation.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 27 Mar 2019 12:14:00 UT</pubDate>
+    <guid>https://logic-seminar-verona.github.io/website//2019-03-27-seminar-4.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Compact Course & Research Seminar</title>
     <link>https://logic-seminar-verona.github.io/website//2019-02-20-compact-course.html</link>
     <description><![CDATA[<article>
