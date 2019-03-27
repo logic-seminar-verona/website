@@ -25,7 +25,7 @@ before_install:
 
 before_cache:
 - mkdir -p $HOME/nix.store
-- nix copy --to file://$HOME/nix.store /nix/store/*
+- for i in /nix/store/*; do nix copy --to file://$HOME/nix.store $i; done
 
 script:
   - nix-shell -p haskellPackages.cabal-install -p wget -p git --run "nix-shell --run './deploy.sh git@github.com:logic-seminar-verona/website.git'"
