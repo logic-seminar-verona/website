@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
-import           Hakyll
+import Data.Monoid (mappend)
+import Hakyll
 
 main :: IO ()
 main = hakyll $ do
@@ -21,6 +21,13 @@ main = hakyll $ do
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
+
+    create ["feed.rss"] $ do
+        route idRoute
+        compile $ do
+            let feedCtx = postCtx `mappend` bodyField "description"
+            posts <- fmap (take 10) . recentFirst =<< loadAllSnapshots "posts/main/*" "content"
+            renderRss feedConfiguration feedCtx posts
 
     match "posts/*/*" $ do
         route $ setExtension "html" `composeRoutes`
@@ -66,3 +73,12 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
+
+feedConfiguration :: FeedConfiguration
+feedConfiguration = FeedConfiguration
+    { feedTitle       = "Logic Seminar Verona"
+    , feedDescription = "Announcements of talks and workshops"
+    , feedAuthorName  = "Dipartimento di Informatica"
+    , feedAuthorEmail = "XXX"
+    , feedRoot        = "XXX"
+    }
