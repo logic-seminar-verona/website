@@ -19,7 +19,7 @@ cache:
     - $HOME/nix.store
 
 before_install:
-- [ -d $HOME/nix.store ] && sudo cp -ar $HOME/nix.store/* /nix/store
+- if [ -d $HOME/nix.store ]; then sudo cp -ar $HOME/nix.store/* /nix/store; fi
 
 before_cache:
 - mkdir -p $HOME/nix.store
