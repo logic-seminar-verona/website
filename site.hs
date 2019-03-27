@@ -75,5 +75,5 @@ feedConfiguration = FeedConfiguration
     , feedDescription = "Announcements of talks and workshops"
     , feedAuthorName  = "Dipartimento di Informatica"
     , feedAuthorEmail = "XXX"
-    , feedRoot        = "XXX"
+    , feedRoot        = "https://logic-seminar-verona.github.io/website/"
     }
