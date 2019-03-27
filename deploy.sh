@@ -18,7 +18,7 @@ function primitive_remote_shell {
 }
 
 echo "* Building site..." >&2
-cabal run site build
+cabal new-run site build
 
 echo "* Checking out current gh-pages branch..." >&2
 cd "$builddir"
