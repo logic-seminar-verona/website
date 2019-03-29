@@ -1,7 +1,7 @@
 # Logic Seminar Verona
 
 This repository hosts the
-[website](https://logic-seminar-verona.github.io/website/) of the Logic Seminar
+[website](https://www.logicverona.it/) of the Logic Seminar
 Verona.
 
 The individual posts are stored as Markdown files in the `posts` subdirectory.
