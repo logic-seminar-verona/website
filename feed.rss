@@ -7,8 +7,34 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 27 Mar 2019 13:07:00 UT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2019 20:00:00 UT</lastBuildDate>
         <item>
+    <title>Seminar talks</title>
+    <link>https://www.logicverona.it//2019-05-30-seminar-talks.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-05-30-seminar-talks.html>Seminar talks</a></h1>
+    <section class="header">
+        May 30, 2019
+    </section>
+    <section>
+        <p>Friday, 31 May 2019, 10:30.</p>
+<p>Four seminar talks will be given as part of the lecture course <a href="https://www.unitn.it/drmath/46/courses">Proofs and Computations</a>:</p>
+<p>Giulio Fellin (University of Verona)<br />
+<em>NID and Fullness</em></p>
+<p>Marco Girardi (University of Trento)<br />
+<em>Diagonal Arguments in Cartesian Closed Categories</em></p>
+<p>Luca Pasetto (University of Verona)<br />
+<em>Incompleteness via the Halting Problem</em></p>
+<p>Francesco Sentieri (University of Verona)<br />
+<em>Grothendieck Universes and Strongly Inaccessible Cardinals</em></p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 30 May 2019 20:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2019-05-30-seminar-talks.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Departmental Seminar</title>
     <link>https://www.logicverona.it//2019-03-27-departmental-seminar.html</link>
     <description><![CDATA[<article>
