@@ -7,8 +7,29 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 30 May 2019 20:00:00 UT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2019 13:07:00 UT</lastBuildDate>
         <item>
+    <title>Departmental Seminar</title>
+    <link>https://www.logicverona.it//2019-09-30-departmental-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-09-30-departmental-seminar.html>Departmental Seminar</a></h1>
+    <section class="header">
+        September 30, 2019
+    </section>
+    <section>
+        <p>Thursday, September 10th, 2019, 16:30, Sala Verde.</p>
+<p><a href="https://www.fmi.uni-jena.de/Beyersdorff.html">Olaf Beyersdorff</a> (Friedrich Schiller University, Jena)<br />
+<em>Solving and Proof Complexity for SAT and QBF</em></p>
+<p><em>Abstract:</em> SAT and QBF solvers have become ubiquitous tools for the solution of hard computational problems from almost all application domains. In this talk we explain the underlying algorithmic principles of solving, both for propositional satisfiability (SAT) and for the more complex case of quantified Boolean formulas (QBF). Particular emphasis will be placed on how these solving approaches can be modelled proof theoretically and which techniques are available to evaluate their proof complexity.</p>
+<p><em>Bio:</em> Since 2018 Olaf Beyersdorff is Professor of Theoretical Computer Science at the Friedrich Schiller University Jena. His research interests are in algorithms, complexity, computational logic, and in particular proof complexity. Before coming to Jena he spent six years at the University of Leeds, as Professor of Computational Logic (2017–18), Associate Professor (2015–17), and Lecturer (2012–15). Since 2018 he is a visiting professor at the University of Leeds. Before that he was a visiting professor (2011/12) and visiting researcher (2009/10) at Sapienza University Rome, Lecturer at Leibniz University Hanover (2007–12) and postdoc at Humboldt University Berlin (2006/07). Beyersdorff obtained a PhD from Humboldt University Berlin in 2006 and completed the habilitation at Leibniz University Hanover in 2011.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Mon, 30 Sep 2019 13:07:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2019-09-30-departmental-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar talks</title>
     <link>https://www.logicverona.it//2019-05-30-seminar-talks.html</link>
     <description><![CDATA[<article>
@@ -272,29 +293,6 @@ Pure and Applied Logic 166 (2015), no. 6, 701-712.<br />
 ]]></description>
     <pubDate>Fri, 15 Sep 2017 14:17:19 UT</pubDate>
     <guid>https://www.logicverona.it//2017-09-15-save-the-date.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Past events</title>
-    <link>https://www.logicverona.it//2017-03-10-upcoming-events.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2017-03-10-upcoming-events.html>Past events</a></h1>
-    <section class="header">
-        March 10, 2017
-    </section>
-    <section>
-        <p><strong>11. May 2017</strong></p>
-<p><strong><a href="https://www.uni-salzburg.at/index.php?id=205666">Lorenzo Rossi</a></strong> (Paris Lodron University of Salzburg) <strong><em>A unified approach to truth and implication </em></strong></p>
-<p>The truth predicate is commonly thought to be symmetric, at least in the sense that for every sentence <em>A</em>, <em>A</em> and “<em>A</em> is true” should be inter-substitutable <em>salva veritate</em>. In this paper, we study an object-linguistic predicate for <em>implication</em> obeying similar symmetry requirements. While several non-classical logics are compatible with symmetric truth, theories of symmetric implication can only be formulated in a small class of substructural logics. We present an axiomatic theory of symmetric implication and truth over Peano Arithmetic, called <strong>SyIT</strong>, formulated in a non-reflexive logic, and we study its semantics and proof-theory. First, we show that <strong>SyIT</strong> axiomatizes a class of fixed-point models that generalize Saul Kripke’s (1975) fixed points for symmetric truth. Second, we compare <strong>SyIT</strong> with the theory <strong>PKF</strong>_ _(Halbach and Horsten 2006), an axiomatization of Kripke’s fixed points for truth in strong Kleene logic, and we show that <strong>SyIT</strong> and <strong>PKF</strong> are proof-theoretically equivalent. The latter result shows that going substructural and adding a symmetric implication predicate to a theory of symmetric truth comes at no proof-theoretical costs.</p>
-<p>(Joint work with <strong><a href="https://www.mcmp.philosophie.uni-muenchen.de/people/external_members/nicolai_carlo/index.html">Carlo Nicolai</a>, </strong>LMU Munich)</p>
-<p><a href="/files/truth_implication.pdf">slides</a></p>
-<p><strong>8. May 2017</strong></p>
-<p><a href="/minisymposium/"><strong>Categories, Constructions, Sets and Types</strong></a> Minisymposium</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 10 Mar 2017 07:00:17 UT</pubDate>
-    <guid>https://www.logicverona.it//2017-03-10-upcoming-events.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
