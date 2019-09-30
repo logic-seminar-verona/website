@@ -26,7 +26,7 @@ echo "$builddir"
 git clone --single-branch -b gh-pages --depth 1 "$repo" .
 
 echo "* Copying site build to working directory..." >&2
-find -not -path "./.git/*" -not -name ".git" -delete
+find -not -path "./.git/*" -not -name ".git" -not -name CNAME -delete
 cp -rv "$root"/_site/* .
 
 echo "* Committing..." >&2
