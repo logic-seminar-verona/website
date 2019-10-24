@@ -7,8 +7,28 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Mon, 30 Sep 2019 13:07:00 UT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2019 13:07:00 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2019-10-24-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2019-10-24-seminar.html>Seminar</a></h1>
+    <section class="header">
+        October 24, 2019
+    </section>
+    <section>
+        <p>Tuesday, October 29th, 2019, 16:10, Aula C (location to be confirmed).</p>
+<p><a href="https://www.uninsubria.it/hpp/roberta.bonacina">Roberta Bonacina</a> (Università degli Studi dell’Insubria)<br />
+<em>A simpler semantics for a large fragment of Homotopy Type Theory</em></p>
+<p><em>Abstract:</em> The standard homotopical interpretation for homotopy type theory is deep and useful, but it sounds odd that the full power of higher-order category theory is needed to describe what is a piece "computable’’ mathematics. We show that those complex categorical tools are not necessary, by proposing a novel semantics, based on 1-category theory, for a big fragment of homotopy type theory which contains the whole Martin-Löf type theory and some higher inductive types. We also describe some proof theoretic results for this system; in particular, we prove a normalisation theorem, extending Girard’s reducibility candidates technique.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 24 Oct 2019 13:07:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2019-10-24-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Departmental Seminar</title>
     <link>https://www.logicverona.it//2019-09-30-departmental-seminar.html</link>
     <description><![CDATA[<article>
@@ -226,73 +246,6 @@ Cà Vignal 2, 2nd floor, sala riunioni</p>
 ]]></description>
     <pubDate>Wed, 29 Nov 2017 22:20:52 UT</pubDate>
     <guid>https://www.logicverona.it//2017-11-29-save-the-date-2.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Workshop</title>
-    <link>https://www.logicverona.it//2017-09-15-save-the-date.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2017-09-15-save-the-date.html>Workshop</a></h1>
-    <section class="header">
-        September 15, 2017
-    </section>
-    <section>
-        <figure>
-<img src="/images/pac2.jpg" alt="" /><figcaption>PaC</figcaption>
-</figure>
-<p>Workshop<br />
-Friday, October 6th<br />
-Sala riunioni (2° piano)<br />
-Department of Computer Science</p>
-<p>09:30   <strong>Thomas Streicher</strong> - <em>An Effective Version of the Spectral Theorem</em><br />
-10:20   <strong>Hajime Ishihara</strong> - <em>The Hahn-Banach theorem, constructively revisited</em><br />
-11:10   Coffee break<br />
-11:50   <strong>Ihsen Yengui</strong> - <em>Algorithms for computing syzygies over V</em>[<em>X1,…,Xn</em>]<em>, V a valuation ring<br />
-<em>12:40   <strong>Takako Nemoto</strong></em> - Finite sets and infinite sets in weak intuitionistic arithmetic</em><br />
-13:30   Lunch break<br />
-15:30   <strong>Fabio Pasquali</strong> - <em>Choice principles and the tripos-to-topos construction</em><br />
-16:40   <strong>Chuangjie Xu</strong> - <em>Unifying (Herbrand) functional interpretations of (nonstandard) arithmetic</em></p>
-<p>Abstracts:</p>
-<p><a href="https://www.jaist.ac.jp/profiles/info_e.php?profile_id=48&amp;syozoku=12">Hajime Ishihara</a> <em>The Hahn-Banach theorem, constructively revisited</em></p>
-<p>We review known constructive versions, such as the separation theorem and continuous extension theorem, of the Hahn-Banach theorem and their proofs, and consider new versions including the dominated extension theorem and their proofs.</p>
-<hr />
-<p><a href="https://www.jaist.ac.jp/~t-nemoto/">Takako Nemoto</a> <em>Finite sets and infinite sets in weak intuitionistic arithmetic</em></p>
-<p>We consider, for a set A of natural numbers, the following notions of finiteness</p>
-<p>FIN1: There are k and m0,…,mk-1 such that A={m0,…,mk-1} ;<br />
-FIN2: There is an upper bound for A;<br />
-FIN3: There is m such that for all B ⊆ A (|B|&lt;m);<br />
-FIN4: It is not the case that, for all x, there is y such that y∈ A;<br />
-FIN5: It is not the case that, for all m, there is B ⊆ A such that |B|=m,</p>
-<p>and infiniteness</p>
-<p>INF1: There are no k and m0,…,mk-1 such that A={m0,…,mk-1};<br />
-INF2: There is no upper bound for A;<br />
-INF3: There is no m such that for all B ⊆ A (|B|&lt;m);<br />
-INF4: For all y, there is x&gt;y such that x∈ A;<br />
-INF5: For all m, there is B ⊆ A such that |B|=m.</p>
-<p>We systematically compare them in the method of constructive reverse mathematics. We show that the equivalence among them can be characterized by various combinations of induction axioms and non-constructive principles, including the axiom called bounded comprehension.</p>
-<hr />
-<p><a href="https://www.math.unipd.it/en/department/people/user.php?usertype=7&amp;user=897">Fabio Pasquali</a> <em>Choice principles and the tripos-to-topos construction</em></p>
-<p>In this talk we study the connections between choice principles expressed in categorical logic and the Tripos-to-Topos construction [HJP80]. This is a joint work with M. E. Maietti and G. Rosolini based on [MPR, MR16, Pas17].</p>
-<p>[HJP80] J.M.E. Hyland, P.T. Johnstone and A.M. Pitts. Tripos Theory. Math. Proc. Camb. Phil. Soc., 88:205-232, 1980.<br />
-[MR16] M.E. Maietti and G. Rosolini. Relating quotient completions via categorical logic. In Dieter Probst and Peter Schuster (eds), editors, Concepts of Proof in Mathematics, Philosophy and Computer Science, pages 229 - 250. De Gruyter, 2016.<br />
-[Pas17] F. Pasquali. Hilbert’s epsilon-operator in Doctrines. IfCoLog Journal of Logics and their Applications. Vol 4, Num 2: 381-400, 2017<br />
-[MPR] M.E. Maietti, F. Pasquali and G. Rosolini. Triposes, exact completions and Hilbert’s epsilon operator. In preparation.</p>
-<hr />
-<p><a href="https://cj-xu.github.io/">Chuangjie Xu</a> <em>Unifying (Herbrand) functional interpretations of (nonstandard) arithmetic</em></p>
-<p>We extend Oliva’s method [3] to obtain a parametrised functional interpretation for nonstandard arithmetic. By instantiating the parametrised relations, we obtain the Herbrand functional interpretations introduced in [2,4] for nonstandard arithmetic as well as the usual, well-known ones for Berger’s uniform Heyting arithmetic [1].</p>
-<p>[1] U. Berger, Uniform Heyting arithmetic, Annals of Pure and Applied Logic 133 (2005), no. 1, 125-148.<br />
-[2] F. Ferreira and J. Gaspar, Nonstandardness and the bounded functional interpretation, Annals of<br />
-Pure and Applied Logic 166 (2015), no. 6, 701-712.<br />
-[3] P. Oliva, Unifying functional interpretations, Notre Dame J. Formal Logic 47 (2006), no. 2, 263-290.<br />
-[4] B. van den Berg, E. Briseid, and P. Safarik, A functional interpretation for nonstandard arithmetic, Annals of Pure and Applied Logic 163 (2012), no. 12, 1962-1994.</p>
-<hr />
-<p>Organised by Peter Schuster and Daniel Wessel.</p>
-<p>Please note further that on Thursday, October 5th, 4pm, there will be a <a href="https://www.di.univr.it/?ent=seminario&amp;id=4085">departmental seminar</a> with <a href="https://www.oliviacaramello.com/">Olivia Caramello</a>: <em>The proof-theoretic relevance of Grothendieck topologies</em></p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 15 Sep 2017 14:17:19 UT</pubDate>
-    <guid>https://www.logicverona.it//2017-09-15-save-the-date.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
