@@ -7,8 +7,28 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 27 Nov 2019 13:07:00 UT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2020 22:45:00 UT</lastBuildDate>
         <item>
+    <title>Departmental Seminar</title>
+    <link>https://www.logicverona.it//2020-02-12-departmental-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-02-12-departmental-seminar.html>Departmental Seminar</a></h1>
+    <section class="header">
+        January 23, 2020
+    </section>
+    <section>
+        <p>Wednesday, 12. February 2020, 16:30, Aula I.</p>
+<p><a href="https://unimap.unipi.it/cercapersone/dettaglio.php?ri=4393">Enrico Moriconi</a> (Università degli Studi di Pisa)<br />
+<em>Remarks on Sequent Calculus</em></p>
+<p><a href="https://www.logicverona.it/files/documenti932216.pdf">Abstract</a></p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 23 Jan 2020 22:45:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-02-12-departmental-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2019-11-27-seminar.html</link>
     <description><![CDATA[<article>
@@ -222,35 +242,6 @@ Cà Vignal 2, 2nd floor, sala riunioni</p>
 ]]></description>
     <pubDate>Thu, 17 Jan 2019 13:48:20 UT</pubDate>
     <guid>https://www.logicverona.it//2019-01-17-seminar-2.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2018-11-26-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2018-11-26-seminar.html>Seminar</a></h1>
-    <section class="header">
-        November 26, 2018
-    </section>
-    <section>
-        <p>Monday, 3 Dec 2018,<a href="https://www.di.univr.it/?ent=luogo&amp;id=220&amp;lang=it"> Sala Verde</a>.</p>
-<hr />
-<p>15:00</p>
-<p><a href="http://profs.sci.univr.it/~zorzim/">Margherita Zorzi</a> (Università di Verona)<br />
-<em>A logic for quantum register measurements</em><br />
-(joint work with Andrea Masini)</p>
-<p>We know that quantum logics are the most prominent logical systems associated to the lattices of closed Hilbert subspaces. But what happens if, following a quantum computing perspective, we want to associate a logic to the process of quantum registers measurements? This paper gives an answer to that question, and, quite surprisingly, shows that such a logic is nothing else but the standard propositional intuitionistic logic.</p>
-<hr />
-<p>16:45</p>
-<p><a href="https://www.ingo-blechschmidt.eu/">Ingo Blechschmidt</a> (Università di Verona)<br />
-<em>New reduction techniques in commutative algebra driven by logical methods</em></p>
-<p>We present a new reduction technique which proposes the following trade-off: If we agree to restrict to constructive reasoning, then we may assume without loss of generality that a given reduced ring is Noetherian and in fact a field, thereby reducing to one of the easiest situations in commutative algebra.</p>
-<p>This technique is implemented by constructing a suitable sheaf model and cannot be mimicked by classical reduction techniques. It has applications both in constructive algebra, for mining classical proofs for constructive content, and in classical algebra, where it has been used to substantially simplify the 50-year-old proof of Grothendieck’s generic freeness lemma.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Mon, 26 Nov 2018 10:06:10 UT</pubDate>
-    <guid>https://www.logicverona.it//2018-11-26-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
