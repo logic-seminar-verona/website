@@ -10,9 +10,14 @@ The course will take place on May 25-29, 2020. Timetable to be scheduled.
 _Program Extraction_
 
 Part 1 Extraction of Programs from Constructive Proofs
+
 1.1 Introduction, Curry Howard-Correspondence, Realizability Interpretation
+
 1.2 Tool Support, Examples, Extension to Inductive Definitions
 
+
 Part 2 Extraction of Programs from Classical Proofs
+
 2.1 A-Translation, Choice principles
+
 2.2 Applications for Both Parts 
