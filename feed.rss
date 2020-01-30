@@ -7,8 +7,49 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 23 Jan 2020 22:45:00 UT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2020 15:30:00 UT</lastBuildDate>
         <item>
+    <title>Short Course</title>
+    <link>https://www.logicverona.it//2020-05-25-short-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-05-25-short-course.html>Short Course</a></h1>
+    <section class="header">
+        January 30, 2020
+    </section>
+    <section>
+        <p>The course will take place on May 25-29, 2020. Timetable to be scheduled.</p>
+<p><a href="https://www.swansea.ac.uk/staff/science/computer-science/m.seisenberger/">Monika Seisenberger</a> (Swansea University)<br />
+<em>Program Extraction</em></p>
+<p>Part 1 Extraction of Programs from Constructive Proofs 1.1 Introduction, Curry Howard-Correspondence, Realizability Interpretation 1.2 Tool Support, Examples, Extension to Inductive Definitions</p>
+<p>Part 2 Extraction of Programs from Classical Proofs 2.1 A-Translation, Choice principles 2.2 Applications for Both Parts</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 30 Jan 2020 15:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-05-25-short-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Short Course</title>
+    <link>https://www.logicverona.it//2020-03-09-short-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-03-09-short-course.html>Short Course</a></h1>
+    <section class="header">
+        January 30, 2020
+    </section>
+    <section>
+        <p>The course will take place on March 9-27, 2020. Timetable to be scheduled.</p>
+<p><a href="http://www.normalesup.org/~henry/">Simon Henry</a> (University of Ottawa)<br />
+<em>Category theory and point-free topology</em></p>
+<p>“Point-free topology” is the theory of “locales”. They are a type of spaces, very similar to topological spaces, except that they might not have an underlying set of points. Locales that have enough points are the same as topological spaces, but some locales have no points and are completely new objects. We will see how many notions and constructions of ordinary topology carry over to locales. Later in the course I will talk about the internal logic of categories of sheaves, which provide an extremely powerful tool to work with locales. I will explain how these mysterious “spaces without points” are closely connected to ‘forcing’ in set theory, as well as the strong connection between the the theory of locales and intuitionistic mathematics. The course will start with a basic introduction to category theory, including limits and co-limits, epi and monomorphisms, adjoint functors and adjoint functor theorem, etc. The theory of locales will give many illustrations and interesting example of these concepts.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 30 Jan 2020 14:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-03-09-short-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Departmental Seminar</title>
     <link>https://www.logicverona.it//2020-02-12-departmental-seminar.html</link>
     <description><![CDATA[<article>
@@ -192,56 +233,6 @@ Cà Vignal 2, 2nd floor, sala riunioni</p>
 ]]></description>
     <pubDate>Wed, 20 Feb 2019 15:38:55 UT</pubDate>
     <guid>https://www.logicverona.it//2019-02-20-compact-course.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2019-02-04-seminar-3.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2019-02-04-seminar-3.html>Seminar</a></h1>
-    <section class="header">
-        February  4, 2019
-    </section>
-    <section>
-        <p>Monday, 11 February 2019,<a href="https://www.di.univr.it/?ent=luogo&amp;id=220&amp;lang=it"> Sala Verde</a>.</p>
-<p>Both talks have been <a href="https://www.youtube.com/channel/UCri699KHvTqn8QwnSlgVRZQ/featured">recorded</a>.</p>
-<hr />
-<p>15:30</p>
-<p><a href="https://www.jaist.ac.jp/~t-nemoto/">Takako Nemoto</a> (Japan Advanced Institute of Science and Technology)</p>
-<p><em><a href="https://www.youtube.com/watch?v=bxUXqHgXzsU">Systems for constructive reverse mathematics</a> </em><a href="/files/nemoto.pdf">abstract</a></p>
-<hr />
-<p>17:00</p>
-<p><a href="http://reh.math.uni-duesseldorf.de/~arndt/">Peter Arndt</a> (Heinrich-Heine-Universität Düsseldorf)</p>
-<p><em><a href="https://www.youtube.com/watch?v=R0RlNEI2Owk">Ranges of functors and elementary classes via topos theory</a></em></p>
-<p>Given first order theories S,T and a functor F:Mod(S) –&gt;Mod(T) between their categories of models, one can ask whether objects in the range of F satisfy first-order sentences other than those of T, and whether the essential image of F is an elementary class. Under certain conditions on F we can give criteria for this for so-called k-geometric first-order sentences and k-geometric elementary classes.</p>
-<p>These criteria are obtained by considering classifying toposes associated to S and T, such that F is induced by a geometric morphism between them, and then factorizing this geometric morphism appropriately. The involved notions will be explained and examples will be given.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Mon, 04 Feb 2019 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2019-02-04-seminar-3.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2019-01-17-seminar-2.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2019-01-17-seminar-2.html>Seminar</a></h1>
-    <section class="header">
-        January 17, 2019
-    </section>
-    <section>
-        <p>Thursday, 31 January 2018, 15:30,<a href="https://www.di.univr.it/?ent=luogo&amp;id=220&amp;lang=it"> Sala Verde</a>.</p>
-<p><a href="https://physicalsciences.leeds.ac.uk/pgr/1131/david-natingga-toth">Dávid Natingga</a> (University of Leeds) <em>Introduction to α-Computability Theory</em></p>
-<p>An ordinal α is admissible iff the α-th level Lα of Gödel’s constructible hierarchy satisfies the axioms of Kripke-Platek set theory (roughly predicative part of ZFC).</p>
-<p>α-computability theory is the study of the first-order definability theory over Gödel’s Lα for an admissible ordinal α.</p>
-<p>Equivalently, α-computability theory studies the computability on a Turing machine with a transfinite tape and time of an order type α for an admissible ordinal α.</p>
-<p>The field of α-computability theory is the source of deep connections between computability theory, set theory, model theory, definability theory and other areas of mathematics.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 17 Jan 2019 13:48:20 UT</pubDate>
-    <guid>https://www.logicverona.it//2019-01-17-seminar-2.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
