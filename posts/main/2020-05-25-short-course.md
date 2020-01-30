@@ -21,3 +21,5 @@ _Part 2. Extraction of Programs from Classical Proofs_
 2.1 A-Translation, Choice principles
 
 2.2 Applications for Both Parts 
+
+This course is part of the project [A new dawn of Intuitionism: mathematical and philosophical advances](http://www.di.univr.it/?ent=progetto&id=5248).
