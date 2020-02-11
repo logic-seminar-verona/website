@@ -1,7 +1,7 @@
 ---
 author: ioiops
 date: 2020-01-30 15:30:00+00:00
-title: Short Course: Program Extraction
+title: Short Course - Program Extraction
 ---
 
 The course will take place on May 25-29, 2020. Timetable to be scheduled.
