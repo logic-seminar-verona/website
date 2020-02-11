@@ -1,7 +1,7 @@
 ---
 author: ioiops
 date: 2020-01-30 14:30:00+00:00
-title: Short Course: Category theory and point-free topology
+title: Short Course - Category theory and point-free topology
 ---
 
 The course will take place on March 9-27, 2020. Timetable below.
