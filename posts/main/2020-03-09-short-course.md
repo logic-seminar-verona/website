@@ -14,10 +14,10 @@ The course will take place on March 9-27, 2020. Timetable below.
 **Timetable**\
 Monday, March 09, 13:40-16:10, Aula M. \
 Wednesday, March 11, 13:40-15:20, Aula G. \
-Friday, March 13, 13:40-16:10, Sala Riunioni Secondo Piano. \
+Friday, March 13, 13:40-16:10, Sala Riunioni 2° Piano. \
 Monday, March 16, 13:40-16:10, Aula M. \
 Wednesday, March 18, 13:40-15:20, Aula G. \
-Friday, March 20, 13:40-16:10, Sala Riunioni Secondo Piano. \
+Friday, March 20, 13:40-16:10, Sala Riunioni 2° Piano. \
 Monday, March 23, 13:40-16:10, Aula M. \
 Wednesday, March 25, 13:40-15:20, Aula G. \
-Friday, March 27, 13:40-16:10, Sala Riunioni Secondo Piano.
+Friday, March 27, 13:40-16:10, Sala Riunioni 2° Piano.
