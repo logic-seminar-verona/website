@@ -6,7 +6,7 @@ title: Compact Course "Category theory and point-free topology"
 
 The course will take place on March 9-27, 2020. Timetable below.
 
-**Category theory and point-free topology**\
+**Category theory and point-free topology**
 
 The Short Course "Category Theory and Point-Free Topology" is primarily
 aimed at both undergraduate and postgraduate students in mathematics
@@ -16,7 +16,7 @@ Science of the University of Verona, located in Strada le Grazie 15,
 Verona (Italy).
 
 **Lecturer**\
-Simon Henry (University of Ottawa)
+[Simon Henry](http://www.normalesup.org/~henry/) (University of Ottawa)
 
 **Summary**\
 "Point-free topology" is the theory of "locales". They are a type of
@@ -51,11 +51,12 @@ Participation is free. Participants not affiliated at the University of Verona a
 to register by send an e-mail to Giulio Fellin (giulio.fellin@univr.it) no later than 27 February 2020.
 
 **Acknowledgements**\
-This compact course is run as part of the "Mathematics Mini-Courses" of the University of Verona,
-and within the projects "A New Dawn of Intuitionism: Mathematical and Philosophical Advances" (ID 60842)
+This compact course is run as part of the "[Mathematics Mini-Courses](http://www.di.univr.it/?ent=ciclosem&idC=147)" of the University of Verona,
+and within the projects "[A New Dawn of Intuitionism: Mathematical and Philosophical Advances](https://www.templeton.org/grant/a-new-dawn-of-intuitionism-mathematical-and-philosophical-advances)" (ID 60842)
 of the John Templeton Foundation, and "Reducing complexity in algebra, logic, combinatorics - REDCOM"
 belonging to the programme "Ricerca Scientifica di Eccellenza 2018" of the Fondazione Cariverona.
 
 **Contact**\
 peter.schuster@univr.it\
-giulio.fellin@univr.it
+giulio.fellin@univr.it\
+[Course page on univr.it](http://www.di.univr.it/?ent=seminario&id=5076&idC=70)
