@@ -48,7 +48,7 @@ Friday, March 27, 13:40-16:10, Sala Riunioni Secondo Piano.
 
 **Registration**\
 Participation is free. Participants not affiliated at the University of Verona are kindly asked
-to register by send an e-mail to Giulio Fellin (giulio.fellin@univr.it) no later than 27 February 2020.
+to register by send an e-mail to [Giulio Fellin](giulio.fellin@univr.it) no later than 27 February 2020.
 
 **Acknowledgements**\
 This compact course is run as part of the "[Mathematics Mini-Courses](http://www.di.univr.it/?ent=ciclosem&idC=147)" of the University of Verona,
@@ -57,6 +57,6 @@ of the John Templeton Foundation, and "Reducing complexity in algebra, logic, co
 belonging to the programme "Ricerca Scientifica di Eccellenza 2018" of the Fondazione Cariverona.
 
 **Contact**\
-peter.schuster@univr.it\
-giulio.fellin@univr.it\
+[peter.schuster@univr.it](peter.schuster@univr.it)\
+[giulio.fellin@univr.it](giulio.fellin@univr.it)\
 [Course page on univr.it](http://www.di.univr.it/?ent=seminario&id=5076&idC=70)
