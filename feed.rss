@@ -18,15 +18,14 @@
     </section>
     <section>
         <p>The course will take place on May 25-29, 2020. Timetable to be scheduled.</p>
-<p><strong>Program Extraction</strong> <a href="https://www.swansea.ac.uk/staff/science/computer-science/m.seisenberger/">Monika Seisenberger</a> (Swansea University)<br />
-</p>
+<p><strong>Program Extraction</strong><br />
+<a href="https://www.swansea.ac.uk/staff/science/computer-science/m.seisenberger/">Monika Seisenberger</a> (Swansea University)</p>
 <p><em>Part 1. Extraction of Programs from Constructive Proofs</em><br />
 1.1 Introduction, Curry Howard-Correspondence, Realizability Interpretation<br />
 1.2 Tool Support, Examples, Extension to Inductive Definitions</p>
 <p><em>Part 2. Extraction of Programs from Classical Proofs</em><br />
 2.1 A-Translation, Choice principles<br />
-2.2 Applications for Both Parts<br />
-</p>
+2.2 Applications for Both Parts</p>
     </section>
 </article>
 ]]></description>
