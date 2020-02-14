@@ -8,8 +8,8 @@ The course will take place on March 9-27, 2020. Timetable below.
 
 **Category theory and point-free topology**
 
-The Short Course "Category Theory and Point-Free Topology" is primarily
-aimed at both undergraduate and postgraduate students in mathematics
+The Compact Course "Category Theory and Point-Free Topology" is primarily
+aimed at both undergraduate, graduate and postgraduate students in mathematics
 with an interest in the intersection between logic, algebra and
 topology. The event will take place at the Department of Computer
 Science of the University of Verona, located in Strada le Grazie 15,
@@ -48,7 +48,7 @@ Friday, March 27, 13:40-16:10, Sala Riunioni Secondo Piano.
 
 **Registration**\
 Participation is free. Participants not affiliated at the University of Verona are kindly asked
-to register by send an e-mail to [Giulio Fellin](giulio.fellin@univr.it) no later than 27 February 2020.
+to register by sending an e-mail to [Giulio Fellin](giulio.fellin@univr.it) no later than 27 February 2020.
 
 **Acknowledgements**\
 This compact course is run as part of the "[Mathematics Mini-Courses](http://www.di.univr.it/?ent=ciclosem&idC=147)" of the University of Verona,
