@@ -1,10 +1,10 @@
 ---
 author: ioiops
 date: 2020-01-30 14:30:00+00:00
-title: !!Canceled!!
+title: CANCELED COMPACT COURSE
 ---
 
-**The compact course below was canceled**
+**ATTENTION! The compact course below was canceled**
 
 The course will take place on March 9-27, 2020. Timetable below.
 
