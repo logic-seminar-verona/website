@@ -1,8 +1,10 @@
 ---
 author: ioiops
 date: 2020-01-30 14:30:00+00:00
-title: Compact Course "Category theory and point-free topology"
+title: !!Canceled!!
 ---
+
+**The compact course below was canceled**
 
 The course will take place on March 9-27, 2020. Timetable below.
 
