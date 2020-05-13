@@ -7,8 +7,29 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 30 Jan 2020 15:30:00 UT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2020 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2020-05-14-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-05-14-seminar.html>Seminar</a></h1>
+    <section class="header">
+        May 13, 2020
+    </section>
+    <section>
+        <p>Thursday, May 14th, 2020, 11:00, on Zoom.</p>
+<p><a href="http://www.di.univr.it/?ent=persona&amp;id=40478&amp;lang=en&amp;action=edit">Giulio Fellin</a> (Universities of Verona, Trento and Helsinki)<br />
+<em>Modal Logic for Induction</em> (j.w.w. Sara Negri and Peter Schuster)</p>
+<p><em>Abstract:</em> We use modal logic to obtain syntactical, proof-theoretic versions of transfinite induction as axioms or rules within an appropriate labelled sequent calculus. While transfinite induction proper, also known as Noetherian induction, can be represented by a rule, the variant in which induction is done up to an arbitrary but fixed level happens to correspond to the Gödel–Löb axiom of provability logic. To verify the practicability of our approach in actual practice, we give a fairly universal pattern for proof transformation and test its use in several cases. Among other things, we give a direct and elementary syntactical proof of the theorem that the Gödel–Löb axiom characterises precisely the well-founded and transitive Kripke frames.</p>
+<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 13 May 2020 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-05-14-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Compact Course "Program Extraction"</title>
     <link>https://www.logicverona.it//2020-05-25-short-course.html</link>
     <description><![CDATA[<article>
@@ -226,39 +247,6 @@ This compact course is run as part of the “<a href="http://www.di.univr.it/?en
 ]]></description>
     <pubDate>Wed, 27 Mar 2019 12:14:00 UT</pubDate>
     <guid>https://www.logicverona.it//2019-03-27-seminar-4.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Compact Course & Research Seminar</title>
-    <link>https://www.logicverona.it//2019-02-20-compact-course.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2019-02-20-compact-course.html>Compact Course & Research Seminar</a></h1>
-    <section class="header">
-        February 20, 2019
-    </section>
-    <section>
-        <p><strong>Proof interpretations: A modern perspective</strong><br />
-<a href="https://www2.mathematik.tu-darmstadt.de/~powell/">Thomas Powell</a> (Technische Universität Darmstadt)</p>
-<p>The aim of this course is to provide an introduction to proof interpretations and program extraction, up to the point where some of their applications in modern mathematics and computer science can be understood. I begin in the first lecture with a broad historical overview, tracing the origins of Gödel’s functional interpretation in Hilbert’s program and the early days of proof theory. The second and third lectures comprise an introduction to the extraction of computational content from proofs, both in the intuitionistic and classical setting. I conclude with a high level overview of the proof mining program, and present some recent applications of program extraction in functional analysis.</p>
-<p>Fri 15 Mar 14:30-16:30<br />
-Mon 18 Mar 09:30-12:30<br />
-Tue 19 Mar 15:30-18:30<br />
-Wed 20 Mar 09:30-12:30</p>
-<hr />
-<p>The lecture on Wednesday will comprise a <a href="https://www.di.univr.it/?ent=seminario&amp;id=4712&amp;idC=70&amp;lang=it">research seminar</a>:</p>
-<p><strong>A new application of proof mining in the fixed point theory of uniformly convex Banach spaces</strong></p>
-<p>Proof mining is a branch of proof theory which makes use of proof theoretic techniques to extract quantitative information from seemingly nonconstructive proofs. In this talk, I present a new application of proof mining in functional analysis, which focuses on the convergence of Picard iterates for generalisations of nonexpansive mappings in uniformly convex Banach spaces.</p>
-<hr />
-<p>Venue:<br />
-Dipartimento di Informatica, Università di Verona<br />
-37134 Verona, Strada Le Grazie 15,<br />
-Cà Vignal 2, 2nd floor, sala riunioni</p>
-<p>For further information, please see the <a href="https://www.di.univr.it/?ent=seminario&amp;id=4675&amp;idC=70">course webpage</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 20 Feb 2019 15:38:55 UT</pubDate>
-    <guid>https://www.logicverona.it//2019-02-20-compact-course.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
