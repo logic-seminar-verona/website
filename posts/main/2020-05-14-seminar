@@ -1,0 +1,14 @@
+---
+author: ioiops
+date: 2020-05-13 00:00:00+00:00
+title: Seminar
+---
+
+Thursday, May 14th, 2020, 11:00, on Zoom.
+
+[Giulio Fellin](http://www.di.univr.it/?ent=persona&id=40478&lang=en&action=edit) (Universities of Verona, Trento and Helsinki)\
+_Modal Logic for Induction_ (j.w.w. Sara Negri and Peter Schuster)
+
+*Abstract:* We use modal logic to obtain syntactical, proof-theoretic versions of transfinite induction as axioms or rules within an appropriate labelled sequent calculus. While transfinite induction proper, also known as Noetherian induction, can be represented by a rule, the variant in which induction is done up to an arbitrary but fixed level happens to correspond to the Gödel–Löb axiom of provability logic. To verify the practicability of our approach in actual practice, we give a fairly universal pattern for proof transformation and test its use in several cases. Among other things, we give a direct and elementary syntactical proof of the theorem that the Gödel–Löb axiom characterises precisely the well-founded and transitive Kripke frames.
+
+The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact [Peter Schuster](http://www.di.univr.it/?ent=persona&id=21404&lang=en).
