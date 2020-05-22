@@ -17,10 +17,14 @@ _Part 1. Extraction of Programs from Constructive Proofs_\
 
 _Part 2. Extraction of Programs from Classical Proofs_\
 2.1 A-Translation, Choice principles\
-2.2 Applications for Both Parts
+2.2 Applications for Both Parts\
 
 **Timetable**\
 Tuesday, May 26: 8:40-10:20\
 Wednesday, May 27: 8:40-10:20\
 Thursday, May 28: 8:40-10:20\
-Friday, May 29: 13:20-15:00 of which the second hour as seminar\
+Friday, May 29: 15:00-16:00\
+
+The course will be completed by a seminar talk on Friday, May 29 at 16:00-17:00.
+
+
