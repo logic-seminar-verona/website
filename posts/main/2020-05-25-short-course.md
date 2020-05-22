@@ -4,6 +4,8 @@ date: 2020-01-30 15:30:00+00:00
 title: Compact Course "Program Extraction"
 ---
 
+**_Notice that the timetable has changed!_**
+
 The minicourse "Program Extraction" by Monika Seisenberger will be held on-line from 25th to 29th May 2020.
 
 Registration will be required by 22nd May. To register please send an email to Franziskus Wiesnet: franziskus.wiesnet(at)unitn.it
