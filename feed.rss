@@ -7,8 +7,31 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 13 May 2020 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2020 16:45:00 UT</lastBuildDate>
         <item>
+    <title>Departmental Seminar</title>
+    <link>https://www.logicverona.it//2020-05-29-departmental-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-05-29-departmental-seminar.html>Departmental Seminar</a></h1>
+    <section class="header">
+        May 22, 2020
+    </section>
+    <section>
+        <p>Friday, 29. May 2020, 16:00, via <a href="https://univr.zoom.us/j/96504680574">Zoom</a>.<br />
+This seminar is complementary to the compact course <a href="https://www.logicverona.it/2020-05-25-short-course.html">Program Extraction</a>.</p>
+<p><a href="https://www.swansea.ac.uk/staff/science/computer-science/m.seisenberger/">Monika Seisenberger</a> (Swansea University)<br />
+<em>Logic in Railway Verification</em></p>
+<p><em>Abstract</em>: Mathematical methods always played an important role in the verification of Railway control systems. In this talk we present two different approaches, the first for discrete systems, the second for hybrid systems. Both were used in our collaboration with Industry. We start with traditional solid state Railway interlockings, often specified using a graphical language called Ladder Logic. We give a semantics for this language and show how to get from aladder logic specification to a satisfiability problem. This process has been automated, and several existing Interlocking case studies, provided by our Industrial partner Siemens Rail Automation, have been verified using automated theorem proving tools. We further applied our own SAT solver, which we extracted from a formal constructive proof of the completeness of the Davis-Putnam-Logemann-Loveland (DPLL) proof system. The extracted SAT solver is a verified algorithm, which either yields a model or a DPLL refutation of a given clause set [1]. In the second part, we present our modelling of the European Rail Traffic Management System ERTMS, a state-of-the-art train control system, which aims at improving the performance/capacity of rail traffic systems, without compromising their safety. It generalizes from traditional interlockings to a system that includes on-board equipment and communication between trains and interlockings via radio block processors. Whilst the correctness of discrete interlocking systems is well-researched, it is challenging to verify ERTMS based systems for safety properties such as collision freedom due to the involvement of continuous data. The modelling and verification is done in Real-Time Maude, a tool that allows for both simulation and verification of real-time and hybrid systems [2].</p>
+<p>[1] U. Berger, A. Lawrence, F. Nordvall Forsberg, M. Seisenberger, Extracting Verified Decision Procedures: DPLL and Resolution, Logical Methods in Computer Science, 2015.<br />
+[2] U. Berger, P. James, A. Lawrence, M. Roggenbach, M. Seisenberger, Verification of the European Rail Traffic Management System in Real-Time Maude, Science of Computer Programming, JSP 2018.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 22 May 2020 16:45:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-05-29-departmental-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2020-05-14-seminar.html</link>
     <description><![CDATA[<article>
@@ -234,27 +257,6 @@ This compact course is run as part of the “<a href="http://www.di.univr.it/?en
 ]]></description>
     <pubDate>Wed, 27 Mar 2019 13:07:00 UT</pubDate>
     <guid>https://www.logicverona.it//2019-03-27-departmental-seminar.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2019-03-27-seminar-4.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2019-03-27-seminar-4.html>Seminar</a></h1>
-    <section class="header">
-        March 27, 2019
-    </section>
-    <section>
-        <p>Wednesday, 3. April 2019, 10:30, Sala Riunioni (2nd floor).</p>
-<p>Satoru Niki (Japan Advanced Institute of Science and Technology)<br />
-<em>Empirical Negation and Beth Semantics</em></p>
-<p>The negation in intuitionistic logic has a ‘future-oriented’ character, as elucidated by the valuation in Kripke models. Its application in mathematical contexts has been validated by the success of constructive mathematics. Its applicability in non-mathematical contexts, in contrast, is argued to have some problems. The existence of a different, ‘empirical’ notion of negation within the framework of intuitionistic logic has been discussed by Heyting, Dummett and others. De (2013) proposed empirical negation as falsity at the bottom root of a Kripke model, and De and Omori (2014) gave the axiomatisation of this logic.</p>
-<p>In this talk, I will discuss how the choice of semantics in formulating empirical negation affects the logic one obtains, with Beth semantics as a particular example. This is followed by an examination of arithmetic with empirical negation.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 27 Mar 2019 12:14:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2019-03-27-seminar-4.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
