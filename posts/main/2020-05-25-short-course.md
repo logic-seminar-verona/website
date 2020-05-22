@@ -27,6 +27,6 @@ Wednesday, May 27: 8:40-10:20\
 Thursday, May 28: 8:40-10:20\
 Friday, May 29: 15:00-16:00
 
-The course will be completed by a seminar talk on Friday, May 29 at 16:00-17:00.
+The course will be completed by the seminar talk [Logic in Railway Verification](https://www.logicverona.it/2020-05-29-departmental-seminar.html) on Friday, May 29 at 16:00-17:00.
 
 
