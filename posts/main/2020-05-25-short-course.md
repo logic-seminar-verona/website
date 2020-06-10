@@ -5,7 +5,7 @@ title: Compact Course "Program Extraction"
 ---
 
 **_Notice that the timetable has changed!_**\
-**_NEW: links to course material added below**
+**_NEW: links to course material added below_**
 
 The minicourse "Program Extraction" by Monika Seisenberger will be held on-line from 25th to 29th May 2020.
 
