@@ -7,8 +7,29 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 02 Jun 2020 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2020 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2020-06-25-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-06-25-seminar.html>Seminar</a></h1>
+    <section class="header">
+        June 15, 2020
+    </section>
+    <section>
+        <p>Thursday, June 25th, 2020, 11:00, on Zoom.</p>
+<p><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/logik-und-sprachtheorie/persons/dr-luca-tranchini/">Luca Tranchini</a> (Tübingen)<br />
+<em>Proof-terms for dual-intuitionistic logic and refutation-terms for intuitionistic logic</em> (j.w.w. Gianluigi Bellin)</p>
+<p><em>Abstract:</em></p>
+<p>In the present paper, we present a term-assignment for the fragment of bi-intuitionistic logic whose only type-forming operation is the dual of intuitionistic implication. Typing judgements have the form x:C |- t_1:A_1,…,t_n:A_n i.e. a set of terms is typed by declaring a single variable (somewhat dualizing the simply typed λ-calculus, where a single term is typed declaring a set of variables). The main distinguishing feature of our term calculus is its distributed nature: whereas in the λμ-calculus all conclusions but one are μ-variables, in our calculus the computational content is distributed among the conclusions, i.e. to each conclusion one assigns a possibly complex term; moreover, reduction is also distributed, in the sense that the reduction acts globally on a set of terms, and not on a single one. The duality between our calculus and the simply typed λ-calculus suggests the possibility to use it not only to encode the dual-intuitionistic notion of provability, but an intuitionistic notion of refutability as well. We spell out this idea by using our terms to decorate Prawitz’s rules of intuitionistic natural deduction from the bottom to the top, thereby expressing a backwards reading of intuitionistic rules: given refutations of the conclusions one computes refutations of the premises. The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Mon, 15 Jun 2020 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-06-25-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2020-06-18-seminar.html</link>
     <description><![CDATA[<article>
@@ -240,26 +261,6 @@ This compact course is run as part of the “<a href="http://www.di.univr.it/?en
 ]]></description>
     <pubDate>Wed, 27 Nov 2019 13:07:00 UT</pubDate>
     <guid>https://www.logicverona.it//2019-11-27-seminar.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2019-10-24-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2019-10-24-seminar.html>Seminar</a></h1>
-    <section class="header">
-        October 24, 2019
-    </section>
-    <section>
-        <p>Tuesday, October 29th, 2019, 16:10, Aula C.</p>
-<p><a href="https://www.uninsubria.it/hpp/roberta.bonacina">Roberta Bonacina</a> (Università degli Studi dell’Insubria)<br />
-<em>A simpler semantics for a large fragment of Homotopy Type Theory</em></p>
-<p><em>Abstract:</em> The standard homotopical interpretation for homotopy type theory is deep and useful, but it sounds odd that the full power of higher-order category theory is needed to describe what is a piece "computable’’ mathematics. We show that those complex categorical tools are not necessary, by proposing a novel semantics, based on 1-category theory, for a big fragment of homotopy type theory which contains the whole Martin-Löf type theory and some higher inductive types. We also describe some proof theoretic results for this system; in particular, we prove a normalisation theorem, extending Girard’s reducibility candidates technique.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 24 Oct 2019 13:07:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2019-10-24-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
