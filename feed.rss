@@ -10,6 +10,27 @@
         <lastBuildDate>Mon, 15 Jun 2020 00:00:00 UT</lastBuildDate>
         <item>
     <title>Seminar</title>
+    <link>https://www.logicverona.it//2020-07-02.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-07-02.html>Seminar</a></h1>
+    <section class="header">
+        June 15, 2020
+    </section>
+    <section>
+        <p>Thursday, July 2nd, 2020, 11:00, on Zoom.</p>
+<p><a href="http://profs.sci.univr.it/~bellin/">Gianluigi Bellin</a> (Università di Verona)<br />
+<em>Relational sequent calculusl for Bi-Intuitionistiic Linear Logic</em> (j.w.w. W. Heijltjes)</p>
+<p><em>Abstract:</em> The relational sequent calculus for BILL used in [Bellin &amp; Heijltjes, {Proof nets for bi-intuitionistic linear logic}, FSCD 2018] is unsound. The problem extends to Hyland and De Paiva Full Iintuitionistic Linear Logic FILL 1993, but only to the treatment of the unit <span class="math inline">⊥</span>, as shown by an example of failure of interpolation in the sequent calculus, which yields unsoundness with respect to Hyland and De Paiva’s categorical semantics. We revise the sequent calculus, sketch the proof of interpolation and of cut elimination for it.</p>
+<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Mon, 15 Jun 2020 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-07-02.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Seminar</title>
     <link>https://www.logicverona.it//2020-06-25-seminar.html</link>
     <description><![CDATA[<article>
     <h1><a href=/2020-06-25-seminar.html>Seminar</a></h1>
@@ -237,31 +258,6 @@ This compact course is run as part of the “<a href="http://www.di.univr.it/?en
 ]]></description>
     <pubDate>Thu, 23 Jan 2020 22:45:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-02-12-departmental-seminar.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2019-11-27-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2019-11-27-seminar.html>Seminar</a></h1>
-    <section class="header">
-        November 27, 2019
-    </section>
-    <section>
-        <p>Wednesday, November 27th, 2019, 15:30, Sala riunioni secondo piano.</p>
-<p><a href="https://webapps.unitn.it/du/en/Persona/PER0179811">Davide Trotta</a> (Università degli Studi di Trento)<br />
-<em>Doctrines in categorical logic and the existential completion</em></p>
-<p><em>Abstract:</em> The notion of hyperdoctrine was introduced by F.W. Lawvere in a series of seminal papers to synthesize the structural properties of logical systems. His crucial intuition was to consider logical languages and theories as indexed categories and to study their 2-categorical properties. For instance, connectives and quantifiers are determined by adjunctions. In this seminar we introduce the notions of primary and existential doctrine, which generalize that of hyperdoctrine, and we present the existential completion. In particular we show how we can add left adjoints along certain functors to a primary doctrine obtaining an existential doctrine. Moreover we show that the 2-monad obtained from this free construction is lax-idempotent, and that the 2-category of existential doctrines is isomorphic to the 2-category of algebras for this 2-monad. Finally we extend the notion of exact completion of an elementary existential doctrine to an arbitrary elementary doctrine.</p>
-<hr />
-<p>Wednesday, November 27th, 2019, 16:45, Sala riunioni secondo piano.</p>
-<p>Branko Nikolić (Macquarie University, Sydney, Australia)<br />
-<em>On Directed Colimits of Hilbert Spaces</em></p>
-<p><em>Abstract:</em> We will show that the category of Hilbert spaces and contractions has directed colimits, and that tensoring preserves them. We will also discuss (problems with) the generalization to bounded maps.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 27 Nov 2019 13:07:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2019-11-27-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
