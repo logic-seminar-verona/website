@@ -10,6 +10,28 @@
         <lastBuildDate>Mon, 15 Jun 2020 00:00:00 UT</lastBuildDate>
         <item>
     <title>Seminar</title>
+    <link>https://www.logicverona.it//2020-07-09.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-07-09.html>Seminar</a></h1>
+    <section class="header">
+        June 15, 2020
+    </section>
+    <section>
+        <p>Thursday, July 9th, 2020, 11:00, on Zoom.</p>
+<p><a href="http://www.di.univr.it/?ent=persona&amp;id=42247">Davide Trotta</a> (Università di Verona)<br />
+<em>Hilbert <span class="math inline"><em>ϵ</em></span>-operator and existence property in categorical logic</em> (j.w.w. M. Zorzi e M.E. Maietti)</p>
+<p><em>Abstract:</em></p>
+<p>In this talk we present some choice principles in the context of categorical logic and their applications in logic. In particular we focus on the existence property, the choice rule and the Hilbert <span class="math inline"><em>ϵ</em></span>-operator. We use the language of doctrines and the existential completion to present these principles and their characterization. Then we provide some direct applications in a fragment of intuitionistic logic.</p>
+<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Mon, 15 Jun 2020 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-07-09.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Seminar</title>
     <link>https://www.logicverona.it//2020-07-02.html</link>
     <description><![CDATA[<article>
     <h1><a href=/2020-07-02.html>Seminar</a></h1>
@@ -238,26 +260,6 @@ This compact course is run as part of the “<a href="http://www.di.univr.it/?en
 ]]></description>
     <pubDate>Thu, 30 Jan 2020 14:30:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-03-09-short-course.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Departmental Seminar</title>
-    <link>https://www.logicverona.it//2020-02-12-departmental-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-02-12-departmental-seminar.html>Departmental Seminar</a></h1>
-    <section class="header">
-        January 23, 2020
-    </section>
-    <section>
-        <p>Wednesday, 12. February 2020, 16:30, Aula I.</p>
-<p><a href="https://unimap.unipi.it/cercapersone/dettaglio.php?ri=4393">Enrico Moriconi</a> (Università degli Studi di Pisa)<br />
-<em>Remarks on Sequent Calculus</em></p>
-<p><a href="https://www.logicverona.it/files/documenti932216.pdf">Abstract</a></p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 23 Jan 2020 22:45:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-02-12-departmental-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
