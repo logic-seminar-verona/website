@@ -7,8 +7,36 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Mon, 15 Jun 2020 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2020 15:30:00 UT</lastBuildDate>
         <item>
+    <title>Mini-Corso su CoQ</title>
+    <link>https://www.logicverona.it//2020-09-minicorso.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-09-minicorso.html>Mini-Corso su CoQ</a></h1>
+    <section class="header">
+        June 28, 2020
+    </section>
+    <section>
+        <p>Settembre 2020.<br />
+Gli orari del corso (4 lezioni di 3 ore ciascuna) verranno comunicati in seguito.</p>
+<p><strong>CoQ</strong><br />
+<a href="http://www.di.univr.it/?ent=persona&amp;id=126&amp;lang=it">Andrea Masini</a> (Università di Verona)</p>
+<p><em>Programma</em> 1) Richiami di deduzione naturale (classica ed intuizionista) e di lambda calcolo tipato.<br />
+2) Esempi di semplici dimostrazioni in CoQ (Goal, Assunzioni e Tattiche).<br />
+3) Programmazione funzionale in CoQ.<br />
+4) Tipi di dato strutturati.<br />
+5) Polimorfismo e funzioni di ordine superiore.<br />
+6) Le tattiche di base.<br />
+7) Logica in CoQ.<br />
+8) Induzione</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Sun, 28 Jun 2020 15:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-09-minicorso.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2020-07-09.html</link>
     <description><![CDATA[<article>
@@ -219,48 +247,6 @@ Friday, May 29: 15:00-16:00</p>
 ]]></description>
     <pubDate>Thu, 30 Jan 2020 15:30:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-05-25-short-course.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>CANCELED COMPACT COURSE</title>
-    <link>https://www.logicverona.it//2020-03-09-short-course.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-03-09-short-course.html>CANCELED COMPACT COURSE</a></h1>
-    <section class="header">
-        January 30, 2020
-    </section>
-    <section>
-        <p><strong>ATTENTION! The compact course below was canceled</strong></p>
-<p>The course will take place on March 9-27, 2020. Timetable below.</p>
-<p><strong>Category theory and point-free topology</strong></p>
-<p>The Compact Course “Category Theory and Point-Free Topology” is primarily aimed at both undergraduate, graduate and postgraduate students in mathematics with an interest in the intersection between logic, algebra and topology. The event will take place at the Department of Computer Science of the University of Verona, located in Strada le Grazie 15, Verona (Italy).</p>
-<p><strong>Lecturer</strong><br />
-<a href="http://www.normalesup.org/~henry/">Simon Henry</a> (University of Ottawa)</p>
-<p><strong>Summary</strong><br />
-“Point-free topology” is the theory of “locales”. They are a type of spaces, very similar to topological spaces, except that they might not have an underlying set of points. Locales that have enough points are the same as topological spaces, but some locales have no points and are completely new objects. We will see how many notions and constructions of ordinary topology carry over to locales. Later in the course I will talk about the internal logic of categories of sheaves, which provide an extremely powerful tool to work with locales. I will explain how these mysterious “spaces without points” are closely connected to ‘forcing’ in set theory, as well as the strong connection between the the theory of locales and intuitionistic mathematics. The course will start with a basic introduction to category theory, including limits and co-limits, epi and monomorphisms, adjoint functors and adjoint functor theorem, etc. The theory of locales will give many illustrations and interesting example of these concepts.</p>
-<p><strong>Timetable</strong><br />
-Monday, March 9, 13:40-16:10, Aula M.<br />
-Wednesday, March 11, 13:40-15:20, Aula G.<br />
-Friday, March 13, 13:40-16:10, Sala Riunioni Secondo Piano.<br />
-Monday, March 16, 13:40-16:10, Aula M.<br />
-Wednesday, March 18, 13:40-15:20, Aula G.<br />
-Friday, March 20, 13:40-16:10, Sala Riunioni Secondo Piano.<br />
-Monday, March 23, 13:40-16:10, Aula M.<br />
-Wednesday, March 25, 13:40-15:20, Aula G.<br />
-Friday, March 27, 13:40-16:10, Sala Riunioni Secondo Piano.</p>
-<p><strong>Registration</strong><br />
-Participation is free. Participants not affiliated at the University of Verona are kindly asked to register by sending an e-mail to <a href="giulio.fellin@univr.it">Giulio Fellin</a> no later than 27 February 2020.</p>
-<p><strong>Acknowledgements</strong><br />
-This compact course is run as part of the “<a href="http://www.di.univr.it/?ent=ciclosem&amp;idC=147">Mathematics Mini-Courses</a>” of the University of Verona, and within the projects “<a href="https://www.templeton.org/grant/a-new-dawn-of-intuitionism-mathematical-and-philosophical-advances">A New Dawn of Intuitionism: Mathematical and Philosophical Advances</a>” (ID 60842) of the John Templeton Foundation, and “Reducing complexity in algebra, logic, combinatorics - REDCOM” belonging to the programme “Ricerca Scientifica di Eccellenza 2018” of the Fondazione Cariverona.</p>
-<p><strong>Contact</strong><br />
-<a href="peter.schuster@univr.it">peter.schuster@univr.it</a><br />
-<a href="giulio.fellin@univr.it">giulio.fellin@univr.it</a><br />
-<a href="http://www.di.univr.it/?ent=seminario&amp;id=5076&amp;idC=70">Course page on univr.it</a></p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 30 Jan 2020 14:30:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-03-09-short-course.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
