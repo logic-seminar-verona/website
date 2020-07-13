@@ -7,8 +7,30 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Sun, 28 Jun 2020 15:30:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2020 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2020-07-17.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-07-17.html>Seminar</a></h1>
+    <section class="header">
+        July 10, 2020
+    </section>
+    <section>
+        <p>Friday, July 17th, 2020, 11:00, on Zoom.</p>
+<p><a href="https://kaw.wallenberg.org/en/jacopo-emmenegger">Jacopo Emmenegger</a> (Birmingham)<br />
+<em>Elementary doctrines as coalgebras</em></p>
+<p><em>Abstract:</em></p>
+<p>Lawvere’s hyperdoctrines mark the beginning of applications of category theory to logic. The connection between (typed) logical theories and certain functors taking values in the category of posets is exemplified by two embeddings: of elementary doctrines into primary ones, and of elementary doctrines with effective quotients into elementary ones. In logical terms these correspond to the inclusion of <span class="math inline"><em>Λ</em><sub>=</sub></span>-theories into <span class="math inline"><em>Λ</em></span>-theories, resp. of <span class="math inline"><em>Λ</em><sub>=</sub></span>-theories with quotients into <span class="math inline"><em>Λ</em><sub>=</sub></span>-theories. Each of the two inclusions is part of an adjunction whose right, resp. left, functor adds quotients for equivalence relations. After discussing the above adjunctions and their connection to logic and type theory, I shall present a recent result, obtained with Fabio Pasquali and Pino Rosolini, showing that the first embedding is 2-comonadic. Finally, if time allows, I shall delve into the connections to model theory and discuss how the comonadic adjuntion provides an algebraic description of Shelah’s construction of a theory that eliminates imaginaries from classical model theory.</p>
+<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 10 Jul 2020 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-07-17.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Mini-Corso su CoQ</title>
     <link>https://www.logicverona.it//2020-09-minicorso.html</link>
     <description><![CDATA[<article>
@@ -213,41 +235,6 @@ This seminar is complementary to the compact course <a href="https://www.logicve
 ]]></description>
     <pubDate>Wed, 13 May 2020 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-05-14-seminar.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Compact Course "Program Extraction"</title>
-    <link>https://www.logicverona.it//2020-05-25-short-course.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-05-25-short-course.html>Compact Course "Program Extraction"</a></h1>
-    <section class="header">
-        January 30, 2020
-    </section>
-    <section>
-        <p><strong><em>Notice that the timetable has changed!</em></strong><br />
-<strong><em>NEW: links to course material added below</em></strong></p>
-<p>The minicourse “Program Extraction” by Monika Seisenberger will be held on-line from 25th to 29th May 2020.</p>
-<p>Registration will be required by 25nd May 18:00. To register please send an email to <a href="mailto:franziskus.wiesnet@unitn.it">Franziskus Wiesnet</a>.</p>
-<p><strong>Program Extraction</strong><br />
-<a href="https://www.swansea.ac.uk/staff/science/computer-science/m.seisenberger/">Monika Seisenberger</a> (Swansea University)</p>
-<p><em>Part 1. Extraction of Programs from Constructive Proofs</em><br />
-1.1 Introduction, Curry Howard-Correspondence, Realizability Interpretation<br />
-1.2 Tool Support, Examples, Extension to Inductive Definitions</p>
-<p><em>Part 2. Extraction of Programs from Classical Proofs</em><br />
-2.1 A-Translation, Choice principles<br />
-2.2 Applications for Both Parts</p>
-<p><strong>Timetable</strong><br />
-Tuesday, May 26: 8:40-10:20<br />
-Wednesday, May 27: 8:40-10:20<br />
-Thursday, May 28: 8:40-10:20<br />
-Friday, May 29: 15:00-16:00</p>
-<p>The course will be completed by the seminar talk <a href="https://www.logicverona.it/2020-05-29-departmental-seminar.html">Logic in Railway Verification</a> on Friday, May 29 at 16:00-17:00.</p>
-<p><strong>Course material</strong> - <a href="http://www.cs.swan.ac.uk/~csmona/Verona-ProgramExtraction.pdf">course slides</a> - <a href="www.minlog-system.de">minlog system</a> - <a href="http://www.cs.swan.ac.uk/~csmona/tutor.pdf">minlog tutorial</a></p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 30 Jan 2020 15:30:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-05-25-short-course.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
