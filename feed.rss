@@ -7,8 +7,29 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 Jul 2020 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2020 15:30:00 UT</lastBuildDate>
         <item>
+    <title>Compact Course "Modal Logics and Intuitionistic Logic"</title>
+    <link>https://www.logicverona.it//2020-08-short-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-08-short-course.html>Compact Course "Modal Logics and Intuitionistic Logic"</a></h1>
+    <section class="header">
+        August  7, 2020
+    </section>
+    <section>
+        <p><strong>Modal Logics and Intuitionistic Logic</strong><br />
+<a href="https://www.philosophie.tu-berlin.de/menue/fachgebiete/theoretische_philosophie/priv_doz_dr_stefania_centrone/">Stefania Centrone</a> (TU Berlin)</p>
+<p><em>Abstract</em><br />
+Modal logics capture concepts of necessity and possibility; intuitionistic logic models computation and construction. This minicourse is intended to introduce into both kinds of logic with particular attention on their interaction, from the angles of syntax and semantics but with a certain proof-theoretic flavour. One highlight will be Gödel’s embedding of intuitionistic propositional logic into the modal logic S4, which stood at the beginning of provability logic.</p>
+<p>This short course (12h) will be recorded by August 2020 and be made available as soon as possible.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 07 Aug 2020 15:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-08-short-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2020-07-17.html</link>
     <description><![CDATA[<article>
@@ -214,27 +235,6 @@ This seminar is complementary to the compact course <a href="https://www.logicve
 ]]></description>
     <pubDate>Fri, 22 May 2020 16:45:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-05-29-departmental-seminar.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2020-05-14-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-05-14-seminar.html>Seminar</a></h1>
-    <section class="header">
-        May 13, 2020
-    </section>
-    <section>
-        <p>Thursday, May 14th, 2020, 11:00, on Zoom.</p>
-<p><a href="http://www.di.univr.it/?ent=persona&amp;id=40478&amp;lang=en&amp;action=edit">Giulio Fellin</a> (Universities of Verona, Trento and Helsinki)<br />
-<em>Modal Logic for Induction</em> (j.w.w. Sara Negri and Peter Schuster)</p>
-<p><em>Abstract:</em> We use modal logic to obtain syntactical, proof-theoretic versions of transfinite induction as axioms or rules within an appropriate labelled sequent calculus. While transfinite induction proper, also known as Noetherian induction, can be represented by a rule, the variant in which induction is done up to an arbitrary but fixed level happens to correspond to the Gödel–Löb axiom of provability logic. To verify the practicability of our approach in actual practice, we give a fairly universal pattern for proof transformation and test its use in several cases. Among other things, we give a direct and elementary syntactical proof of the theorem that the Gödel–Löb axiom characterises precisely the well-founded and transitive Kripke frames.</p>
-<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 13 May 2020 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-05-14-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
