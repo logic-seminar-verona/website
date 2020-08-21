@@ -7,7 +7,7 @@ title: Minicourse "Modal Logics and Intuitionistic Logic"
 **Modal Logics and Intuitionistic Logic**\
 [Stefania Centrone](https://www.philosophie.tu-berlin.de/menue/fachgebiete/theoretische_philosophie/priv_doz_dr_stefania_centrone/) (TU Berlin)
 
-The minicourse "Modal logics and intuitionistic logic" (12h) has been videoregistered in August 2020. Members of the University of Verona who wish to follow the course but are not authorised to access [this link](https://moodle.univr.it/moodle/course/view.php?id=4217) are kindly asked to contact [Giulio Fellin](https://www.di.univr.it/?ent=persona&id=40478&lang=it).
+The minicourse "Modal logics and intuitionistic logic" (12h) has been videoregistered in August 2020. Members of the University of Verona who wish to follow the course but are not authorised to access [this link](https://moodle.univr.it/moodle/course/view.php?id=4217#section-4) are kindly asked to contact [Giulio Fellin](https://www.di.univr.it/?ent=persona&id=40478&lang=it).
 
 _Abstract_\
 Modal logics capture concepts of necessity and possibility; 
