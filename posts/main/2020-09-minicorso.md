@@ -24,7 +24,7 @@ Unfortunately, in a course of only 12 hours, even if intensive, it will not be p
 _Timetable_\
 Wednesday 9 September 2020, at [10.00-13.00]\
 Thursday 10 September 2020, at [10.00-13.00]\
-Wednesday 16 September 2020, [10.00-13.00]\
+Wednesday 16 September 2020, at [10.00-13.00]\
 Thursday 17 September 2020, at [10.00-13.00]
 
 The course is open to everyone, the only pre-requisite is to have the basic knowledge of logic.
