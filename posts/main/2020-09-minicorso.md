@@ -10,13 +10,13 @@ title: COQ introductory mini-course
 [Andrea Masini](http://www.di.univr.it/?ent=persona&id=126&lang=it) (Università di Verona)
 
 _Program_\
-1) Recalls of natural deduction (classical and intuitionist) and of typed lambda calculus.
-2) Examples of simple proofs in Coq (Goal, Assumptions and Tactics).
-3) Functional programming in CoQ.
-4) Structured data types.
-5) Polymorphism and higher order functions.
-6) The basic tactics.
-7) Logic in CoQ.
+1) Recalls of natural deduction (classical and intuitionist) and of typed lambda calculus.\
+2) Examples of simple proofs in Coq (Goal, Assumptions and Tactics).\
+3) Functional programming in CoQ.\
+4) Structured data types.\
+5) Polymorphism and higher order functions.\
+6) The basic tactics.\
+7) Logic in CoQ.\
 8) Induction
 
 Unfortunately, in a course of only 12 hours, even if intensive, it will not be possible to tackle the applications of COQ, which range from the specification and proof of properties of complex computer systems (SW and HW) to the mechanisation of mathematics (continuous and discrete).
