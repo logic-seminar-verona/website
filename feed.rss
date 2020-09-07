@@ -30,6 +30,27 @@ Modal logics capture concepts of necessity and possibility; intuitionistic logic
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 <item>
+    <title>Minicourse "The dynamical method in commutative algebra"</title>
+    <link>https://www.logicverona.it//2020-08-short-course-2.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2020-08-short-course-2.html>Minicourse "The dynamical method in commutative algebra"</a></h1>
+    <section class="header">
+        August  7, 2020
+    </section>
+    <section>
+        <p><strong>The dynamical method in commutative algebra</strong><br />
+Ihsen Yengui (Univ. Sfax, Tunisia)</p>
+<p>The minicourse “The dynamical method in commutative algebra” (12h) has been videoregistered in August 2020. Members of the University of Verona who wish to follow the course but are not authorised to access <a href="https://moodle.univr.it/moodle/mod/page/view.php?id=168536">this link</a> are kindly asked to contact <a href="https://www.di.univr.it/?ent=persona&amp;id=40478&amp;lang=it">Giulio Fellin</a>.</p>
+<p><em>Abstract</em><br />
+Transfinite methods, typically in the form of a variant of Zorn’s Lemma, are frequently invoked during proofs in commutative algebra. Dynamical methods have proved practicable to still render constructive proofs of that kind. Roughly speaking, ideal objects such as prime ideals are approximated by paths in finite trees which are grown as the proofs in question demand and carry the information required for the desired computation.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 07 Aug 2020 15:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2020-08-short-course-2.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2020-07-17.html</link>
     <description><![CDATA[<article>
@@ -218,29 +239,6 @@ We introduce the calculus HC0 and we use the notion of internal language of a ca
 ]]></description>
     <pubDate>Sat, 23 May 2020 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-05-28-seminar.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Departmental Seminar</title>
-    <link>https://www.logicverona.it//2020-05-29-departmental-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-05-29-departmental-seminar.html>Departmental Seminar</a></h1>
-    <section class="header">
-        May 22, 2020
-    </section>
-    <section>
-        <p>Friday, 29. May 2020, 16:00, via <a href="https://univr.zoom.us/j/96504680574">Zoom</a>.<br />
-This seminar is complementary to the compact course <a href="https://www.logicverona.it/2020-05-25-short-course.html">Program Extraction</a>.</p>
-<p><a href="https://www.swansea.ac.uk/staff/science/computer-science/m.seisenberger/">Monika Seisenberger</a> (Swansea University)<br />
-<em>Logic in Railway Verification</em></p>
-<p><em>Abstract</em>: Mathematical methods always played an important role in the verification of Railway control systems. In this talk we present two different approaches, the first for discrete systems, the second for hybrid systems. Both were used in our collaboration with Industry. We start with traditional solid state Railway interlockings, often specified using a graphical language called Ladder Logic. We give a semantics for this language and show how to get from aladder logic specification to a satisfiability problem. This process has been automated, and several existing Interlocking case studies, provided by our Industrial partner Siemens Rail Automation, have been verified using automated theorem proving tools. We further applied our own SAT solver, which we extracted from a formal constructive proof of the completeness of the Davis-Putnam-Logemann-Loveland (DPLL) proof system. The extracted SAT solver is a verified algorithm, which either yields a model or a DPLL refutation of a given clause set [1]. In the second part, we present our modelling of the European Rail Traffic Management System ERTMS, a state-of-the-art train control system, which aims at improving the performance/capacity of rail traffic systems, without compromising their safety. It generalizes from traditional interlockings to a system that includes on-board equipment and communication between trains and interlockings via radio block processors. Whilst the correctness of discrete interlocking systems is well-researched, it is challenging to verify ERTMS based systems for safety properties such as collision freedom due to the involvement of continuous data. The modelling and verification is done in Real-Time Maude, a tool that allows for both simulation and verification of real-time and hybrid systems [2].</p>
-<p>[1] U. Berger, A. Lawrence, F. Nordvall Forsberg, M. Seisenberger, Extracting Verified Decision Procedures: DPLL and Resolution, Logical Methods in Computer Science, 2015.<br />
-[2] U. Berger, P. James, A. Lawrence, M. Roggenbach, M. Seisenberger, Verification of the European Rail Traffic Management System in Real-Time Maude, Science of Computer Programming, JSP 2018.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 22 May 2020 16:45:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-05-29-departmental-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
