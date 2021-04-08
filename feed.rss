@@ -10,6 +10,29 @@
         <lastBuildDate>Wed, 07 Apr 2021 00:00:00 UT</lastBuildDate>
         <item>
     <title>Seminar</title>
+    <link>https://www.logicverona.it//2021-04-14.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2021-04-14.html>Seminar</a></h1>
+    <section class="header">
+        April  7, 2021
+    </section>
+    <section>
+        <p><strong>Wednesday, April 14th, 2021, 16:30, on Zoom.</strong></p>
+<p><a href="https://www.unich.it/ugov/person/1731">Gianluca Amato</a> (Chieti-Pescara)<br />
+<em>Universal Algebra in UniMath</em> (joint work with Marco Maggesi and Cosimo Perini Brogi)</p>
+<p><em>Abstract:</em></p>
+<p>In this talk we will report on recent experiments in implementing the basic notions of universal algebra in the Unimath library. Unimath is a replacement of the standard library of the Coq proof assistant based on the univalent foundations of mathematics. Since the use of general higher order inductive types is forbidden in Unimath, a relevant part of this work has been the implementation of terms as lists of function symbols in such a way that the operations on terms are computable by the standard Coq evaluation mechanism.</p>
+<p>More information can be found in the <a href="https://arxiv.org/abs/2102.05952">preprint</a>.</p>
+<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a> or <a href="https://www.di.univr.it/?ent=persona&amp;id=40478">Giulio Fellin</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 07 Apr 2021 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2021-04-14.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
+    <title>Seminar</title>
     <link>https://www.logicverona.it//2021-04-12.html</link>
     <description><![CDATA[<article>
     <h1><a href=/2021-04-12.html>Seminar</a></h1>
@@ -215,28 +238,6 @@ Thursday, July 2nd, 2020, 16:30, on Zoom.</p>
 ]]></description>
     <pubDate>Mon, 15 Jun 2020 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-07-02.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2020-06-25-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-06-25-seminar.html>Seminar</a></h1>
-    <section class="header">
-        June 15, 2020
-    </section>
-    <section>
-        <p>Thursday, June 25th, 2020, 11:00, on Zoom.</p>
-<p><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/logik-und-sprachtheorie/persons/dr-luca-tranchini/">Luca Tranchini</a> (Tübingen)<br />
-<em>Proof-terms for dual-intuitionistic logic and refutation-terms for intuitionistic logic</em> (j.w.w. Gianluigi Bellin)</p>
-<p><em>Abstract:</em></p>
-<p>In the present paper, we present a term-assignment for the fragment of bi-intuitionistic logic whose only type-forming operation is the dual of intuitionistic implication. Typing judgements have the form <span class="math inline"><em>x</em> : <em>C</em> ⊢ <em>t</em><sub>1</sub> : <em>A</em><sub>1</sub>, ..., <em>t</em><sub><em>n</em></sub> : <em>A</em><sub><em>n</em></sub></span> i.e. a set of terms is typed by declaring a single variable (somewhat dualizing the simply typed λ-calculus, where a single term is typed declaring a set of variables). The main distinguishing feature of our term calculus is its distributed nature: whereas in the λμ-calculus all conclusions but one are μ-variables, in our calculus the computational content is distributed among the conclusions, i.e. to each conclusion one assigns a possibly complex term; moreover, reduction is also distributed, in the sense that the reduction acts globally on a set of terms, and not on a single one. The duality between our calculus and the simply typed λ-calculus suggests the possibility to use it not only to encode the dual-intuitionistic notion of provability, but an intuitionistic notion of refutability as well. We spell out this idea by using our terms to decorate Prawitz’s rules of intuitionistic natural deduction from the bottom to the top, thereby expressing a backwards reading of intuitionistic rules: given refutations of the conclusions one computes refutations of the premises.</p>
-<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Mon, 15 Jun 2020 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-06-25-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
