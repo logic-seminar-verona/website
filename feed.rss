@@ -7,8 +7,30 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 04 Feb 2021 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Apr 2021 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2021-04-12.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2021-04-12.html>Seminar</a></h1>
+    <section class="header">
+        April  7, 2021
+    </section>
+    <section>
+        <p><strong>Monday, April 10th, 2021, 16:30, on Zoom.</strong></p>
+<p><a href="https://www.gu.se/en/about/find-staff/thierrycoquand">Thierry Coquandt</a> (Göteborg)<br />
+<em>Sheaf models and constructive mathematics</em></p>
+<p><em>Abstract:</em></p>
+<p>Sheaf models over sites, introduced by Grothendieck in algebraic geometry, are also important in the meta-theory of intuitionistic mathematics for showing that some properties are not valid constructively or for providing models of the notion of choice sequences. In this talk, I would like to explain another use of sheaf models in constructive mathematics, suggested by Joyal in 1975, which is to provide a way to build an algebraic closure of an arbitrary field.</p>
+<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a> or <a href="https://www.di.univr.it/?ent=persona&amp;id=40478">Giulio Fellin</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 07 Apr 2021 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2021-04-12.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2021-02-10.html</link>
     <description><![CDATA[<article>
@@ -215,28 +237,6 @@ Thursday, July 2nd, 2020, 16:30, on Zoom.</p>
 ]]></description>
     <pubDate>Mon, 15 Jun 2020 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-06-25-seminar.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2020-06-18-seminar.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-06-18-seminar.html>Seminar</a></h1>
-    <section class="header">
-        June  2, 2020
-    </section>
-    <section>
-        <p>Thursday, June 18th, 2020, 11:00, on Zoom.</p>
-<p><a href="https://sites.google.com/site/paolomaffezioli/">Paolo Maffezioli</a> (University of Barcelona)<br />
-<em>Intuitionistic mereology</em> (j.w.w. A. Varzi)</p>
-<p><em>Abstract:</em></p>
-<p>Like any formal theory, mereology consists of axioms concerning the propositional connectives and quantifiers (logical axioms) and axioms concerning the parthood relation (proper axioms). Over the years, philosophical reasons have motivated interest in departing from the traditional axiomatization of mereology. Proper axioms such as the principle of strong supplementation or the principle of unrestricted composition have been weakened or rejected altogether and even elementary axioms like the anti-symmetry of parthood or its transitivity are no longer regarded as uncontentious. Logical axioms have been challenged, too. For example, many-valued logic, free logic and plural quantification have long been considered as sensible alternatives to classical first-order logic and, more recently, mereological theories based on paraconsistent logic have also been proposed. The two kinds of revisions are normally seen as independent from each other, but this isn’t always the case. For instance, I will show that developing an intuitionistic mereology by rejecting the law of excluded middle without touching the proper axioms would fails to validate nearly all the compelling principles of extensionality. If, one the other hand, the logical revision (from classical to intuitionistic logic) is accompanied by a suitable revision of the proper axioms, extensionality can be fully recovered. I will also show that change of the proper axioms can easily be made if the traditional mereological primitives are defined in terms of notions that have been investigated in constructive mathematics, mainly (though not exclusively) the notion of apartness (Brouwer, Heyting) and excess (von Plato).</p>
-<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Tue, 02 Jun 2020 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-06-18-seminar.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
