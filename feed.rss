@@ -9,6 +9,27 @@
                    type="application/rss+xml" />
         <lastBuildDate>Tue, 01 Jun 2021 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Compact Course</title>
+    <link>https://www.logicverona.it//2021-06-compact-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2021-06-compact-course.html>Compact Course</a></h1>
+    <section class="header">
+        June  1, 2021
+    </section>
+    <section>
+        <p><strong>On the Algebra of Logic</strong><br />
+<a href="https://moraschini.github.io/index.html">Tommaso Moraschini</a> (University of Barcelona)</p>
+<p>The minicourse <a href="https://www.di.univr.it/?ent=seminario&amp;id=5406&amp;idC=163">On the Algebra of Logic</a> [2 ETCS Mat/01] by Tommaso Moraschini, University of Barcelona, is being videoregistered from now on.</p>
+<p>Attendees are expected to have verified, refreshed or acquired adequate basic knowledge of universal algebra before following the <a href="https://moraschini.github.io/teaching.html">videolectures</a> by working through chapters 1 and 2 of the <a href="https://moraschini.github.io/teaching.html">course notes</a>.</p>
+<p>Members of the University of Verona are kindly asked to register for the course mailing list by writing to <a href="https://www.di.univr.it/?ent=persona&amp;id=40478&amp;lang=it">Giulio Fellin</a>. Students of the University of Verona who want to obtain credits for this course also in the future should contact prof. <a href="https://www.di.univr.it/?ent=persona&amp;id=21404">Peter Schuster</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 01 Jun 2021 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2021-06-compact-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2021-06-04.html</link>
     <description><![CDATA[<article>
@@ -216,28 +237,6 @@ Thursday 17 September 2020, at [10.00-13.00]</p>
 ]]></description>
     <pubDate>Sun, 28 Jun 2020 15:30:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-09-minicorso.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2020-07-09.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-07-09.html>Seminar</a></h1>
-    <section class="header">
-        June 15, 2020
-    </section>
-    <section>
-        <p>Thursday, July 9th, 2020, 11:00, on Zoom.</p>
-<p><a href="http://www.di.univr.it/?ent=persona&amp;id=42247">Davide Trotta</a> (Università di Verona)<br />
-<em>Hilbert <span class="math inline"><em>ϵ</em></span>-operator and existence property in categorical logic</em> (j.w.w. M. Zorzi and M.E. Maietti)</p>
-<p><em>Abstract:</em></p>
-<p>In this talk we present some choice principles in the context of categorical logic and their applications in logic. In particular we focus on the existence property, the choice rule and the Hilbert <span class="math inline"><em>ϵ</em></span>-operator. We use the language of doctrines and the existential completion to present these principles and their characterization. Then we provide some direct applications in a fragment of intuitionistic logic.</p>
-<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Mon, 15 Jun 2020 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-07-09.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
