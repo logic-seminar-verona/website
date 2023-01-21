@@ -6,8 +6,8 @@ Verona.
 
 The individual posts are stored as Markdown files in the `posts` subdirectory.
 A Haskell program based on [Hakyll](https://jaspervdj.be/hakyll/) turns these
-into static HTML files. This program is automatically run on servers by [Travis
-CI](https://travis-ci.org/) on each push to the repository. The resulting HTML
+into static HTML files. This program is automatically run on a servers by Ingo
+on each push to the repository. The resulting HTML
 files are stored in the `gh-pages` branch, which is then served by [GitHub
 Pages](https://pages.github.com). No knowledge of Haskell or NixOS is required
 to edit the website.
@@ -26,8 +26,7 @@ to edit the website.
    to serve as a template and change the contents as you see fit.
 6. Click *Commit new file*.
 7. That's it. About five minutes later, the new post should be visible on the
-   website. In case you're impatient or curious, you can follow the build
-   progress [on Travis CI](https://travis-ci.org/logic-seminar-verona/website).
+   website.
 
 
 ## How to add a new post from the command-line
@@ -49,8 +48,7 @@ to edit the website.
    first command tells Git to record the changes in the local copy of the
    repository. The second command uploads the changes to GitHub.
 8. That's it. About five minutes later, the new post should be visible on the
-   website. In case you're impatient or curious, you can follow the build
-   progress [on Travis CI](https://travis-ci.org/logic-seminar-verona/website).
+   website.
 
 
 ## Undoing mistakes
