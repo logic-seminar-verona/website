@@ -19,8 +19,7 @@ while :; do
     git reset --hard origin/master
     git fetch
     git merge origin/master
-    # nix-shell -I nixpkgs=https://releases.nixos.org/nixos/19.03/nixos-19.03.173684.c8db7a8a16e/nixexprs.tar.xz -p haskellPackages.cabal-install -p wget -p git --run "nix-shell -I nixpkgs=https://releases.nixos.org/nixos/19.03/nixos-19.03.173684.c8db7a8a16e/nixexprs.tar.xz --run './deploy.sh git@github.com:logic-seminar-verona/website.git'"
-    ./deploy.sh git@github.com:logic-seminar-verona/website.git
+    nix-shell -I nixpkgs=https://nixos.org/channels/nixos-21.05/nixexprs.tar.xz -p haskellPackages.cabal-install -p wget -p git --run "nix-shell -I nixpkgs=https://nixos.org/channels/nixos-21.05/nixexprs.tar.xz --run './deploy.sh git@github.com:logic-seminar-verona/website.git'"
   }
 
   sleep 2
