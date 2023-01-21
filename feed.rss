@@ -7,8 +7,35 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 01 Jun 2021 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 12:55:41 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2023-01-23.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2023-01-23.html>Seminar</a></h1>
+    <section class="header">
+        January 17, 2023
+    </section>
+    <section>
+        <p>Monday, 23 January 2023, <a href="https://www.dbt.univr.it/?ent=luogo&amp;id=24">Aula F (Ca’ Vignal 1)</a>.</p>
+<hr />
+<p>15:00</p>
+<p><a href="https://fp.jaist.ac.jp/public/Default2.aspx?id=688&amp;l=1">Tatsuji Kawai</a> (Japan Advanced Institute of Science and Technology)</p>
+<p><em>Predicative theory of stably locally compact locales</em></p>
+<p>We give a predicative presentation of stably locally compact locales, the class of locales which includes locally compact regular locales (e.g., localic reals) as its subclass. In our setting, a stably locally compact locale is presented as a quasi-proximity lattice, a quasi-bounded distributive lattice (distributive lattice without top) together with a certain idempotent relation on it. Using this structure, we construct a coreflection from the category of locally compact regular locales and cobounded maps to that of stably locally compact locales and perfect maps. The construction of this coreflection generalizes Dedekind’s construction of real numbers as pairs of a lower and an upper cut.</p>
+<hr />
+<p>16:30</p>
+<p><a href="https://fp.jaist.ac.jp/public/Default2.aspx?id=48&amp;l=1">Hajime Ishihara</a> (Japan Advanced Institute of Science and Technology)</p>
+<p><em>Reflexive combinatory algebras</em></p>
+<p>We introduce the notion of reflexivity for combinatory algebras. Reflexivity can be thought of as an equational counterpart of the Meyer-Scott axiom of combinatory models, which indeed allows us to characterise an equationally definable counterpart of combinatory models. This new structure, called strongly reflexive combinatory algebra, admits a finite axiomatisation with seven closed equations, and the structure is shown to be exactly the retract of combinatory models. Lambda algebras can be characterised as strongly reflexive combinatory algebras which are stable. This is a joint work with Marlou M. Gijzen and Tatsuji Kawai.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 17 Jan 2023 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2023-01-23.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Compact Course</title>
     <link>https://www.logicverona.it//2021-06-compact-course.html</link>
     <description><![CDATA[<article>
@@ -202,41 +229,6 @@ Transfinite methods, typically in the form of a variant of Zorn’s Lemma, are f
 ]]></description>
     <pubDate>Fri, 10 Jul 2020 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-07-17.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>COQ introductory mini-course</title>
-    <link>https://www.logicverona.it//2020-09-minicorso.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-09-minicorso.html>COQ introductory mini-course</a></h1>
-    <section class="header">
-        June 28, 2020
-    </section>
-    <section>
-        <p><strong>COQ introductory mini-course</strong><br />
-<a href="http://www.di.univr.it/?ent=persona&amp;id=126&amp;lang=it">Andrea Masini</a> (Università di Verona)</p>
-<p><em>Program</em><br />
-1) Recalls of natural deduction (classical and intuitionist) and of typed lambda calculus.<br />
-2) Examples of simple proofs in Coq (Goal, Assumptions and Tactics).<br />
-3) Functional programming in CoQ.<br />
-4) Structured data types.<br />
-5) Polymorphism and higher order functions.<br />
-6) The basic tactics.<br />
-7) Logic in CoQ.<br />
-8) Induction</p>
-<p>Unfortunately, in a course of only 12 hours, even if intensive, it will not be possible to tackle the applications of COQ, which range from the specification and proof of properties of complex computer systems (SW and HW) to the mechanisation of mathematics (continuous and discrete).</p>
-<p><em>Timetable</em><br />
-Wednesday 9 September 2020, at [10.00-13.00]<br />
-Thursday 10 September 2020, at [10.00-13.00]<br />
-Wednesday 16 September 2020, at [10.00-13.00]<br />
-Thursday 17 September 2020, at [10.00-13.00]</p>
-<p>The course is open to everyone, the only pre-requisite is to have the basic knowledge of logic.</p>
-<p>It is still not clear whether the course will be held in presence or on-line. We’re waiting for precise indications from the doctoral school.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Sun, 28 Jun 2020 15:30:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-09-minicorso.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
