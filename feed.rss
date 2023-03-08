@@ -7,8 +7,29 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 17 Jan 2023 12:55:41 UT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 12:55:41 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2023-03-21.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2023-03-21.html>Seminar</a></h1>
+    <section class="header">
+        March  7, 2023
+    </section>
+    <section>
+        <p>Tuesday, 21 March 2023, <a href="https://www.di.univr.it/?ent=luogo&amp;id=31">Aula I (Ca’ Vignal 2)</a>.</p>
+<p>15:00</p>
+<p><a href="https://www.sns.it/it/persona/matteo-tesi">Matteo Tesi</a> (Scuola Normale Superiore, Pisa)</p>
+<p><em>Quantificatori moltiplicativi, esponenziali e cut-elimination</em> (j.w.w. Carlo Nicolai e Mario Piazza)</p>
+<p><strong>Abstract:</strong> L’aggiunta di un predicato di verità governato da regole ingenue conduce spesso a sistemi contraddittori. Un metodo per recuperare la consistenza consiste nell’adottare una logica priva di contrazione: questa strada è stata seguita - tra gli altri - da Grishin e Cantini. Successivamente un ulteriore approccio basato su quantificatori moltiplicativi è stato proposto da Zardini, ma il sistema si è rivelato inconsistente. Nel presente talk proponiamo un’analisi della logica dei quantificatori moltiplicativi. In primo luogo offriamo una presentazione consistente di un sistema con predicato di verità decitazionale con quantificatori additivi. In seguito mostriamo come gli esponenziali (! e ?) possano essere interpretati in modo corretto e fedele mediante l’uso dei quantificatori moltiplicativi. Infine proponiamo una dimostrazione sintattica di eliminazione del taglio per un calcolo con quantificatori moltiplicativi. L’analisi della strategia porterà alla luce la presenza di contrazione implicita nelle regole dei quantificatori.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 07 Mar 2023 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2023-03-21.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2023-01-23.html</link>
     <description><![CDATA[<article>
@@ -208,28 +229,6 @@ Transfinite methods, typically in the form of a variant of Zorn’s Lemma, are f
 ]]></description>
     <pubDate>Fri, 07 Aug 2020 15:30:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-08-short-course-2.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2020-07-17.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-07-17.html>Seminar</a></h1>
-    <section class="header">
-        July 10, 2020
-    </section>
-    <section>
-        <p>Friday, July 17th, 2020, 11:00, on Zoom.</p>
-<p><a href="https://research.birmingham.ac.uk/portal/en/persons/jacopo-emmenegger(80378835-735e-4aff-abdf-71bea205d278).html">Jacopo Emmenegger</a> (Birmingham)<br />
-<em>Elementary doctrines as coalgebras</em> (j.w.w. Fabio Pasquali and Pino Rosolini)</p>
-<p><em>Abstract:</em></p>
-<p>Lawvere’s hyperdoctrines mark the beginning of applications of category theory to logic. The connection between (typed) logical theories and certain functors taking values in the category of posets is exemplified by two embeddings: of elementary doctrines into primary ones, and of elementary doctrines with effective quotients into elementary ones. In logical terms these correspond to the inclusion of <span class="math inline"><em>Λ</em><sub>=</sub></span>-theories into <span class="math inline"><em>Λ</em></span>-theories, resp. of <span class="math inline"><em>Λ</em><sub>=</sub></span>-theories with quotients into <span class="math inline"><em>Λ</em><sub>=</sub></span>-theories. Each of the two inclusions is part of an adjunction whose right, resp. left, functor adds quotients for equivalence relations. After discussing the above adjunctions and their connection to logic and type theory, I shall present a recent result, obtained with Fabio Pasquali and Pino Rosolini, showing that the first embedding is 2-comonadic. Finally, if time allows, I shall delve into the connections to model theory and discuss how the comonadic adjuntion provides an algebraic description of Shelah’s construction of a theory that eliminates imaginaries from classical model theory. The talk is based on the paper E., Pasquali, Rosolini. Elementary doctrines as coalgebras. J. Pure Appl. Algebra 224, 2020. doi:10.1016/j.jpaa.2020.106445</p>
-<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 10 Jul 2020 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-07-17.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
