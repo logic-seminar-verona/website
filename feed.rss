@@ -7,8 +7,37 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 07 Mar 2023 12:55:41 UT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 12:55:41 UT</lastBuildDate>
         <item>
+    <title>Seminars</title>
+    <link>https://www.logicverona.it//2023-05.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2023-05.html>Seminars</a></h1>
+    <section class="header">
+        May  3, 2023
+    </section>
+    <section>
+        <p>Tuesday, 9 May 2023</p>
+<hr />
+<p>14:30, <a href="https://www.dbt.univr.it/?ent=luogo&amp;id=4">Aula E (Ca’ Vignal 1)</a>.</p>
+<p><a href="https://www.ingo-blechschmidt.eu/">Ingo Blechschmidt</a> (Universität Augsburg)</p>
+<p><em>Synthetic scheme theory: a simpler framework for algebraic geometry</em></p>
+<p><strong>Abstract:</strong> TBA</p>
+<hr />
+<p>16:30, <a href="https://www.di.univr.it/?ent=luogo&amp;id=32">Aula Gino Tessari (Ca’ Vignal 2)</a>.</p>
+<p><a href="https://www.cis.uni-muenchen.de/~leiss/">Hans Leiß</a> (Universität München)</p>
+<p>_Algebraic Representation of the Fixed-Point Closure of *-continuous Kleene Algebras_</p>
+<p><strong>Abstract:</strong> The theorem of Chomsky and Schützenberger says that each context-free language L over a finite alphabet X is the image of the intersection of a regular language R over X+Y and the context-free Dyck-language D over X+Y of strings with balanced brackets from Y under the bracket-erasing homomorphism from the monoid of strings over X+Y to that of strings over X.</p>
+<p>Within Hopkins’ algebraization of formal language theory we show that the algebra C(X) of context-free languages over X has an isomorphic copy in a suitable tensor product of the algebra R(X) of regular languages over X with a quotient of R(Y) by a congruence describing bracket matches and mismatches. It follows that all context-free languages over X can be defined by regular(!) expressions over X+Y where the letters of X commute with the brackets of Y, thereby providing a substitute for a fixed-point-operator.</p>
+<p>This generalizes the theorem of Chomsky and Schützenberger and leads to an algebraic representation of the fixed-point closure of *-continuous Kleene algebras.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 03 May 2023 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2023-05.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2023-03-21.html</link>
     <description><![CDATA[<article>
@@ -208,27 +237,6 @@ Modal logics capture concepts of necessity and possibility; intuitionistic logic
 ]]></description>
     <pubDate>Fri, 07 Aug 2020 15:30:00 UT</pubDate>
     <guid>https://www.logicverona.it//2020-08-short-course.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Minicourse "The dynamical method in commutative algebra"</title>
-    <link>https://www.logicverona.it//2020-08-short-course-2.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-08-short-course-2.html>Minicourse "The dynamical method in commutative algebra"</a></h1>
-    <section class="header">
-        August  7, 2020
-    </section>
-    <section>
-        <p><strong>The dynamical method in commutative algebra</strong><br />
-Ihsen Yengui (Univ. Sfax, Tunisia)</p>
-<p>The minicourse “The dynamical method in commutative algebra” (12h) has been videoregistered in August 2020. Members of the University of Verona who wish to follow the course but are not authorised to access <a href="https://moodledidattica.univr.it/mod/page/view.php?id=168536">this link</a> are kindly asked to contact <a href="https://www.di.univr.it/?ent=persona&amp;id=40478&amp;lang=it">Giulio Fellin</a>.</p>
-<p><em>Abstract</em><br />
-Transfinite methods, typically in the form of a variant of Zorn’s Lemma, are frequently invoked during proofs in commutative algebra. Dynamical methods have proved practicable to still render constructive proofs of that kind. Roughly speaking, ideal objects such as prime ideals are approximated by paths in finite trees which are grown as the proofs in question demand and carry the information required for the desired computation.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 07 Aug 2020 15:30:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-08-short-course-2.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
