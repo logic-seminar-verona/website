@@ -7,8 +7,32 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 03 May 2023 12:55:41 UT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 12:55:41 UT</lastBuildDate>
         <item>
+    <title>Two Seminars 'Introdunction to HoTT'</title>
+    <link>https://www.logicverona.it//2023-09-25.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2023-09-25.html>Two Seminars 'Introdunction to HoTT'</a></h1>
+    <section class="header">
+        July 14, 2023
+    </section>
+    <section>
+        <p>25-26 September, 2023</p>
+<hr />
+<p><a href="https://marcobenini.me/">Marco Benini</a> (Università degli Studi dell’Insubria)</p>
+<p><em>Introduction to HoTT</em></p>
+<p><em>Part 1</em>: Monday, September 25th, 16:00, <a href="https://www.di.univr.it/?ent=luogo&amp;id=29">Aula G (Ca’ Vignal 2)</a>.</p>
+<p><strong>Abstract:</strong> TBA</p>
+<p><em>Part 2</em>: Tuesday, September 26th, 16:00, <a href="https://www.di.univr.it/?ent=luogo&amp;id=31">Aula I (Ca’ Vignal 2)</a>.</p>
+<p><strong>Abstract:</strong> TBA</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 14 Jul 2023 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2023-09-25.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminars</title>
     <link>https://www.logicverona.it//2023-05.html</link>
     <description><![CDATA[<article>
@@ -225,27 +249,6 @@
 ]]></description>
     <pubDate>Fri, 15 Jan 2021 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2021-01-18.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Minicourse "Modal Logics and Intuitionistic Logic"</title>
-    <link>https://www.logicverona.it//2020-08-short-course.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2020-08-short-course.html>Minicourse "Modal Logics and Intuitionistic Logic"</a></h1>
-    <section class="header">
-        August  7, 2020
-    </section>
-    <section>
-        <p><strong>Modal Logics and Intuitionistic Logic</strong><br />
-<a href="https://www.philosophie.tu-berlin.de/menue/fachgebiete/theoretische_philosophie/priv_doz_dr_stefania_centrone/">Stefania Centrone</a> (TU Berlin)</p>
-<p>The minicourse “Modal logics and intuitionistic logic” (12h) has been videoregistered in August 2020. Members of the University of Verona who wish to follow the course but are not authorised to access <a href="https://moodledidattica.univr.it/course/view.php?id=4217#section-4">this link</a> are kindly asked to contact <a href="https://www.di.univr.it/?ent=persona&amp;id=40478&amp;lang=it">Giulio Fellin</a>.</p>
-<p><em>Abstract</em><br />
-Modal logics capture concepts of necessity and possibility; intuitionistic logic models computation and construction. This minicourse is intended to introduce into both kinds of logic with particular attention on their interaction, from the angles of syntax and semantics but with a certain proof-theoretic flavour. One highlight will be Gödel’s embedding of intuitionistic propositional logic into the modal logic S4, which stood at the beginning of provability logic.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 07 Aug 2020 15:30:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2020-08-short-course.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
