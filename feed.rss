@@ -20,10 +20,12 @@
         <p>25-26 September, 2023</p>
 <hr />
 <p><a href="https://marcobenini.me/">Marco Benini</a> (Università degli Studi dell’Insubria)</p>
-<p><em>1. Homotopy Type Theory: A Gentle Introduction</em>. Monday, September 25th, 16:00, <a href="https://www.di.univr.it/?ent=luogo&amp;id=29">Aula G (Ca’ Vignal 2)</a>.</p>
+<p><em>1. Homotopy Type Theory: A Gentle Introduction</em>: Monday, September 25th, 16:00, <a href="https://www.di.univr.it/?ent=luogo&amp;id=29">Aula G (Ca’ Vignal 2)</a>.</p>
 <p><strong>Abstract:</strong> Homotopy Type Theory (HoTT) is, syntactically, Martin-Löf Type Theory (MLTT) plus the axiom called “univalence”. Hence, it is, at the same time, an abstract functional programming language, a logical system, and a synthetic way to describe homotopy spaces. The seminar introduces the type system, focusing on the homotopy interpretation, univalence, and higher inductive types, i.e., the main novelties of HoTT with respect to MLTT. The seminar aims at providing the fundamental ideas of HoTT to mathematicians and computer scientists willing to understand what is HoTT without the burden of a formal, in-depth presentation.</p>
 <p><em>2. Homotopy Type Theory: Equality as Equality</em>: Tuesday, September 26th, 16:00, <a href="https://www.di.univr.it/?ent=luogo&amp;id=31">Aula I (Ca’ Vignal 2)</a>.</p>
 <p><strong>Abstract:</strong> The seminar aims at discussing the logical properties of judgemental and propositional equalities in HoTT. It shows the fundamental reasoning techniques of HoTT, and a few small novel results. Also, the material provides a critical view of the current stage of development of the theory, showing to what extent a systematic approach is needed. This talk is intended for mathematicians and computer scientists willing to see more of the formal and technical side of HoTT, and some minimal knowledge about type theories, algebraic topology, and constructive mathematics is presumed.</p>
+<hr />
+<p>The talks will be hold both in presence and on Zoom. In order to get the Zoom link, please contact <a href="https://www.di.univr.it/?ent=persona&amp;id=40478">Giulio Fellin</a>.</p>
     </section>
 </article>
 ]]></description>
