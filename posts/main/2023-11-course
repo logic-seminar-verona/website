@@ -1,0 +1,27 @@
+---
+author: ioiops
+date: 2023-09-28 00:00:00+00:00
+title: Course "ADVANCES IN Mathematical Logic: Homotopy Type Theory"
+---
+
+**Lecturer and Examiner:** [Dr. Iosif Petrakis](https://www.di.univr.it/?ent=persona&id=42498&lang=itAnna)
+
+**Period:** 01.11.2023-15.12.2023
+
+**Venue:** Department of Computer Science, University of Verona
+
+**Indicative number of academic hours:** 35
+
+**Assessment method:** Written exam
+
+**Contents:** Martin-Löf's type theory (MLTT) is a predicative modification of lambda-calculus with many
+applications to the theory of programming languages. The recent extension of MLTT with the axiom of
+univalence (UA) by the late Fields medalist Voevodsky reveals surprising connections between
+homotopy theory and logic. Homotopy Type Theory (HoTT) can be described as MLTT + UA + Higher
+Inductive Types. HoTT and Category Theory (CaT), are currently among the most actively studied
+mathematical frameworks for the logical foundations of mathematics and theoretical computer science.
+The following topics are planned to be covered: introduction to MLTT, function-extensionality axiom,
+the groupoid model of Hofmann and Streicher, Voevodsky's axiom of univalence, homotopy n-types,
+higher inductive types, the fundamental group of the higher circle, relations between HoTT and
+constructive mathematics, relations between HoTT and CaT.
+No prior knowledge of homotopy theory and type theory is required. Lecture notes will be available.
