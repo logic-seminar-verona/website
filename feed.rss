@@ -7,8 +7,40 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 14 Jul 2023 12:55:41 UT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 00:00:00 UT</lastBuildDate>
         <item>
+    <title>Course "ADVANCES IN Mathematical Logic. Homotopy Type Theory"</title>
+    <link>https://www.logicverona.it//2023-11-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2023-11-course.html>Course "ADVANCES IN Mathematical Logic. Homotopy Type Theory"</a></h1>
+    <section class="header">
+        September 28, 2023
+    </section>
+    <section>
+        <p><strong>Lecturer and Examiner:</strong> <a href="https://www.di.univr.it/?ent=persona&amp;id=42498&amp;lang=itAnna">Dr. Iosif Petrakis</a></p>
+<p><strong>Period:</strong> 01.11.2023-15.12.2023</p>
+<p><strong>Venue:</strong> Department of Computer Science, University of Verona</p>
+<p><strong>Indicative number of academic hours:</strong> 35</p>
+<p><strong>Assessment method:</strong> Written exam</p>
+<p><strong>Contents:</strong> Martin-Löf’s type theory (MLTT) is a predicative modification of lambda-calculus with many
+applications to the theory of programming languages. The recent extension of MLTT with the axiom of
+univalence (UA) by the late Fields medalist Voevodsky reveals surprising connections between
+homotopy theory and logic. Homotopy Type Theory (HoTT) can be described as MLTT + UA + Higher
+Inductive Types. HoTT and Category Theory (CaT), are currently among the most actively studied
+mathematical frameworks for the logical foundations of mathematics and theoretical computer science.
+The following topics are planned to be covered: introduction to MLTT, function-extensionality axiom,
+the groupoid model of Hofmann and Streicher, Voevodsky’s axiom of univalence, homotopy n-types,
+higher inductive types, the fundamental group of the higher circle, relations between HoTT and
+constructive mathematics, relations between HoTT and CaT.
+No prior knowledge of homotopy theory and type theory is required. Lecture notes will be available.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 28 Sep 2023 00:00:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2023-11-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Two introductory seminars to Homotopy Type Theory</title>
     <link>https://www.logicverona.it//2023-09-25.html</link>
     <description><![CDATA[<article>
@@ -295,29 +327,6 @@ In this talk we will discuss the consequences of univalence, and introduce 2LTT 
 ]]></description>
     <pubDate>Thu, 04 Feb 2021 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2021-02-10.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2021-01-18.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2021-01-18.html>Seminar</a></h1>
-    <section class="header">
-        January 15, 2021
-    </section>
-    <section>
-        <p><strong>Thursday, January 21st, 2021, 10:30, on Zoom.</strong>
-<strong>PLEASE NOTICE THAT THE TALK WAS POSTPONED</strong></p>
-<p><a href="https://www.unibo.it/sitoweb/eugenio.orlandelli/en">Eugenio Orlandelli</a> (Bologna)<br />
-<em>FULL CUT ELIMINATION AND INTERPOLATION FOR INTUITIONISTIC LOGIC WITH EXISTENCE PREDICATE</em></p>
-<p><em>Abstract:</em></p>
-<p>In previous work by Baaz and Iemhoff, a Gentzen calculus for intuitionistic logic with existence predicate is presented that satisfies partial cut elimination and Craig’s interpolation property; it is also conjectured that interpolation fails for the implication-free fragment. In this paper an equivalent calculus is introduced that satisfies full cut elimination and allows a direct proof of interpolation via Maehara’s lemma. In this way, it is possible to obtain much simpler interpolants and to better understand and (partly) overcome the failure of interpolation for the implication-free fragment.</p>
-<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a> or <a href="https://www.di.univr.it/?ent=persona&amp;id=40478">Giulio Fellin</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 15 Jan 2021 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2021-01-18.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
