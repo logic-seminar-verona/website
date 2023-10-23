@@ -7,8 +7,30 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 28 Sep 2023 00:00:00 UT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 12:55:41 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2023-10-26.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2023-10-26.html>Seminar</a></h1>
+    <section class="header">
+        October 23, 2023
+    </section>
+    <section>
+        <p>Thursday, 23 January 2023, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde (Ca’ Vignal 3 - La Piramide)</a>.</p>
+<hr />
+<p>10:30</p>
+<p><a href="https://sites.google.com/view/samuelemaschio/home">Samuele Maschio</a> (Università degli Studi di Padova)</p>
+<p><em>Implicative models of set theory</em></p>
+<p>Implicative algebras were introduced by A.Miquel to provide a common foundation for Heyting/Boolean-valued logic and realizability. In this talk I will show how one can produce models for intuitionistic and classical Zermelo-Fraenkel set theory (I)ZF using implicative algebras, generalizing forcing and realizability models for set theory, both intuitionistic and classical . This result has an application to the theory of toposes, since it entails that every topos which is obtained from Set by means of the tripos-to-topos construction contains a model of (I)ZF, provided one assumes a large enough inaccessible cardinal exists. This talk is based on a joint work with A.Miquel.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Mon, 23 Oct 2023 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2023-10-26.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Course "ADVANCES IN Mathematical Logic. Homotopy Type Theory"</title>
     <link>https://www.logicverona.it//2023-11-course.html</link>
     <description><![CDATA[<article>
@@ -310,28 +332,6 @@ In this talk we will discuss the consequences of univalence, and introduce 2LTT 
 ]]></description>
     <pubDate>Wed, 07 Apr 2021 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2021-04-12.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2021-02-10.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2021-02-10.html>Seminar</a></h1>
-    <section class="header">
-        February  4, 2021
-    </section>
-    <section>
-        <p><strong>Wednesday, February 10th, 2021, 16:30, on Zoom.</strong></p>
-<p><a href="http://logica.uniroma3.it/pistone/">Paolo Pistone</a> (Bologna)<br />
-<em>The Yoneda Reduction of Polymorphic Types (joint work with Luca Tranchini)</em></p>
-<p><em>Abstract:</em></p>
-<p>We explore a family of type isomorphisms in System F whose validity corresponds, semantically, to some form of the Yoneda isomorphism from category theory. These isomorphisms hold under theories of equivalence stronger than βη-equivalence, like those induced by parametricity and dinaturality. Based on such isomorphisms, we investigate a rewriting over types, that we call Yoneda reduction, which can be used to eliminate quantifiers from a polymorphic type, replacing them with a combination of monomorphic type constructors. We then demonstrate some applications of this rewriting to problems like counting the inhabitants of a type or characterizing program equivalence in some fragments of System F.</p>
-<p>The seminar will be held on Zoom. In order to get access to the Zoom meeting, please contact <a href="http://www.di.univr.it/?ent=persona&amp;id=21404&amp;lang=en">Peter Schuster</a> or <a href="https://www.di.univr.it/?ent=persona&amp;id=40478">Giulio Fellin</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 04 Feb 2021 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2021-02-10.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
