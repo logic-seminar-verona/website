@@ -38,12 +38,20 @@ ___
 _The Intentum and Intentic Models_
 
  I will present the main ideas of a research proposal in the making. It aims to develop a dynamic (potentialist) account of an agent's first-order intentional attitudes as representative models of (possible) reality. The account introduces the new notion of the intentum, and formally develops intentic models consisting of such intenta. These are meant to be structures that an agent can dynamically construct mentally, and which consequently help us philosophically explain and reason about beliefs, wishes, imaginations, etc. Here follow some promising applications of this framework:
+ 
 (1) It offers a novel theory of propositions and intentionality, somewhat in the spirit of Frege, but with distinct advantages compared to the two classical accounts of Frege and Russell.
+
 (2) It provides a foundational approach of value to the fragmented field of theoretical research on AI agenthood.
+
 (3) It enables a modular account of the notoriously complex notion of reference.
+
 (4) It provides a lens for approaching philosophical questions about identity.
+
 (5) It helps to philosophically explain knowledge of mathematics.
+
 (6) It provides a modern formal basis for the Kantian theory of categories, with a particular application to mathematical induction (as "synthetic a priori" knowledge).
+
 (7) It sheds light on arbitrary objects.
+
 In my talk, I will explain the basic ideas of the framework and explain a select few of these applications.
 
