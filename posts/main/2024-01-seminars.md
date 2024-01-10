@@ -6,6 +6,7 @@ title: Three seminars
 
 Thursday, 18 January 2024, [Sala Riunioni (Ca' Vignal 2)](https://www.di.univr.it/?ent=luogo&id=189&lang=en)
 from 9:30 to 13:00
+
 ___
 
 9:30
