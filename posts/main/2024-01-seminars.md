@@ -41,7 +41,7 @@ ___
 
 _Subintuitionistic logics and their modal companions: a nested approach_
 
-In the present talk we deal with subintuitionistic logics and their modal companions. In particular, we introduce nested calculi for subintuitionistic systems and for modal logics in the S5 modal cube ranging from K to S4. The latter calculi differ from standard nested systems, as there are multiple  rules handling the modal operator. As an upshot, we get a purely syntactic proof of the Goedel-McKinsey-Tarski embedding which preserves the structure and the height of the derivations. Finally, we obtain a conservativity result for classical logic over a weak subintuitionistic system.
+In the present talk we deal with subintuitionistic logics and their modal companions. In particular, we introduce nested calculi for subintuitionistic systems and for modal logics in the S5 modal cube ranging from K to S4. The latter calculi differ from standard nested systems, as there are multiple  rules handling the modal operator. As an upshot, we get a purely syntactic proof of the Gödel–McKinsey–Tarski embedding which preserves the structure and the height of the derivations. Finally, we obtain a conservativity result for classical logic over a weak subintuitionistic system.
 
 ___
 
