@@ -7,8 +7,29 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 25 Jan 2024 12:55:41 UT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 12:55:41 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2024-03-19.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2024-03-19.html>Seminar</a></h1>
+    <section class="header">
+        March 15, 2024
+    </section>
+    <section>
+        <p>Tuesday, 19 March 2024, <a href="https://www.di.univr.it/?ent=luogo&amp;id=30">Aula H (Ca’ Vignal 2)</a>.</p>
+<hr />
+<p>15:00</p>
+<p><a href="http://pauillac.inria.fr/~herbelin/">Hugo Herbelin</a> (INRIA, Rocquencourt-Paris)</p>
+<p><em>On the logical structure of some maximality and well-foundedness principles equivalent to choice principles: the contrapositive case of Teichmüller-Tukey lemma and Berger’s update induction</em></p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 15 Mar 2024 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2024-03-19.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>SAVE THE DATE! PACMAN Workshop</title>
     <link>https://www.logicverona.it//2024-03-PACMAN.html</link>
     <description><![CDATA[<article>
@@ -357,27 +378,6 @@ L’aggiunta di un predicato di verità governato da regole ingenue conduce spes
 ]]></description>
     <pubDate>Tue, 17 Jan 2023 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2023-01-23.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Compact Course</title>
-    <link>https://www.logicverona.it//2021-06-compact-course.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2021-06-compact-course.html>Compact Course</a></h1>
-    <section class="header">
-        June  1, 2021
-    </section>
-    <section>
-        <p><strong>On the Algebra of Logic</strong><br />
-<a href="https://moraschini.github.io/index.html">Tommaso Moraschini</a> (University of Barcelona)</p>
-<p>The minicourse <a href="https://www.di.univr.it/?ent=seminario&amp;id=5406&amp;idC=163">On the Algebra of Logic</a> [2 ETCS Mat/01] by Tommaso Moraschini, University of Barcelona, is being videoregistered from now on.</p>
-<p>Attendees are expected to have verified, refreshed or acquired adequate basic knowledge of universal algebra before following the <a href="https://moraschini.github.io/teaching.html">videolectures</a> by working through chapters 1 and 2 of the <a href="https://moraschini.github.io/teaching.html">course notes</a>.</p>
-<p>Members of the University of Verona are kindly asked to register for the course mailing list by writing to <a href="https://www.di.univr.it/?ent=persona&amp;id=40478&amp;lang=it">Giulio Fellin</a>. Students of the University of Verona who want to obtain credits for this course also in the future should contact prof. <a href="https://www.di.univr.it/?ent=persona&amp;id=21404">Peter Schuster</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Tue, 01 Jun 2021 00:00:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2021-06-compact-course.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
