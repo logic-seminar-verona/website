@@ -7,8 +7,38 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 15 Mar 2024 12:55:41 UT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 01:55:41 UT</lastBuildDate>
         <item>
+    <title>Two seminars</title>
+    <link>https://www.logicverona.it//2024-04-09.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2024-04-09.html>Two seminars</a></h1>
+    <section class="header">
+        April  9, 2024
+    </section>
+    <section>
+        <p>Tuesday, 9 April 2024, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde (Ca’ Vignal 3 - La Piramide)</a>
+from 16:30 to 18:30</p>
+<hr />
+<p>16:30</p>
+<p><a href="http://cage.ugent.be/~weierman/">Andreas Weiermann</a> (Universiteit Gent)</p>
+<p><em>Monadic second order limit laws for natural well orderings</em></p>
+<p>We prove monadic second order limit laws for ordinals stemming from segments of some prominent proof-theoretic ordinals like ωω , ε0, Γ0, . . . . The results are based on a combination of automata theoretic results, tree enumeration theory and Tauberian methods. We believe that our results will hold in very general contexts.</p>
+<p>Some results have been obtained jointly with Alan R. Woods (who unfortunately passed away in 2011).</p>
+<hr />
+<p>17:30</p>
+<p><a href="https://homepage.mi-ras.ru/~pakhfn/">Fedor Pakhomov</a> (Universiteit Gent)</p>
+<p><em>Reverse Mathematics of WQO’s of Transfinite Sequences with Finite Range</em></p>
+<p>In this talk I will present the result about the provability in ATR_0 of the theorem of Nash-Williams that sequences with finite range over a wqo form a wqo. For this we develop a framework where we work with α-wqo’s over primitive recursive set theory extended with a global enumeration function and then transfer the results obtained there to ATR_0.</p>
+<p>The talk is based on a research project joint with Giovanni Soldà.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 09 Apr 2024 01:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2024-04-09.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2024-03-19.html</link>
     <description><![CDATA[<article>
@@ -350,34 +380,6 @@ L’aggiunta di un predicato di verità governato da regole ingenue conduce spes
 ]]></description>
     <pubDate>Tue, 07 Mar 2023 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2023-03-21.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2023-01-23.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2023-01-23.html>Seminar</a></h1>
-    <section class="header">
-        January 17, 2023
-    </section>
-    <section>
-        <p>Monday, 23 January 2023, <a href="https://www.dbt.univr.it/?ent=luogo&amp;id=24">Aula F (Ca’ Vignal 1)</a>.</p>
-<hr />
-<p>15:00</p>
-<p><a href="https://fp.jaist.ac.jp/public/Default2.aspx?id=688&amp;l=1">Tatsuji Kawai</a> (Japan Advanced Institute of Science and Technology)</p>
-<p><em>Predicative theory of stably locally compact locales</em></p>
-<p>We give a predicative presentation of stably locally compact locales, the class of locales which includes locally compact regular locales (e.g., localic reals) as its subclass. In our setting, a stably locally compact locale is presented as a quasi-proximity lattice, a quasi-bounded distributive lattice (distributive lattice without top) together with a certain idempotent relation on it. Using this structure, we construct a coreflection from the category of locally compact regular locales and cobounded maps to that of stably locally compact locales and perfect maps. The construction of this coreflection generalizes Dedekind’s construction of real numbers as pairs of a lower and an upper cut.</p>
-<hr />
-<p>16:30</p>
-<p><a href="https://fp.jaist.ac.jp/public/Default2.aspx?id=48&amp;l=1">Hajime Ishihara</a> (Japan Advanced Institute of Science and Technology)</p>
-<p><em>Reflexive combinatory algebras</em></p>
-<p>We introduce the notion of reflexivity for combinatory algebras. Reflexivity can be thought of as an equational counterpart of the Meyer-Scott axiom of combinatory models, which indeed allows us to characterise an equationally definable counterpart of combinatory models. This new structure, called strongly reflexive combinatory algebra, admits a finite axiomatisation with seven closed equations, and the structure is shown to be exactly the retract of combinatory models. Lambda algebras can be characterised as strongly reflexive combinatory algebras which are stable.</p>
-<p>This is a joint work with Marlou M. Gijzen and Tatsuji Kawai.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Tue, 17 Jan 2023 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2023-01-23.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
