@@ -7,8 +7,26 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 09 Apr 2024 01:55:41 UT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 01:55:41 UT</lastBuildDate>
         <item>
+    <title>Minicourse on extracting programs from proofs</title>
+    <link>https://www.logicverona.it//2024-06-11.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2024-06-11.html>Minicourse on extracting programs from proofs</a></h1>
+    <section class="header">
+        June 11, 2024
+    </section>
+    <section>
+        <p>From 11 June 2024 to 13 June 2024, by Ingo Blechschmidt.</p>
+<p><strong><a href="https://rt.quasicoherent.io/">See dedicated minicourse webpage.</a></strong></p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 11 Jun 2024 01:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2024-06-11.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Two seminars</title>
     <link>https://www.logicverona.it//2024-04-09.html</link>
     <description><![CDATA[<article>
@@ -357,29 +375,6 @@ geometry particularly challenging.<a href="#fnref1" class="footnote-back" role="
 ]]></description>
     <pubDate>Wed, 03 May 2023 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2023-05.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2023-03-21.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2023-03-21.html>Seminar</a></h1>
-    <section class="header">
-        March  7, 2023
-    </section>
-    <section>
-        <p>Tuesday, 21 March 2023, <a href="https://www.di.univr.it/?ent=luogo&amp;id=31">Aula I (Ca’ Vignal 2)</a>.</p>
-<p>15:00</p>
-<p><a href="https://www.sns.it/it/persona/matteo-tesi">Matteo Tesi</a> (Scuola Normale Superiore, Pisa)</p>
-<p><em>Quantificatori moltiplicativi, esponenziali e cut-elimination</em>
-(j.w.w. Carlo Nicolai e Mario Piazza)</p>
-<p><strong>Abstract:</strong>
-L’aggiunta di un predicato di verità governato da regole ingenue conduce spesso a sistemi contraddittori. Un metodo per recuperare la consistenza consiste nell’adottare una logica priva di contrazione: questa strada è stata seguita - tra gli altri - da Grishin e Cantini. Successivamente un ulteriore approccio basato su quantificatori moltiplicativi è stato proposto da Zardini, ma il sistema si è rivelato inconsistente. Nel presente talk proponiamo un’analisi della logica dei quantificatori moltiplicativi. In primo luogo offriamo una presentazione consistente di un sistema con predicato di verità decitazionale con quantificatori additivi. In seguito mostriamo come gli esponenziali (! e ?) possano essere interpretati in modo corretto e fedele mediante l’uso dei quantificatori moltiplicativi. Infine proponiamo una dimostrazione sintattica di eliminazione del taglio per un calcolo con quantificatori moltiplicativi. L’analisi della strategia porterà alla luce la presenza di contrazione implicita nelle regole dei quantificatori.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Tue, 07 Mar 2023 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2023-03-21.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
