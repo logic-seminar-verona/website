@@ -1,7 +1,7 @@
 ---
 author: ioiops
 date: 2024-10-02 15:30:00+00:00
-title: Minicourse "Substructural Logics à la Lambek: Proof Theory and Categorical Semantics"
+title: Minicourse "Substructural Logics à la Lambek – Proof Theory and Categorical Semantics"
 ---
 
 **Substructural Logics à la Lambek: Proof Theory and Categorical Semantics**\
