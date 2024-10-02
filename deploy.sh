@@ -18,6 +18,7 @@ function primitive_remote_shell {
 }
 
 echo "* Building site..." >&2
+cabal update
 cabal new-run site build
 
 echo "* Checking out current gh-pages branch..." >&2
