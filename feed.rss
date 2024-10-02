@@ -7,8 +7,38 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 11 Jun 2024 01:55:41 UT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 15:30:00 UT</lastBuildDate>
         <item>
+    <title>Minicourse "Substructural Logics à la Lambek – Proof Theory and Categorical Semantics"</title>
+    <link>https://www.logicverona.it//2024-10-21-minicourse.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2024-10-21-minicourse.html>Minicourse "Substructural Logics à la Lambek – Proof Theory and Categorical Semantics"</a></h1>
+    <section class="header">
+        October  2, 2024
+    </section>
+    <section>
+        <p><strong>Substructural Logics à la Lambek: Proof Theory and Categorical Semantics</strong><br />
+<a href="https://cs.ioc.ee/~tarmo/">Tarmo Uustalu</a> (Reykjavik University &amp; Tallinn University of Technology)<br />
+October 21–30, 2024</p>
+<p><em>Abstract</em><br />
+In the 1960s, Joachim Lambek pioneered an approach to substructural logics that unifies proof theory and category theory, motivated by linguistics. ‘Substructural’ means here that some basic principles like “A implies true,” “A implies A and A,” and “A and B imply B and A” do not hold. In sequent calculus terms, this corresponds to the absence of the structural rules of left weakening, contraction, and exchange, indicating that logic is more about resources than truth. What is now known as Lambek calculus is a noncommutative intuitionistic linear logic with a (multiplicative) conjunction and two implications, left and right.<br />
+In this minicourse, I will review this approach first on Lambek calculus and a number of variations of it. Then I will focus on skew logics—logics that are even weaker than substructural in that the conjunction connective is only semiunital and semiassociative.<br />
+The course will be self-contained. Basic knowledge of classical and intuitionistic logic (Hilbert-style systems and sequent calculi) is desirable for good intuitions. I will introduce the necessary ingredients of proof theory and category theory.</p>
+<p><em>Timetable</em><br />
+Monday, 21: 11:30–13:30 in Aula D<br />
+Tuesday, 22: 8:30–10:30 in Aula C<br />
+Friday, 25: 15:30–18:30 in Aula B<br />
+Monday, 28: 11:30–13:30 in Aula D<br />
+Tuesday, 29: 8:30–10:30 in Aula C<br />
+Wednesday, 30: 10:30–11:30 in Aula M</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 02 Oct 2024 15:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2024-10-21-minicourse.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Minicourse on extracting programs from proofs</title>
     <link>https://www.logicverona.it//2024-06-11.html</link>
     <description><![CDATA[<article>
@@ -296,85 +326,6 @@ mathematics is presumed.</p>
 ]]></description>
     <pubDate>Fri, 14 Jul 2023 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2023-09-25.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminars</title>
-    <link>https://www.logicverona.it//2023-05.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2023-05.html>Seminars</a></h1>
-    <section class="header">
-        May  3, 2023
-    </section>
-    <section>
-        <p>Tuesday, 9 May 2023</p>
-<hr />
-<p>14:30, <a href="https://www.dbt.univr.it/?ent=luogo&amp;id=4">Aula E (Ca’ Vignal 1)</a>.</p>
-<p><a href="https://www.ingo-blechschmidt.eu/">Ingo Blechschmidt</a> (Universität Augsburg)</p>
-<p><em>Synthetic scheme theory: a simpler framework for algebraic geometry</em></p>
-<p><strong>Note:</strong> This talk has been postponed to a later date.</p>
-<p><strong>Abstract:</strong>
-The modern framework for algebraic geometry put forward by Grothendieck
-and his school has been enormously successful, providing the basis for
-many deep cornerstone results of the subject. Not least, we owe to this
-basis the proof of Fermat’s Last Theorem.
-Despite these successes, Grothendieck himself expressed discontent with his framework,
-and especially in recent years, concerns about the limitations and
-technical difficulties of the modern theory of algebraic geometry arose.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
-<p>With the benefit of hindsight, now that the mathematical content of the
-then-revolutionary new approach to algebraic geometry is
-well-understood, we propose an update to the foundations of algebraic
-geometry, called synthetic scheme theory, built on three postulates.
-These postulates capture essential geometric properties and allow us to
-reason constructively, avoiding the use of transfinite principles and
-other highly abstract concepts. Our hope is that this approach will
-allow for a clearer and more intuitive expression of the central notions
-and insights of algebraic geometry, requiring less technical machinery,
-will facilitate integrated developments, and promote computer-assisted
-proofs in the subject.</p>
-<p>Crucially, our approach rests on the greater axiomatic freedom provided
-by constructive mathematics: The three postulates are inconsistent with
-classical logic.</p>
-<hr />
-<p>16:30, <a href="https://www.di.univr.it/?ent=luogo&amp;id=32">Aula Gino Tessari (Ca’ Vignal 2)</a>.</p>
-<p><a href="https://www.cis.uni-muenchen.de/~leiss/">Hans Leiß</a> (Universität München)</p>
-<p>_Algebraic Representation of the Fixed-Point Closure of *-continuous Kleene Algebras_</p>
-<p><strong>Abstract:</strong>
-The theorem of Chomsky and Schützenberger says that each context-free language L over a finite alphabet X is the image of the intersection
-of a regular language R over X+Y and the context-free Dyck-language
-D over X+Y of strings with balanced brackets from Y under the
-bracket-erasing homomorphism from the monoid of strings over X+Y to
-that of strings over X.</p>
-<p>Within Hopkins’ algebraization of formal language theory we show that
-the algebra C(X) of context-free languages over X has an isomorphic
-copy in a suitable tensor product of the algebra R(X) of regular
-languages over X with a quotient of R(Y) by a congruence describing
-bracket matches and mismatches. It follows that all context-free
-languages over X can be defined by regular(!) expressions over X+Y
-where the letters of X commute with the brackets of Y, thereby
-providing a substitute for a fixed-point-operator.</p>
-<p>This generalizes the theorem of Chomsky and Schützenberger and leads
-to an algebraic representation of the fixed-point closure of
-*-continuous Kleene algebras.</p>
-<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
-<hr />
-<ol>
-<li id="fn1"><p>Perhaps the most pressing are that the currently framework heavily
-relies on the axiom of choice and other classical principles–even though
-high-level reasoning in algebraic geometry is often constructive–and
-that the framework references and requires gadgets of little geometric
-significance, such as injective or flabby resolutions. These
-foundational issues block integrated developments of algorithms in
-algebraic geometry, hindering us from extracting certified algorithms
-directly from proofs, and render computer formalization of algebraic
-geometry particularly challenging.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 03 May 2023 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2023-05.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
