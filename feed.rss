@@ -7,8 +7,35 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 02 Oct 2024 15:30:00 UT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 18:55:41 UT</lastBuildDate>
         <item>
+    <title>SAVE THE DATE! "Categorical Logic and Constructive Mathematics"</title>
+    <link>https://www.logicverona.it//2024-10-23-workshop.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2024-10-23-workshop.html>SAVE THE DATE! "Categorical Logic and Constructive Mathematics"</a></h1>
+    <section class="header">
+        October  2, 2024
+    </section>
+    <section>
+        <p><strong>Categorical Logic and Constructive Mathematics</strong></p>
+<p>We are excited to announce a Day of Logic at the Department of Computer Science, University of Verona (Strada le Grazie 15 - 37134 Verona) on Wednesday, October 23, 2024.
+The event, titled “Categorical Logic and Constructive Mathematics,” is expected to start at 9:00 AM in Aula M and to continue until the late afternoon.</p>
+<p>Confirmed participants include:
+* Gianluigi Bellin (University of Verona, to be confirmed)
+* Marco Benini (University of Insubria)
+* Francesco Ciraulo (University of Padua)
+* Hajime Ishihara (Toho University)
+* Tarmo Uustalu (Reykjavik University &amp; Tallinn University of Technology)</p>
+<p>A detailed schedule, including abstracts of the talks, will be made available in due time.</p>
+<p><strong>SAVE THE DATE!</strong></p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 02 Oct 2024 18:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2024-10-23-workshop.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Minicourse "Substructural Logics à la Lambek – Proof Theory and Categorical Semantics"</title>
     <link>https://www.logicverona.it//2024-10-21-minicourse.html</link>
     <description><![CDATA[<article>
@@ -279,53 +306,6 @@ of process algebra.</p>
 ]]></description>
     <pubDate>Thu, 28 Sep 2023 00:00:00 UT</pubDate>
     <guid>https://www.logicverona.it//2023-11-course.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Two introductory seminars to Homotopy Type Theory</title>
-    <link>https://www.logicverona.it//2023-09-25.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2023-09-25.html>Two introductory seminars to Homotopy Type Theory</a></h1>
-    <section class="header">
-        July 14, 2023
-    </section>
-    <section>
-        <p>25-26 September, 2023</p>
-<hr />
-<p><a href="https://marcobenini.me/">Marco Benini</a> (Università degli Studi dell’Insubria)</p>
-<p><em>1. Homotopy Type Theory: A Gentle Introduction</em>: Monday, September 25th, 16:00, <a href="https://www.di.univr.it/?ent=luogo&amp;id=29">Aula G (Ca’ Vignal 2)</a>.</p>
-<p><strong>Abstract:</strong>
-Homotopy Type Theory (HoTT) is, syntactically, Martin-Löf Type Theory
-(MLTT) plus the axiom called “univalence”.
-Hence, it is, at the same time, an abstract functional programming
-language, a logical system, and a synthetic way to describe homotopy
-spaces.
-The seminar introduces the type system, focusing on the homotopy
-interpretation, univalence, and higher inductive types, i.e., the main
-novelties of HoTT with respect to MLTT.
-The seminar aims at providing the fundamental ideas of HoTT to
-mathematicians and computer scientists willing to understand what is
-HoTT without the burden of a formal, in-depth presentation.</p>
-<p><em>2. Homotopy Type Theory: Equality as Equality</em>: Tuesday, September 26th, 16:00, <a href="https://www.di.univr.it/?ent=luogo&amp;id=31">Aula I (Ca’ Vignal 2)</a>.</p>
-<p><strong>Abstract:</strong>
-The seminar aims at discussing the logical properties of judgemental
-and propositional equalities in HoTT. It shows the fundamental
-reasoning techniques of HoTT, and a few small novel results.
-Also, the material provides a critical view of the current stage of
-development of the theory, showing to what extent a systematic
-approach is needed.
-This talk is intended for mathematicians and computer scientists
-willing to see more of the formal and technical side of HoTT, and some
-minimal
-knowledge about type theories, algebraic topology, and constructive
-mathematics is presumed.</p>
-<hr />
-<p>The talks will be held both in presence and on Zoom. In order to get the Zoom link, please contact <a href="https://www.di.univr.it/?ent=persona&amp;id=40478">Giulio Fellin</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 14 Jul 2023 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2023-09-25.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
