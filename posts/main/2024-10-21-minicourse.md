@@ -21,5 +21,5 @@ Monday, 28: 11:30–13:30 in Aula D\
 Tuesday, 29: 8:30–10:30 in Aula C\
 Wednesday, 30: 10:30–11:30 in Aula M
 
-_Material_
+_Material_\
 You can access the material [here](https://cs.ioc.ee/~tarmo/verona24/).
