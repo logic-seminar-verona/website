@@ -7,8 +7,31 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 13 Nov 2024 10:55:41 UT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 10:55:41 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2025-01-28.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-01-28.html>Seminar</a></h1>
+    <section class="header">
+        January 11, 2025
+    </section>
+    <section>
+        <p>Tuesday, 28 January 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=24&amp;lang=en">Aula F</a></p>
+<hr />
+<p>16:30</p>
+<p><a href="https://www.math.unibe.ch/ueber_uns/personen/prof_dr_metcalfe_george/index_ger.html">George Metcalfe</a> (University of Bern)</p>
+<p><em>Equational Theories of Idempotent Semifields</em></p>
+<p>(Joint work with Simon Santschi)</p>
+<p>This talk will be about idempotent semifields, which, from a purely algebraic perspective are just lattice-ordered groups formulated in a restricted language with the group multiplication, neutral element, and lattice-join operation. We will see that although countably infinitely many equational theories of lattice-ordered groups have a finite equational basis, no non-trivial equational theory of idempotent semifields has this property. On the other hand, as in the case of lattice-ordered groups, there are continuum-many equational theories of classes of idempotent semifields. Finally, we will relate the problem of deciding equations in the class of idempotent semifields to the problem of deciding if there exists a right order on a free group satisfying a given finite set of inequalities, and show that these problems are, respectively, co-NP-complete and NP-complete.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Sat, 11 Jan 2025 10:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-01-28.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2024-11-27.html</link>
     <description><![CDATA[<article>
@@ -275,28 +298,6 @@ of process algebra.</p>
 ]]></description>
     <pubDate>Wed, 15 Nov 2023 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2023-11-23.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2023-10-26.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2023-10-26.html>Seminar</a></h1>
-    <section class="header">
-        October 23, 2023
-    </section>
-    <section>
-        <p>Thursday, 26 October 2023, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde (Ca’ Vignal 3 - La Piramide)</a>.</p>
-<hr />
-<p>10:30</p>
-<p><a href="https://sites.google.com/view/samuelemaschio/home">Samuele Maschio</a> (Università degli Studi di Padova)</p>
-<p><em>Implicative models of set theory</em></p>
-<p>Implicative algebras were introduced by A.Miquel to provide a common foundation for Heyting/Boolean-valued logic and realizability. In this talk I will show how one can produce models for intuitionistic and classical Zermelo-Fraenkel set theory (I)ZF using implicative algebras, generalizing forcing and realizability models for set theory, both intuitionistic and classical . This result has an application to the theory of toposes, since it entails that every topos which is obtained from Set by means of the tripos-to-topos construction contains a model of (I)ZF, provided one assumes a large enough inaccessible cardinal exists. This talk is based on a joint work with A.Miquel.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Mon, 23 Oct 2023 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2023-10-26.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
