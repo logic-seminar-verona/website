@@ -7,8 +7,31 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Sat, 18 Jan 2025 10:55:41 UT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 17:55:41 UT</lastBuildDate>
         <item>
+    <title>Seminar</title>
+    <link>https://www.logicverona.it//2025-02-24.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-02-24.html>Seminar</a></h1>
+    <section class="header">
+        February 13, 2025
+    </section>
+    <section>
+        <p>Monday, 24 February 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=33">Aula L</a></p>
+<hr />
+<p>16:30</p>
+<p><a href="https://jlwrigley.github.io/">Joshua L. Wrigley</a> (Université Paris Cité)</p>
+<p><em>A topos-theoretic perspective on completions of doctrines</em></p>
+<p>Lawvere doctrines are an intuitive extension of Lindenbaum-Tarski algebras from propositional logic to predicate logic, where the role of logical quantifiers is captured by a pair of adjoint functions.</p>
+<p>In recent years, there has been increasing interest in the field of ‘completing’ doctrines to richer syntax, e.g. Trotta’s existential completion. We will describe a topos-theoretic framework for completing doctrines to subfragments of geometric logic.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 13 Feb 2025 17:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-02-24.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2025-01-29.html</link>
     <description><![CDATA[<article>
@@ -233,50 +256,6 @@ from 16:30 to 18:30</p>
 ]]></description>
     <pubDate>Thu, 25 Jan 2024 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2024-03-PACMAN.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Three seminars</title>
-    <link>https://www.logicverona.it//2024-01-seminars.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2024-01-seminars.html>Three seminars</a></h1>
-    <section class="header">
-        January 10, 2024
-    </section>
-    <section>
-        <p>Thursday, 18 January 2024, <a href="https://www.di.univr.it/?ent=luogo&amp;id=189&amp;lang=en">Sala Riunioni (Ca’ Vignal 2)</a>
-from 9:30 to 13:00</p>
-<hr />
-<p>9:30</p>
-<p><a href="https://www.su.se/english/profiles/pago8950-1.563214">Paul Gorbow</a> (Stockholms universitet)</p>
-<p><em>The Intentum and Intentic Models</em></p>
-<p>I will present the main ideas of a research proposal in the making. It aims to develop a dynamic (potentialist) account of an agent’s first-order intentional attitudes as representative models of (possible) reality. The account introduces the new notion of the intentum, and formally develops intentic models consisting of such intenta. These are meant to be structures that an agent can dynamically construct mentally, and which consequently help us philosophically explain and reason about beliefs, wishes, imaginations, etc. Here follow some promising applications of this framework:</p>
-<ol type="1">
-<li><p>It offers a novel theory of propositions and intentionality, somewhat in the spirit of Frege, but with distinct advantages compared to the two classical accounts of Frege and Russell.</p></li>
-<li><p>It provides a foundational approach of value to the fragmented field of theoretical research on AI agenthood.</p></li>
-<li><p>It enables a modular account of the notoriously complex notion of reference.</p></li>
-<li><p>It provides a lens for approaching philosophical questions about identity.</p></li>
-<li><p>It helps to philosophically explain knowledge of mathematics.</p></li>
-<li><p>It provides a modern formal basis for the Kantian theory of categories, with a particular application to mathematical induction (as “synthetic a priori” knowledge).</p></li>
-<li><p>It sheds light on arbitrary objects.</p></li>
-</ol>
-<p>In my talk, I will explain the basic ideas of the framework and explain a select few of these applications.</p>
-<hr />
-<p>10:30</p>
-<p><a href="https://informatics.tuwien.ac.at/people/matteo-tesi">Matteo Tesi</a> (Technischen Universität Wien)</p>
-<p><em>Subintuitionistic logics and their modal companions: a nested approach</em></p>
-<p>In the present talk we deal with subintuitionistic logics and their modal companions. In particular, we introduce nested calculi for subintuitionistic systems and for modal logics in the S5 modal cube ranging from K to S4. The latter calculi differ from standard nested systems, as there are multiple rules handling the modal operator. As an upshot, we get a purely syntactic proof of the Gödel–McKinsey–Tarski embedding which preserves the structure and the height of the derivations. Finally, we obtain a conservativity result for classical logic over a weak subintuitionistic system.</p>
-<hr />
-<p>12:00</p>
-<p><a href="https://www.di.univr.it/?ent=persona&amp;id=40478">Giulio Fellin</a> (Università degli Studi di Verona)</p>
-<p><em>Modal logic for induction: from chain conditions to arithmetic</em></p>
-<p>j.w.w. S. Negri and P. Schuster</p>
-<p>We use modal logic to obtain syntactical, proof-theoretic versions of transfinite induction as axioms or rules within an appropriate labelled sequent calculus. While transfinite induction proper, also known as Noetherian induction, can be represented by a rule, the variant in which induction is done up to an arbitrary but fixed level happens to correspond to the Gödel–Löb axiom of provability logic. To verify the practicability of our approach in actual practice, we sketch a fairly universal pattern for proof transformation and test its use in several cases. Among other things, we give a direct and elementary syntactical proof of Segerberg’s theorem that the Gödel–Löb axiom characterises precisely the (converse) well-founded and transitive Kripke frames. We then show that, by adding appropriate rules, this approach allows us to obtain a calculus for a bounded version of Peano Arithmetic. Finally, we observe that, by slightly modifying the rules, we can do the same for arithmetic in ordinals other than ω.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 10 Jan 2024 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2024-01-seminars.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
