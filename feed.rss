@@ -7,8 +7,30 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 13 Feb 2025 17:55:41 UT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 17:55:41 UT</lastBuildDate>
         <item>
+    <title>Computer Science Seminar</title>
+    <link>https://www.logicverona.it//2025-03-26.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-03-26.html>Computer Science Seminar</a></h1>
+    <section class="header">
+        March 19, 2025
+    </section>
+    <section>
+        <p>Wednesday, 26 March 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde</a></p>
+<hr />
+<p>16:00</p>
+<p><a href="https://www.unibo.it/sitoweb/simone.martini/">Simone Martini</a> (Università degli Studi di Bologna)</p>
+<p><em>Ascesa e declino del linguaggio totale: PL/I, Ada e i linguaggi estensibili, 1965-1980</em></p>
+<p>A cavallo tra gli anni sessanta e settanta ci sono stati tentativi di definire “un” linguaggio di programmazione “totale”, che si sarebbe imposto come unico, rendendo tutti gli altri obsoleti. Esempi di questi tentativi sono PL/I (IBM, 1965), Ada (USA DoD, 1980), ma anche i linguaggi estensibili dei primi anni settanta. Ripercorreremo alcuni momenti di quella vicenda, cercando di comprendere alcuni dei motivi che rendono impraticabile il (mito del) linguaggio totale. Che, anzi, è dannoso. La molteplicità dei linguaggi di programmazione è “il contrario di una maledizione”. È “un dono e una benedizione al di là di ogni immaginazione” (G. Steiner, Errata, 1997).</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 19 Mar 2025 17:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-03-26.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Seminar</title>
     <link>https://www.logicverona.it//2025-02-24.html</link>
     <description><![CDATA[<article>
@@ -237,25 +259,6 @@ from 16:30 to 18:30</p>
 ]]></description>
     <pubDate>Fri, 15 Mar 2024 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2024-03-19.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>SAVE THE DATE! PACM∧N Workshop</title>
-    <link>https://www.logicverona.it//2024-03-PACMAN.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2024-03-PACMAN.html>SAVE THE DATE! PACM∧N Workshop</a></h1>
-    <section class="header">
-        January 25, 2024
-    </section>
-    <section>
-        <p><strong>Workshop on Proof, Argumentation, Computation, Modalities And Negation (PACM∧N)</strong></p>
-<p>From Wednesday, 20 March, to Friday, 22 March 2024 in <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde (Ca’ Vignal 3 - La Piramide)</a>.</p>
-<p>More details will be available on the <a href="https://pacman.logicverona.it">workshop website</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 25 Jan 2024 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2024-03-PACMAN.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
