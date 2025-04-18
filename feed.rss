@@ -211,6 +211,37 @@ You can access the material <a href="https://cs.ioc.ee/~tarmo/verona24/">here</a
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 <item>
+    <title>CIRM Conference "Synthetic mathematics, logic-affine computation and efficient proof systems"</title>
+    <link>https://www.logicverona.it//2025-09-CIRM.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-09-CIRM.html>CIRM Conference "Synthetic mathematics, logic-affine computation and efficient proof systems"</a></h1>
+    <section class="header">
+        April 18, 2024
+    </section>
+    <section>
+        <p><strong>Synthetic mathematics, logic-affine computation and efficient proof systems</strong></p>
+<p>CIRM - Centre International de Rencontres Mathématiques, Marseille Luminy, France, 8-12 September 2025.</p>
+<p>Synthetic frameworks have proved to be pivotal tools at the interface of mathematics and informatics, especially enabling concise formalizations and custom proof systems. Noteworthy achievements include homotopy type theory, synthetic computability theory, and synthetic algebraic geometry. Very similar paradigms characterize the related areas of logic-driven computational algebra and geometry, sheaf models and modern realizability theory, and strong negation for constructive reasoning with negative information. Contrasting yet complementary approaches are about to converge, emphasizing the imperative of unifying theoretical underpinnings with practical implementation. With the proposed seminar we aim to extend and deepen the convergence across disciplinary boundaries by fostering exchange and collaboration among experts and practitioners.</p>
+<p>Scientific Committee
+- Andrej Bauer (University of Ljubljana)
+- Olivia Caramello (IHES)
+- Maria Emilia Maietti (Universita degli Studi di Padova)
+- Michael Rathjen (University of Leeds)</p>
+<p>Organising Committee:
+- Ingo Blechschmidt (University of Augsburg)
+- Liron Cohen (Ben-Gurion University of the Negev)
+- Thierry Coquand (University of Gothenburg)
+- Sara Negri (University of Genoa)
+- Peter Schuster (University of Verona)</p>
+<p>More details will be available on the <a href="https://conferences.cirm-math.fr/3377.html">conference website</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 18 Apr 2024 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-09-CIRM.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>SAVE THE DATE! PACM∧N Workshop</title>
     <link>https://www.logicverona.it//2025-05-PACMAN.html</link>
     <description><![CDATA[<article>
@@ -236,36 +267,6 @@ You can access the material <a href="https://cs.ioc.ee/~tarmo/verona24/">here</a
 ]]></description>
     <pubDate>Thu, 18 Apr 2024 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-05-PACMAN.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Two seminars</title>
-    <link>https://www.logicverona.it//2024-04-09.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2024-04-09.html>Two seminars</a></h1>
-    <section class="header">
-        April  9, 2024
-    </section>
-    <section>
-        <p>Tuesday, 9 April 2024, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde (Ca’ Vignal 3 - La Piramide)</a>
-from 16:30 to 18:30</p>
-<hr />
-<p>16:30</p>
-<p><a href="http://cage.ugent.be/~weierman/">Andreas Weiermann</a> (Universiteit Gent)</p>
-<p><em>Monadic second order limit laws for natural well orderings</em></p>
-<p>We prove monadic second order limit laws for ordinals stemming from segments of some prominent proof-theoretic ordinals like ωω , ε0, Γ0, . . . . The results are based on a combination of automata theoretic results, tree enumeration theory and Tauberian methods. We believe that our results will hold in very general contexts.</p>
-<p>Some results have been obtained jointly with Alan R. Woods (who unfortunately passed away in 2011).</p>
-<hr />
-<p>17:30</p>
-<p><a href="https://homepage.mi-ras.ru/~pakhfn/">Fedor Pakhomov</a> (Universiteit Gent)</p>
-<p><em>Reverse Mathematics of WQO’s of Transfinite Sequences with Finite Range</em></p>
-<p>In this talk I will present the result about the provability in ATR_0 of the theorem of Nash-Williams that sequences with finite range over a wqo form a wqo. For this we develop a framework where we work with α-wqo’s over primitive recursive set theory extended with a global enumeration function and then transfer the results obtained there to ATR_0.</p>
-<p>The talk is based on a research project joint with Giovanni Soldà.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Tue, 09 Apr 2024 01:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2024-04-09.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
