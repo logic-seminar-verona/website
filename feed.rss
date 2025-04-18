@@ -7,8 +7,36 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 19 Mar 2025 17:55:41 UT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 12:55:41 UT</lastBuildDate>
         <item>
+    <title>SAVE THE DATE! PACM∧N Workshop</title>
+    <link>https://www.logicverona.it//2025-05-PACMAN.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-05-PACMAN.html>SAVE THE DATE! PACM∧N Workshop</a></h1>
+    <section class="header">
+        April 18, 2025
+    </section>
+    <section>
+        <p><strong>Workshop on Proof, Argumentation, Computation, Modalities And Negation (PACM∧N)</strong></p>
+<p>A workshop on Proof, Argumentation, Computation, Modalities And Negation will be held from the 14th to the 16th of May 2025 in Rome, Italy.</p>
+<p>Scientific and organizing committee:<br />
+- Giulio Fellin (Università di Brescia)<br />
+- Roberto Maieli (Università Roma Tre)<br />
+- Sara Negri (Università di Genova)<br />
+- Peter Schuster (Università di Verona)<br />
+- Lorenzo Tortora de Falco (Università Roma Tre)<br />
+- Margherita Zorzi (Università di Verona)</p>
+<p>This workshop explores the intricate relationship between proof, argumentation, computation, modalities and negation. Participants will investigate sound proof construction, principles of persuasive argumentation, and the role of computation in formalising logical structures. The structured program, comprising expert presentations and interactive discussions, offers a formal venue for participants to advance their understanding of foundational concepts in the interdisciplinary domains of logic, mathematics, computer science, philosophy, and linguistics. We welcome participants to partake in this scholarly exploration, contributing to the collective intellectual progress within these domains.</p>
+<p>Location: <a href="https://architettura.uniroma3.it/dipartimento/dove-siamo/">Argiletum (Via della Madonna dei Monti, 40 – 00184 Roma)</a>.</p>
+<p>More details will be available on the <a href="https://sites.google.com/view/pacman2025-rome">workshop website</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 18 Apr 2025 12:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-05-PACMAN.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Computer Science Seminar</title>
     <link>https://www.logicverona.it//2025-03-26.html</link>
     <description><![CDATA[<article>
@@ -239,34 +267,6 @@ You can access the material <a href="https://cs.ioc.ee/~tarmo/verona24/">here</a
 ]]></description>
     <pubDate>Thu, 18 Apr 2024 12:58:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-09-CIRM.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>SAVE THE DATE! PACM∧N Workshop</title>
-    <link>https://www.logicverona.it//2025-05-PACMAN.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2025-05-PACMAN.html>SAVE THE DATE! PACM∧N Workshop</a></h1>
-    <section class="header">
-        April 18, 2024
-    </section>
-    <section>
-        <p><strong>Workshop on Proof, Argumentation, Computation, Modalities And Negation (PACM∧N)</strong></p>
-<p>A workshop on Proof, Argumentation, Computation, Modalities And Negation will be held from the 14th to the 16th of May 2025 in Rome, Italy.</p>
-<p>Scientific and organizing committee:
-- Giulio Fellin (Università di Brescia)
-- Roberto Maieli (Università Roma Tre)
-- Sara Negri (Università di Genova)
-- Peter Schuster (Università di Verona)
-- Lorenzo Tortora de Falco (Università Roma Tre)
-- Margherita Zorzi (Università di Verona)</p>
-<p>This workshop explores the intricate relationship between proof, argumentation, computation, modalities and negation. Participants will investigate sound proof construction, principles of persuasive argumentation, and the role of computation in formalising logical structures. The structured program, comprising expert presentations and interactive discussions, offers a formal venue for participants to advance their understanding of foundational concepts in the interdisciplinary domains of logic, mathematics, computer science, philosophy, and linguistics. We welcome participants to partake in this scholarly exploration, contributing to the collective intellectual progress within these domains.</p>
-<p>Location: <a href="https://architettura.uniroma3.it/dipartimento/dove-siamo/">Argiletum (Via della Madonna dei Monti, 40 – 00184 Roma)</a>.</p>
-<p>More details will be available on the <a href="https://sites.google.com/view/pacman2025-rome">workshop website</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 18 Apr 2024 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2025-05-PACMAN.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
