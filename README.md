@@ -23,9 +23,10 @@ to edit the website.
    refer to the current date, not to the day the talk will take place.
 5. In the text box, copy the contents of a previous post such as [this
    one](https://raw.githubusercontent.com/logic-seminar-verona/website/master/posts/main/2019-03-27-departmental-seminar.md)
-   to serve as a template and change the contents as you see fit.
-6. Click *Commit new file*.
-7. That's it. About five minutes later, the new post should be visible on the
+   to serve as a template and change the contents as you see fit. *Double check the "date" metadata entry,
+   in particular the year.*
+7. Click *Commit new file*.
+8. That's it. About five minutes later, the new post should be visible on the
    website.
 
 
