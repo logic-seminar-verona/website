@@ -7,8 +7,32 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Wed, 08 Oct 2025 15:30:00 UT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 22:55:41 UT</lastBuildDate>
         <item>
+    <title>Logic Seminar</title>
+    <link>https://www.logicverona.it//2025-10-29.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-10-29.html>Logic Seminar</a></h1>
+    <section class="header">
+        October  8, 2025
+    </section>
+    <section>
+        <p>Wednesday, 29 October 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde</a></p>
+<hr />
+<p>16:30</p>
+<p><a href="https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch">Thorsten Altenkirch</a> (University of Nottingham)<br />
+</p>
+<p><em>From High School Algebra to University Algebra</em></p>
+<p>High School Algebra (HSA) is the equational theory of semirings with exponentiation satisfying the usual laws. Tarski conjectured that HSA without zero is complete for the natural numbers. This was refuted by Wilkie, who constructed a counterexample; Gurevich later showed that the theory is not even finitely axiomatizable. Di Cosmo and Fiore extended this incompleteness to the categorification of HSA—the theory of bicartesian closed categories (without an initial object).</p>
+<p>What happens if we add dependent types? We consider the theory of categories with families (CwFs) with Π-types, Σ-types, and the types 1 and 2, which we call University Algebra (UA). We show that the Wilkie counterexample is derivable in this setting. This motivates the question: is UA, unlike HSA, complete?</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 08 Oct 2025 22:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-10-29.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Minicourse "Introduction to Type Theory"</title>
     <link>https://www.logicverona.it//2025-10-27.html</link>
     <description><![CDATA[<article>
@@ -258,38 +282,6 @@ The event, titled “Categorical Logic and Constructive Mathematics,” is sched
 ]]></description>
     <pubDate>Wed, 02 Oct 2024 18:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2024-10-23-workshop.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Minicourse "Substructural Logics à la Lambek – Proof Theory and Categorical Semantics"</title>
-    <link>https://www.logicverona.it//2024-10-21-minicourse.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2024-10-21-minicourse.html>Minicourse "Substructural Logics à la Lambek – Proof Theory and Categorical Semantics"</a></h1>
-    <section class="header">
-        October  2, 2024
-    </section>
-    <section>
-        <p><strong>Substructural Logics à la Lambek: Proof Theory and Categorical Semantics</strong><br />
-<a href="https://cs.ioc.ee/~tarmo/">Tarmo Uustalu</a> (Reykjavik University &amp; Tallinn University of Technology)<br />
-October 21–30, 2024</p>
-<p><em>Abstract</em><br />
-In the 1960s, Joachim Lambek pioneered an approach to substructural logics that unifies proof theory and category theory, motivated by linguistics. ‘Substructural’ means here that some basic principles like “A implies true,” “A implies A and A,” and “A and B imply B and A” do not hold. In sequent calculus terms, this corresponds to the absence of the structural rules of left weakening, contraction, and exchange, indicating that logic is more about resources than truth. What is now known as Lambek calculus is a noncommutative intuitionistic linear logic with a (multiplicative) conjunction and two implications, left and right.<br />
-In this minicourse, I will review this approach first on Lambek calculus and a number of variations of it. Then I will focus on skew logics—logics that are even weaker than substructural in that the conjunction connective is only semiunital and semiassociative.<br />
-The course will be self-contained. Basic knowledge of classical and intuitionistic logic (Hilbert-style systems and sequent calculi) is desirable for good intuitions. I will introduce the necessary ingredients of proof theory and category theory.</p>
-<p><em>Timetable</em><br />
-Monday, 21: 11:30–13:30 in Aula D<br />
-Tuesday, 22: 8:30–10:30 in Aula C<br />
-Friday, 25: 15:30–18:30 in Aula B<br />
-Monday, 28: 11:30–13:30 in Aula D<br />
-Tuesday, 29: 8:30–10:30 in Aula C<br />
-Wednesday, 30: 10:30–11:30 in Aula M</p>
-<p><em>Material</em><br />
-You can access the material <a href="https://cs.ioc.ee/~tarmo/verona24/">here</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 02 Oct 2024 15:30:00 UT</pubDate>
-    <guid>https://www.logicverona.it//2024-10-21-minicourse.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
