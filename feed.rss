@@ -23,14 +23,16 @@ October 27–31, 2025</p>
 <p><em>Abstract</em><br />
 Type Theory is at the same time an alternative to set theory as a mathematical foundation and a programming language originally conceived by the Swedish philosopher and mathematician Per Martin-Löf. The course is an introduction to Type Theory which covers the following topics:<br />
 </p>
-<pre><code>λ-calculus and combinatory logic\
-Propositions as types\
-Classical vs intuitionistic reasoning\
-Dependent types, Π- and Σ-types\
-Reasoning in Type Theory, Equality\
-Inductive and coinductive types\
-Universes and paradoxes\
-Homotopy Type Theory\</code></pre>
+<ul>
+<li>λ-calculus and combinatory logic</li>
+<li>Propositions as types</li>
+<li>Classical vs intuitionistic reasoning</li>
+<li>Dependent types, Π- and Σ-types</li>
+<li>Reasoning in Type Theory, Equality</li>
+<li>Inductive and coinductive types</li>
+<li>Universes and paradoxes</li>
+<li>Homotopy Type Theory</li>
+</ul>
 <p>The Agda system will be used for examples and exercises.</p>
 <p><em>Timetable</em><br />
 Monday 27th: 16:30-18:30 - Aula G (2 hrs core lectures)<br />
