@@ -7,8 +7,45 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 18 Apr 2025 12:58:41 UT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 15:30:00 UT</lastBuildDate>
         <item>
+    <title>Minicourse "Introduction to Type Theory"</title>
+    <link>https://www.logicverona.it//2025-10-27.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-10-27.html>Minicourse "Introduction to Type Theory"</a></h1>
+    <section class="header">
+        October  8, 2025
+    </section>
+    <section>
+        <p><strong>Introduction to Type Theory</strong><br />
+<a href="https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch">Thorsten Altenkirch</a> (University of Nottingham)<br />
+October 27–31, 2025</p>
+<p><em>Abstract</em><br />
+Type Theory is at the same time an alternative to set theory as a mathematical foundation and a programming language originally conceived by the Swedish philosopher and mathematician Per Martin-Löf. The course is an introduction to Type Theory which covers the following topics:<br />
+</p>
+<pre><code>λ-calculus and combinatory logic\
+Propositions as types\
+Classical vs intuitionistic reasoning\
+Dependent types, Π- and Σ-types\
+Reasoning in Type Theory, Equality\
+Inductive and coinductive types\
+Universes and paradoxes\
+Homotopy Type Theory\</code></pre>
+<p>The Agda system will be used for examples and exercises.</p>
+<p><em>Timetable</em><br />
+Monday 27th: 16:30-18:30 - Aula G (2 hrs core lectures)<br />
+Tuesday 28th: 08:30-10:30 - Aula T.04 (2 hrs core lectures)<br />
+Wednesday 29th: 08:30-11:30 - Aula T.04 (2 hrs core lectures + 1 h supplementary lecture)<br />
+Friday 31st: 16:30-19:30 - Aula T.04 (3 hrs supplementary lectures)<br />
+</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Wed, 08 Oct 2025 15:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-10-27.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>CIRM Conference "Synthetic mathematics, logic-affine computation and efficient proof systems"</title>
     <link>https://www.logicverona.it//2025-09-CIRM.html</link>
     <description><![CDATA[<article>
@@ -249,24 +286,6 @@ You can access the material <a href="https://cs.ioc.ee/~tarmo/verona24/">here</a
 ]]></description>
     <pubDate>Wed, 02 Oct 2024 15:30:00 UT</pubDate>
     <guid>https://www.logicverona.it//2024-10-21-minicourse.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Minicourse on extracting programs from proofs</title>
-    <link>https://www.logicverona.it//2024-06-11.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2024-06-11.html>Minicourse on extracting programs from proofs</a></h1>
-    <section class="header">
-        June 11, 2024
-    </section>
-    <section>
-        <p>From 11 June 2024 to 13 June 2024, by Ingo Blechschmidt.</p>
-<p><strong><a href="https://rt.quasicoherent.io/">See dedicated minicourse webpage.</a></strong></p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Tue, 11 Jun 2024 01:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2024-06-11.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
