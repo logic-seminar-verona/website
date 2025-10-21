@@ -50,6 +50,8 @@
 <p><em>From High School Algebra to University Algebra</em></p>
 <p>High School Algebra (HSA) is the equational theory of semirings with exponentiation satisfying the usual laws. Tarski conjectured that HSA without zero is complete for the natural numbers. This was refuted by Wilkie, who constructed a counterexample; Gurevich later showed that the theory is not even finitely axiomatizable. Di Cosmo and Fiore extended this incompleteness to the categorification of HSA—the theory of bicartesian closed categories (without an initial object).</p>
 <p>What happens if we add dependent types? We consider the theory of categories with families (CwFs) with Π-types, Σ-types, and the types 1 and 2, which we call University Algebra (UA). We show that the Wilkie counterexample is derivable in this setting. This motivates the question: is UA, unlike HSA, complete?</p>
+<p><em>Page on the University of Verona website</em><br />
+<a href="https://www.di.univr.it/?ent=seminario&amp;id=6759">Link</a></p>
     </section>
 </article>
 ]]></description>
@@ -91,6 +93,8 @@ Friday 31st: 16:30-19:30 - Aula T.04 (3 hrs supplementary lectures)<br />
 </p>
 <p><em>Material</em><br />
 <a href="https://people.cs.nott.ac.uk/psztxa/Verona-25/">Link</a>.</p>
+<p><em>Page on the University of Verona website</em><br />
+<a href="https://www.di.univr.it/?ent=seminario&amp;id=6730&amp;idC=70">Link</a></p>
     </section>
 </article>
 ]]></description>
