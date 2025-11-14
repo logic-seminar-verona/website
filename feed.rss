@@ -7,8 +7,49 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 16 Oct 2025 22:55:41 UT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 10:30:00 UT</lastBuildDate>
         <item>
+    <title>Minicourse "Introduction to Category Theory (and Categorical Logic)"</title>
+    <link>https://www.logicverona.it//2025-12-01-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-12-01-course.html>Minicourse "Introduction to Category Theory (and Categorical Logic)"</a></h1>
+    <section class="header">
+        November 14, 2025
+    </section>
+    <section>
+        <p><strong>Introduction to Category Theory (and Categorical Logic)</strong><br />
+<a href="https://spadetto.github.io/">Matteo Spadetto</a> (LS2N of the University of Nantes)<br />
+December 1–5, 2025</p>
+<p><em>Abstract</em><br />
+Category theory offers a powerful and unifying way to look at mathematics and theoretical computer science. It provides a common language to describe structures and relationships across different areas, from algebra and topology to logic and computation. This course gives an introduction to category theory for master students, combining basic concepts with their (logical) applications.</p>
+<p>In the first part, we will cover the main ideas of this subject:</p>
+<ul>
+<li>Categories, functors, and natural transformations</li>
+<li>Universal properties and limits</li>
+<li>Adjunctions</li>
+</ul>
+<p>In the second part, we will explore how logic can be interpreted within categories (focusing on the fragment of regular logic and on regular categories):
+* Internal logic and categorical semantics
+* Regular categories and regular theories
+* Completeness</p>
+<p>This minicourse aims to build intuition through examples and exercises. By the end, students will have a solid grasp of the categorical way of thinking (and how it connects to logical systems and their semantics).</p>
+<p><em>Note:</em> The minicourse itself (1 ECTS) will consist of the first 6 hours, covering the introduction to category theory (see the first part of the abstract). The remaining hours will be complementary sessions on categorical logic (the second part of the abstract).</p>
+<p><em>Timetable</em><br />
+Monday 1st: 10:30-12:30 - Aula T.02a<br />
+Tuesday 2nd: 08:30-10:30 - Aula T.02b<br />
+Wednesday 3rd: 08:30-11:30 - Aula T.04<br />
+Friday 5th: 16:30-18:30 - Aula T.02b<br />
+</p>
+<p><em>Page on the University of Verona website</em><br />
+<a href="https://www.di.univr.it/?ent=seminario&amp;id=6815&amp;idC=70">Link</a></p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 14 Nov 2025 10:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-12-01-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Department Seminar</title>
     <link>https://www.logicverona.it//25-11-05.html</link>
     <description><![CDATA[<article>
@@ -258,31 +299,6 @@ The Logic of Prefixes and Suffixes is Elementary under Homogeneity. LICS 2023: 1
 ]]></description>
     <pubDate>Sat, 11 Jan 2025 10:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-01-28.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2024-11-27.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2024-11-27.html>Seminar</a></h1>
-    <section class="header">
-        November 13, 2024
-    </section>
-    <section>
-        <p>Wednesday, 27 November 2024, <a href="https://www.di.univr.it/?ent=luogo&amp;id=32&amp;lang=en">Aula Gino Tessari</a></p>
-<hr />
-<p>17:00</p>
-<p><a href="https://www.math.is.tohoku.ac.jp/~nemototakako/">Takako Nemoto</a> (Tohoku University)</p>
-<p><em>Priority method over intuitionistic logic</em></p>
-<p>In this talk, we consider how much non-constructive principles are sufficient for Friedberg-Muchinik construction of degree d such that 0&lt;d&lt;0’.
-We will see that the only point we need a non-constructive principle is to show
-“if a recursive set S of natural number has finite cardinality, then S has an upper bound”,
-which requires ^0_1 law of excluded middle.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 13 Nov 2024 10:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2024-11-27.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
