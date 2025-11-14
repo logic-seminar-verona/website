@@ -28,10 +28,12 @@ Category theory offers a powerful and unifying way to look at mathematics and th
 <li>Universal properties and limits</li>
 <li>Adjunctions</li>
 </ul>
-<p>In the second part, we will explore how logic can be interpreted within categories (focusing on the fragment of regular logic and on regular categories):
-* Internal logic and categorical semantics
-* Regular categories and regular theories
-* Completeness</p>
+<p>In the second part, we will explore how logic can be interpreted within categories (focusing on the fragment of regular logic and on regular categories):</p>
+<ul>
+<li>Internal logic and categorical semantics</li>
+<li>Regular categories and regular theories</li>
+<li>Completeness</li>
+</ul>
 <p>This minicourse aims to build intuition through examples and exercises. By the end, students will have a solid grasp of the categorical way of thinking (and how it connects to logical systems and their semantics).</p>
 <p><em>Note:</em> The minicourse itself (1 ECTS) will consist of the first 6 hours, covering the introduction to category theory (see the first part of the abstract). The remaining hours will be complementary sessions on categorical logic (the second part of the abstract).</p>
 <p><em>Timetable</em><br />
