@@ -7,8 +7,33 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 14 Nov 2025 10:30:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 17:55:41 UT</lastBuildDate>
         <item>
+    <title>Logic Seminar</title>
+    <link>https://www.logicverona.it//2025-12-01-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-12-01-seminar.html>Logic Seminar</a></h1>
+    <section class="header">
+        November 25, 2025
+    </section>
+    <section>
+        <p>Monday, 1 December 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde</a></p>
+<hr />
+<p>16:30</p>
+<p><a href="https://spadetto.github.io/">Matteo Spadetto</a> (LS2N of the University of Nantes)<br />
+</p>
+<p><em>The homotopy theoretic point of view on dependent types</em></p>
+<p>We discuss two ways of formulating the semantics of type theory (the abstract homotopy-theoretic perspective and the categorical one) and the relationships between them, focusing on concrete examples.</p>
+<p><em>Page on the University of Verona website</em><br />
+To be added soon.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 25 Nov 2025 17:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-12-01-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Minicourse "Introduction to Category Theory (and Categorical Logic)"</title>
     <link>https://www.logicverona.it//2025-12-01-course.html</link>
     <description><![CDATA[<article>
@@ -277,30 +302,6 @@ The Logic of Prefixes and Suffixes is Elementary under Homogeneity. LICS 2023: 1
 ]]></description>
     <pubDate>Sat, 18 Jan 2025 10:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-01-29.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Department Seminar</title>
-    <link>https://www.logicverona.it//2025-01-28.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2025-01-28.html>Department Seminar</a></h1>
-    <section class="header">
-        January 11, 2025
-    </section>
-    <section>
-        <p><a href="https://www.di.univr.it/?ent=seminario&amp;id=6488&amp;lang=en">Seminario del Dipartimento di Informatica, Università di Verona</a></p>
-<p>Tuesday, 28 January 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=24&amp;lang=en">Aula F</a></p>
-<hr />
-<p>16:30</p>
-<p><a href="https://www.math.unibe.ch/ueber_uns/personen/prof_dr_metcalfe_george/index_ger.html">George Metcalfe</a> (University of Bern)</p>
-<p><em>Equational Theories of Idempotent Semifields</em></p>
-<p>(Joint work with Simon Santschi)</p>
-<p>This talk will be about idempotent semifields, which, from a purely algebraic perspective are just lattice-ordered groups formulated in a restricted language with the group multiplication, neutral element, and lattice-join operation. We will see that although countably infinitely many equational theories of lattice-ordered groups have a finite equational basis, no non-trivial equational theory of idempotent semifields has this property. On the other hand, as in the case of lattice-ordered groups, there are continuum-many equational theories of classes of idempotent semifields. Finally, we will relate the problem of deciding equations in the class of idempotent semifields to the problem of deciding if there exists a right order on a free group satisfying a given finite set of inequalities, and show that these problems are, respectively, co-NP-complete and NP-complete.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Sat, 11 Jan 2025 10:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2025-01-28.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
