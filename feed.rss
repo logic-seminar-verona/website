@@ -7,8 +7,33 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 25 Nov 2025 17:55:41 UT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 17:56:41 UT</lastBuildDate>
         <item>
+    <title>Logic Seminar</title>
+    <link>https://www.logicverona.it//2025-12-03-seminar.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2025-12-03-seminar.html>Logic Seminar</a></h1>
+    <section class="header">
+        November 25, 2025
+    </section>
+    <section>
+        <p>Wednesday, 3 December 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde</a></p>
+<hr />
+<p>15:00</p>
+<p><a href="https://www.philosophie.lmu.de/mcmp/en/people/contact-page/elio-la-rosa-7064b5ca.html">Elio La Rosa</a> (MCMP at Ludwig-Maximilians-Universität München)<br />
+</p>
+<p><em>Conservative Extensions of Intuitionistic Logic with Epsilon Terms over Predicate Abstraction</em></p>
+<p>Extensions of Intuitionistic logic with Hilbert’s epsilon terms are famously non-conservative over Intuitionistic quantification. Partial solutions rely on weaker axioms, extensions to existence predicate or stronger intermediate logics, but do not scale well to theories. In this talk, I present a new approach, implicit in early papers by Melvin Fitting on Herbrand’s theorem for modal logics. Fitting extends quantified S4 modal logic with epsilon terms and predicate abstraction, using lambda binders to create a scoping mechanism for terms that mimics that of quantifiers. The resulting logic is conservative over S4. An immediate but overlooked consequence is its faithful embedding of Intuitionistic quantifiers over their modal and epsilon translation. I show that this result can be improved by internalizing the S4 modalities directly into lambda abstractors, thus eliminating modalities from the language entirely. The resulting logic is still conservative extension over Intuitionistic quantification, and remains so when adding identity and term extensionality, opening the way for applications to constructive theories.</p>
+<p><em>Page on the University of Verona website</em><br />
+<a href="https://www.di.univr.it/?ent=seminario&amp;id=6843&amp;lang=en">Link</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 25 Nov 2025 17:56:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2025-12-03-seminar.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Logic Seminar</title>
     <link>https://www.logicverona.it//2025-12-01-seminar.html</link>
     <description><![CDATA[<article>
@@ -272,36 +297,6 @@ Friday 31st: 16:30-19:30 - Aula T.04 (3 hrs supplementary lectures)<br />
 ]]></description>
     <pubDate>Thu, 13 Feb 2025 17:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-02-24.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2025-01-29.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2025-01-29.html>Seminar</a></h1>
-    <section class="header">
-        January 18, 2025
-    </section>
-    <section>
-        <p>Wednesday, 29 January 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=28&amp;lang=en">Aula C</a></p>
-<hr />
-<p>11:00</p>
-<p><a href="https://profs.scienze.univr.it/~sala/">Pietro Sala</a> (Università di Verona)</p>
-<p><em>Concatenation is All You Need (to avoid!)</em></p>
-<p>The emptiness problem for generalized regular expressions has been extensively studied, with the seminal work of Stockmeyer establishing non-elementary lower bounds for the case of expressions without the Kleene star operator [1]. This complexity result has profound connections to temporal logic, specifically through the relationship between language concatenation and the chop modality in interval temporal logic under homogeneity assumptions [2]. In this talk, we investigate an alternative formulation where we replace the binary concatenation operator with two unary operators: prefix (begins) and suffix (ends) [3]. We examine how this modification affects the computational complexity of the emptiness problem, providing insights into the structural properties that contribute to the complexity of the problem. Our analysis sheds new light on how various combinations of operators affect the computational complexity of decision problems for regular languages.</p>
-<p>[1] Larry Joseph Stockmeyer. The complexity of decision problems in automata theory and logic.
-PhD thesis, Massachusetts Institute of Technology, 1974. URL: http://hdl.handle.net/1721.
-1/15540.</p>
-<p>[2] Joseph Halpern, Zohar Manna, and Ben Moszkowski. A hardware semantics based on temporal
-intervals. In Josep Diaz, editor, Automata, Languages and Programming, pages 278-291, Berlin,
-Heidelberg, 1983. Springer Berlin Heidelberg. doi: 10.1007/BFB0036915.</p>
-<p>[3] Dario Della Monica, Angelo Montanari, Gabriele Puppis, and Pietro Sala.
-The Logic of Prefixes and Suffixes is Elementary under Homogeneity. LICS 2023: 1-12</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Sat, 18 Jan 2025 10:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2025-01-29.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
