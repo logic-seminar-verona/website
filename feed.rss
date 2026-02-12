@@ -7,8 +7,54 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Tue, 25 Nov 2025 17:56:41 UT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 09:30:00 UT</lastBuildDate>
         <item>
+    <title>Course: Advances in Algebra -- Generalised Buchberger and Schreyer Algorithms for Coherent Rings</title>
+    <link>https://www.logicverona.it//2026-03-23.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2026-03-23.html>Course: Advances in Algebra -- Generalised Buchberger and Schreyer Algorithms for Coherent Rings</a></h1>
+    <section class="header">
+        February 12, 2026
+    </section>
+    <section>
+        <p><strong>Advances in Algebra: Generalised Buchberger and Schreyer Algorithms for Coherent Rings</strong><br />
+<a href="https://www.di.univr.it/?ent=persona&amp;id=45937">Prof. Ihsen Yengui</a> (University of Sfax, Tunisia, Visiting Professor INdAM 2025-26)<br />
+March 23–April 24, 2026</p>
+<p><em>Scientific sector</em><br />
+MATH-02/A - Algebra</p>
+<p><em>Abstract</em><br />
+After a reminder of the key concepts and methods of constructive/computational algebra,
+this course will aim at generalised Buchberger and Schreyer algorithms for coherent rings. Chapter 1
+focuses on the concept of Gröbner bases over a field as a powerful tool for problem solving in algebraic
+geometry. In contrast to typical treatments of Gröbner bases, we give in Chapter 2 a theory of Gröbner
+bases in the broader framework of coherent arithmetical rings (possibly with nonzero zero-divisors)
+and, more generally in Chapter 3, over coherent strongly discrete rings. Notably, for any finitely
+generated submodule M of a free module over a multivariate polynomial ring with coefficients in a
+discrete coherent ring, we prove that its module LT(M) of leading terms is countably generated, and
+provide an algorithm for computing explicitly a generating set. This result is also useful when LT(M) is
+not finitely generated. We further give a general constructive version of Hilbert’s syzygy theorem over
+strongly discrete coherent rings, following Schreyer’s method.</p>
+<p><em>Assessment method</em><br />
+Student project with essay, presentation and discussion</p>
+<p><em>Period</em><br />
+From 23rd March 2026 to 24th April 20256</p>
+<p><em>Number of academic hours</em><br />
+20</p>
+<p><em>Timetable</em><br />
+TBA</p>
+<p><em>Venue</em><br />
+Department of Computer Science
+University of Verona
+Strada le Grazie 15
+37134 Verona</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Thu, 12 Feb 2026 09:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2026-03-23.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Logic Seminar</title>
     <link>https://www.logicverona.it//2025-12-03-seminar.html</link>
     <description><![CDATA[<article>
@@ -274,29 +320,6 @@ Friday 31st: 16:30-19:30 - Aula T.04 (3 hrs supplementary lectures)<br />
 ]]></description>
     <pubDate>Wed, 19 Mar 2025 17:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-03-26.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Seminar</title>
-    <link>https://www.logicverona.it//2025-02-24.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2025-02-24.html>Seminar</a></h1>
-    <section class="header">
-        February 13, 2025
-    </section>
-    <section>
-        <p>Monday, 24 February 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=33">Aula L</a></p>
-<hr />
-<p>16:30</p>
-<p><a href="https://jlwrigley.github.io/">Joshua L. Wrigley</a> (Université Paris Cité)</p>
-<p><em>A topos-theoretic perspective on completions of doctrines</em></p>
-<p>Lawvere doctrines are an intuitive extension of Lindenbaum-Tarski algebras from propositional logic to predicate logic, where the role of logical quantifiers is captured by a pair of adjoint functions.</p>
-<p>In recent years, there has been increasing interest in the field of ‘completing’ doctrines to richer syntax, e.g. Trotta’s existential completion. We will describe a topos-theoretic framework for completing doctrines to subfragments of geometric logic.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Thu, 13 Feb 2025 17:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2025-02-24.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
