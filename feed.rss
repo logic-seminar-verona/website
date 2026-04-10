@@ -7,8 +7,33 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Thu, 12 Feb 2026 09:30:00 UT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 13:55:41 UT</lastBuildDate>
         <item>
+    <title>Logic Seminar</title>
+    <link>https://www.logicverona.it//2026-04-21.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2026-04-21.html>Logic Seminar</a></h1>
+    <section class="header">
+        April 10, 2026
+    </section>
+    <section>
+        <p>Tuesday, 21 April 2026, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde</a></p>
+<hr />
+<p>10:30</p>
+<p><a href="https://www.uniurb.it/persone/pierluigi-graziani">Pierluigi Graziani</a> (Università degli Studi di Urbino “Carlo Bo”)<br />
+</p>
+<p><em>Simplicity, Readability, and Interestingness: From Lemoine’s Geometrography to Wos’s 31st Problem</em></p>
+<p>Automated Theorem Proving (ATP) and Automated Theorem Finding (ATF) are well-established areas of mathematical research, rich in methods, results, and open problems. Among the questions that remain especially significant today are how to measure the simplicity of a proof, how to assess its readability, and how to evaluate the interestingness of a theorem. Each of these questions matters in its own right. In this talk, however, I will consider them specifically in relation to automated theorem proving and theorem finding in geometry. I will suggest that th…</p>
+<p><em>Page on the University of Verona website</em><br />
+<a href="https://www.di.univr.it/?ent=seminario&amp;id=6963">Link</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 10 Apr 2026 13:55:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2026-04-21.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Course: Advances in Algebra – Generalised Buchberger and Schreyer Algorithms for Coherent Rings</title>
     <link>https://www.logicverona.it//2026-03-23.html</link>
     <description><![CDATA[<article>
@@ -305,28 +330,6 @@ Friday 31st: 16:30-19:30 - Aula T.04 (3 hrs supplementary lectures)<br />
 ]]></description>
     <pubDate>Fri, 18 Apr 2025 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-05-PACMAN.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Computer Science Seminar</title>
-    <link>https://www.logicverona.it//2025-03-26.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2025-03-26.html>Computer Science Seminar</a></h1>
-    <section class="header">
-        March 19, 2025
-    </section>
-    <section>
-        <p>Wednesday, 26 March 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde</a></p>
-<hr />
-<p>16:00</p>
-<p><a href="https://www.unibo.it/sitoweb/simone.martini/">Simone Martini</a> (Università degli Studi di Bologna)</p>
-<p><em>Ascesa e declino del linguaggio totale: PL/I, Ada e i linguaggi estensibili, 1965-1980</em></p>
-<p>A cavallo tra gli anni sessanta e settanta ci sono stati tentativi di definire “un” linguaggio di programmazione “totale”, che si sarebbe imposto come unico, rendendo tutti gli altri obsoleti. Esempi di questi tentativi sono PL/I (IBM, 1965), Ada (USA DoD, 1980), ma anche i linguaggi estensibili dei primi anni settanta. Ripercorreremo alcuni momenti di quella vicenda, cercando di comprendere alcuni dei motivi che rendono impraticabile il (mito del) linguaggio totale. Che, anzi, è dannoso. La molteplicità dei linguaggi di programmazione è “il contrario di una maledizione”. È “un dono e una benedizione al di là di ogni immaginazione” (G. Steiner, Errata, 1997).</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 19 Mar 2025 17:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2025-03-26.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
