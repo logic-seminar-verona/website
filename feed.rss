@@ -7,8 +7,35 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 10 Apr 2026 13:55:41 UT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 16:30:00 UT</lastBuildDate>
         <item>
+    <title>Minicourse "Semantics and Proof Theory of Modal Logic"</title>
+    <link>https://www.logicverona.it//2026-11-02-course.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2026-11-02-course.html>Minicourse "Semantics and Proof Theory of Modal Logic"</a></h1>
+    <section class="header">
+        October 16, 2026
+    </section>
+    <section>
+        <p><strong>Semantics and Proof Theory of Modal Logic</strong><br />
+<a href="https://comp.anu.edu.au/people/dirk-pattinson/">Dirk Pattinson</a> (Australian National University)<br />
+November 2 – December 14, 2026</p>
+<p><em>Timetable</em><br />
+The minicourse is planned to take place from 15:30 to 18:30 every Monday afternoon from 2nd November to 14th December 2026, except Monday 7th December, for a total of 18 hours [3 ETCS, MATH-01/A.</p>
+<p><em>Venue</em><br />
+Università di Verona, Dipartimento di Informatica, Ca’ Vignal 2, strada Le Grazie 15, Verona (Borgo Roma).<br />
+(The lecture hall is yet to be given.) For updates and details please visit the course web site.</p>
+<p><em>Page on the University of Verona website</em><br />
+<a href="https://www.di.univr.it/?ent=seminario&amp;id=7102">Link</a></p>
+<p>Dirk Pattinson’s visit is funded by the University of Verona’s “Programma di Internazionalizzazione dell’Ateneo” (PIA).</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Fri, 16 Oct 2026 16:30:00 UT</pubDate>
+    <guid>https://www.logicverona.it//2026-11-02-course.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Department Seminar</title>
     <link>https://www.logicverona.it//2026-04-21.html</link>
     <description><![CDATA[<article>
@@ -277,28 +304,6 @@ Friday 31st: 16:30-19:30 - Aula T.04 (3 hrs supplementary lectures)<br />
 ]]></description>
     <pubDate>Fri, 18 Apr 2025 12:55:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-05-PACMAN.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>Computer Science Seminar</title>
-    <link>https://www.logicverona.it//2025-03-26.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2025-03-26.html>Computer Science Seminar</a></h1>
-    <section class="header">
-        March 19, 2025
-    </section>
-    <section>
-        <p>Wednesday, 26 March 2025, <a href="https://www.di.univr.it/?ent=luogo&amp;id=220">Sala Verde</a></p>
-<hr />
-<p>16:00</p>
-<p><a href="https://www.unibo.it/sitoweb/simone.martini/">Simone Martini</a> (Università degli Studi di Bologna)</p>
-<p><em>Ascesa e declino del linguaggio totale: PL/I, Ada e i linguaggi estensibili, 1965-1980</em></p>
-<p>A cavallo tra gli anni sessanta e settanta ci sono stati tentativi di definire “un” linguaggio di programmazione “totale”, che si sarebbe imposto come unico, rendendo tutti gli altri obsoleti. Esempi di questi tentativi sono PL/I (IBM, 1965), Ada (USA DoD, 1980), ma anche i linguaggi estensibili dei primi anni settanta. Ripercorreremo alcuni momenti di quella vicenda, cercando di comprendere alcuni dei motivi che rendono impraticabile il (mito del) linguaggio totale. Che, anzi, è dannoso. La molteplicità dei linguaggi di programmazione è “il contrario di una maledizione”. È “un dono e una benedizione al di là di ogni immaginazione” (G. Steiner, Errata, 1997).</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Wed, 19 Mar 2025 17:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2025-03-26.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
