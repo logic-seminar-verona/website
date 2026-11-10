@@ -7,8 +7,34 @@
         <description><![CDATA[Announcements of talks and workshops]]></description>
         <atom:link href="https://www.logicverona.it//feed.rss" rel="self"
                    type="application/rss+xml" />
-        <lastBuildDate>Fri, 16 Oct 2026 16:30:00 UT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 17:56:41 UT</lastBuildDate>
         <item>
+    <title>Department Seminar</title>
+    <link>https://www.logicverona.it//2026-12-02.html</link>
+    <description><![CDATA[<article>
+    <h1><a href=/2026-12-02.html>Department Seminar</a></h1>
+    <section class="header">
+        November 10, 2026
+    </section>
+    <section>
+        <p>Wednesday, 2 December 2026, <a href="https://www.di.univr.it/?ent=luogo&amp;id=29">Aula G</a></p>
+<hr />
+<p>16:30</p>
+<p><a href="https://comp.anu.edu.au/people/dirk-pattinson/">Dirk Pattinson</a> (Australian National University)<br />
+</p>
+<p><em>Computable functions, coinductively</em></p>
+<p>We investigate a representation of computable functions as total functions over the set of finite and infinite sequences of elements from {0,1}. In this model, infinite sequences are interpreted as non-terminating computations, while finite sequences represent the sum of their digits. We introduce a new definition principle, function space corecursion, which generalizes both minimization and primitive recursion. This defines the class of computable corecursive functions, which is closed under composition and function space corecursion. We prove that computable corecursive functions represent all partial recursive functions and demonstrate—by translating them into the untyped lambda calculus—that all such functions are indeed computable. Finally, we outline how this representation of computable functions can be further developed into an algebraic approach to computability and complexity.</p>
+<p>Prof. Pattinson currently is visiting professor within the University of Verona’s internationalisation programme PIA.</p>
+<p><em>Page on the University of Verona website</em><br />
+<a href="https://www.di.univr.it/?ent=seminario&amp;id=7149">Link</a>.</p>
+    </section>
+</article>
+]]></description>
+    <pubDate>Tue, 10 Nov 2026 17:56:41 UT</pubDate>
+    <guid>https://www.logicverona.it//2026-12-02.html</guid>
+    <dc:creator>Dipartimento di Informatica</dc:creator>
+</item>
+<item>
     <title>Minicourse "Semantics and Proof Theory of Modal Logic"</title>
     <link>https://www.logicverona.it//2026-11-02-course.html</link>
     <description><![CDATA[<article>
@@ -276,34 +302,6 @@ Friday 31st: 16:30-19:30 - Aula T.04 (3 hrs supplementary lectures)<br />
 ]]></description>
     <pubDate>Fri, 18 Apr 2025 12:58:41 UT</pubDate>
     <guid>https://www.logicverona.it//2025-09-CIRM.html</guid>
-    <dc:creator>Dipartimento di Informatica</dc:creator>
-</item>
-<item>
-    <title>SAVE THE DATE! PACM∧N Workshop</title>
-    <link>https://www.logicverona.it//2025-05-PACMAN.html</link>
-    <description><![CDATA[<article>
-    <h1><a href=/2025-05-PACMAN.html>SAVE THE DATE! PACM∧N Workshop</a></h1>
-    <section class="header">
-        April 18, 2025
-    </section>
-    <section>
-        <p><strong>Workshop on Proof, Argumentation, Computation, Modalities And Negation (PACM∧N)</strong></p>
-<p>A workshop on Proof, Argumentation, Computation, Modalities And Negation will be held from the 14th to the 16th of May 2025 in Rome, Italy.</p>
-<p>Scientific and organizing committee:<br />
-- Giulio Fellin (Università di Brescia)<br />
-- Roberto Maieli (Università Roma Tre)<br />
-- Sara Negri (Università di Genova)<br />
-- Peter Schuster (Università di Verona)<br />
-- Lorenzo Tortora de Falco (Università Roma Tre)<br />
-- Margherita Zorzi (Università di Verona)</p>
-<p>This workshop explores the intricate relationship between proof, argumentation, computation, modalities and negation. Participants will investigate sound proof construction, principles of persuasive argumentation, and the role of computation in formalising logical structures. The structured program, comprising expert presentations and interactive discussions, offers a formal venue for participants to advance their understanding of foundational concepts in the interdisciplinary domains of logic, mathematics, computer science, philosophy, and linguistics. We welcome participants to partake in this scholarly exploration, contributing to the collective intellectual progress within these domains.</p>
-<p>Location: <a href="https://architettura.uniroma3.it/dipartimento/dove-siamo/">Argiletum (Via della Madonna dei Monti, 40 – 00184 Roma)</a>.</p>
-<p>More details will be available on the <a href="https://sites.google.com/view/pacman2025-rome">workshop website</a>.</p>
-    </section>
-</article>
-]]></description>
-    <pubDate>Fri, 18 Apr 2025 12:55:41 UT</pubDate>
-    <guid>https://www.logicverona.it//2025-05-PACMAN.html</guid>
     <dc:creator>Dipartimento di Informatica</dc:creator>
 </item>
 
